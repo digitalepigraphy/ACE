@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Squeeze.xml"/>
+	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning.">
+		<source id="../References/MVA2010/Info.xml"/>
+	</field>
+	<field id="8" value="Jul. 14, 2016"/>
+	<field id="34" value="1314"/>
+	<field id="35" value="627"/>
+</record>

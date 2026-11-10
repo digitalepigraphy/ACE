@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="27" value="Squeeze (ectypum) of the inscription, made of latex."></field>
+	<field id="14" value="Latex"></field>
+	<field id="52" value="hh 5"></field>
+	<field id="26" value="CIL VI 10021 - squeeze EC0000029"></field>
+	<field id="47" value="EC0000029"></field>
+</record>

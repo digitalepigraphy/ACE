@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="27" value="Squeeze (ectypum) of the inscription, made of paper."></field>
+	<field id="14" value="Papier"></field>
+	<field id="52" value="[Kiste XV,5] [Blatt 004] Nr. 0088"></field>
+	<field id="26" value="CIL XV 2643 b - squeeze EC0012954"></field>
+	<field id="47" value="EC0012954"></field>
+</record>

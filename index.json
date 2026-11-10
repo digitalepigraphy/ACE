@@ -1,0 +1,4200 @@
+{
+  "Collection": "Corpus Inscriptionum Latinarum",
+  "URL": "https://digitalepigraphy.github.io/Epidaurica/",
+  "CiteAs": "Corpus Inscriptionum Latinarum, Berlin-Brandenburgische Akademie der Wissenschaften",
+  "Records": {
+    "EC0000025": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1126",
+      "Height": "487",
+      "Inscription": {
+        "Title": "CIL VI 7243",
+        "CIL Number": "VI 7243",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7243 cf. VI p. 3429 et VI p. 3852 = CLE 1089",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001678"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 7243 - squeeze EC0000025",
+        "Accession ID Number": "EC0000025"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000026": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "999",
+      "Height": "519",
+      "Inscription": {
+        "Title": "CIL VI 7193a",
+        "CIL Number": "VI 7193a",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7193a cf. VI p. 3429 et VI 33241 = CLE 1247",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001679"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 7193a - squeeze EC0000026",
+        "Accession ID Number": "EC0000026"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000027": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1001",
+      "Height": "600",
+      "Inscription": {
+        "Title": "CIL VI 7574",
+        "CIL Number": "VI 7574",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7574 cf. VI p. 3431 = CLE 1490 = Suppl. It. – Roma 2, 2691",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001680"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 7574 - squeeze EC0000027",
+        "Accession ID Number": "EC0000027"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000029": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1000",
+      "Height": "584",
+      "Inscription": {
+        "Title": "CIL VI 10021",
+        "CIL Number": "VI 10021",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 10021 cf. VI p. 3429 et VI p. 3896 = CLE 839",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001682"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 10021 - squeeze EC0000029",
+        "Accession ID Number": "EC0000029"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000030": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1285",
+      "Height": "618",
+      "Inscription": {
+        "Title": "CIL VI 10105",
+        "CIL Number": "VI 10105",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 10105 cf. VI p. 3492 et VI p. 3906 = ILS 5219 = CLE 823",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001683"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 10105 - squeeze EC0000030",
+        "Accession ID Number": "EC0000030"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000031": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1307",
+      "Height": "492",
+      "Inscription": {
+        "Title": "CIL VI 11357",
+        "CIL Number": "VI 11357",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 11357 cf. VI p. 3508 et VI p. 3911 = CLE 180 = ILS 8404",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001684"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 11357 - squeeze EC0000031",
+        "Accession ID Number": "EC0000031"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000032": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "878",
+      "Height": "831",
+      "Inscription": {
+        "Title": "CIL VI 12009",
+        "CIL Number": "VI 12009",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 12009 cf. VI p. 3509 = CLE 1218",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001685"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 12009 - squeeze EC0000032",
+        "Accession ID Number": "EC0000032"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000033": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "634",
+      "Height": "874",
+      "Inscription": {
+        "Title": "CIL VI 14578",
+        "CIL Number": "VI 14578",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 14578 cf. VI 34083 = CLE 502",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001686"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 14578 - squeeze EC0000033",
+        "Accession ID Number": "EC0000033"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000034": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "687",
+      "Height": "700",
+      "Inscription": {
+        "Title": "CIL VI 14618",
+        "CIL Number": "VI 14618",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 14618 cf. VI p. 3516 = CLE 1494",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001687"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 14618 - squeeze EC0000034",
+        "Accession ID Number": "EC0000034"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000035": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "593",
+      "Height": "903",
+      "Inscription": {
+        "Title": "CIL VI 19036",
+        "CIL Number": "VI 19036",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 19036 cf. VI p. 3523 = CLE 1646",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001688"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 19036 - squeeze EC0000035",
+        "Accession ID Number": "EC0000035"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000036": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "1174",
+      "Height": "469",
+      "Inscription": {
+        "Title": "CIL VI 19100",
+        "CIL Number": "VI 19100",
+        "Publication": "VI 19100 cf. CLE 162 adn.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001689"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 5",
+        "Title": "CIL VI 19100 - squeeze EC0000036",
+        "Accession ID Number": "EC0000036"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000037": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "1171",
+      "Height": "491",
+      "Inscription": {
+        "Title": "CIL VI 20466",
+        "CIL Number": "VI 20466",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 20466 cf. VI p. 3525 = CLE 1064",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001690"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 20466 - squeeze EC0000037",
+        "Accession ID Number": "EC0000037"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000039": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "1001",
+      "Height": "581",
+      "Inscription": {
+        "Title": "CIL VI 26623",
+        "CIL Number": "VI 26623",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 26623 cf. VI p. 3533 = VI 38923 = CLE 1816",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001692"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 26623 - squeeze EC0000039",
+        "Accession ID Number": "EC0000039"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000040": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "1204",
+      "Height": "617",
+      "Inscription": {
+        "Title": "CIL VI 22863",
+        "CIL Number": "VI 22863",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 22863 cf. VI p. 3528 cf. XI 101*, 181 = CLE 337",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001693"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 22863 - squeeze EC0000040",
+        "Accession ID Number": "EC0000040"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000041": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "586",
+      "Height": "998",
+      "Inscription": {
+        "Title": "CIL VI 26901 a",
+        "CIL Number": "VI 26901 a",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 26901 a cf. VI p. 3533 et XI 569*, 2 = CLE 172",
+        "Language": "Latin",
+        "Accession ID Number": "KO0052406"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 26901 a - squeeze EC0000041",
+        "Accession ID Number": "EC0000041"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000042": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "669",
+      "Height": "700",
+      "Inscription": {
+        "Title": "CIL VI 27278",
+        "CIL Number": "VI 27278",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 27278 cf. VI p. 3534 = CLE 389 cum add.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001695"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 27278 - squeeze EC0000042",
+        "Accession ID Number": "EC0000042"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000043": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "905",
+      "Height": "749",
+      "Inscription": {
+        "Title": "CIL VI 28695",
+        "CIL Number": "VI 28695",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 28695 cf. VI p. 3536 = CLE 1145",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001696"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 28695 - squeeze EC0000043",
+        "Accession ID Number": "EC0000043"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000044": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "879",
+      "Height": "808",
+      "Inscription": {
+        "Title": "CIL VI 29426",
+        "CIL Number": "VI 29426",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 29426 cf. VI p. 3536 = CLE 1164",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001697"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 29426 - squeeze EC0000044",
+        "Accession ID Number": "EC0000044"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000045": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "800",
+      "Height": "701",
+      "Inscription": {
+        "Title": "CIL VI 30152",
+        "CIL Number": "VI 30152",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30152 cf. VI p. 3736 = CLE 1645",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001698"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 30152 - squeeze EC0000045",
+        "Accession ID Number": "EC0000045"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000046": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "545",
+      "Height": "983",
+      "Inscription": {
+        "Title": "CIL VI 36537",
+        "CIL Number": "VI 36537",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 36537 cf. VI p. 3920 = CLE 2164 = ILS 8198 cf. AE 1991, 1375",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001699"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 36537 - squeeze EC0000046",
+        "Accession ID Number": "EC0000046"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000047": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 11, 2016",
+      "Width": "852",
+      "Height": "621",
+      "Inscription": {
+        "Title": "CIL VI 39444",
+        "CIL Number": "VI 39444",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "[VI 39444 Bang] cf. VI 4068 = CLE 1961 = ILS 9346 = AE 1996, 105",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001700"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 39444 - squeeze EC0000047",
+        "Accession ID Number": "EC0000047"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000048": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "807",
+      "Height": "599",
+      "Inscription": {
+        "Title": "CIL VI 39086a",
+        "CIL Number": "VI 39086a",
+        "Publication": "VI 39086a = ILS 9521 = ILCV 4986",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001701"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "CIL VI 39086a - squeeze EC0000048",
+        "Accession ID Number": "EC0000048"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000049": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 11, 2016",
+      "Width": "852",
+      "Height": "621",
+      "Inscription": {
+        "Title": "ICVR n. s. I 52",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "ICVR n. s. I 52 = ICVR n. s. IV 12631 = CLE 2291 = ILCV 4787",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001702"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 6",
+        "Title": "ICVR n. s. I 52 - squeeze EC0000049",
+        "Accession ID Number": "EC0000049"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000051": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 13, 2017",
+      "Width": "577",
+      "Height": "799",
+      "Inscription": {
+        "Title": "CIL VI 3566",
+        "CIL Number": "VI 3566",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 3566 = VI 7541 cf. VI p. 3407 = CLE 2161 = Suppl. It. – Roma 2, 2415; Engström 418",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001704"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "H 2 / A",
+        "Title": "CIL VI 3566 - squeeze EC0000051",
+        "Accession ID Number": "EC0000051"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000055": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 12, 2017",
+      "Width": "541",
+      "Height": "997",
+      "Inscription": {
+        "Title": "CIL VI 18086",
+        "CIL Number": "VI 18086",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 18086 cf. VI p. 3521 = CLE 1581 (pars prior = VI 1880* cf. VI p. 254*)",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001708"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "H 2 / A",
+        "Title": "CIL VI 18086 - squeeze EC0000055",
+        "Accession ID Number": "EC0000055"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000056": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Feb. 10, 2017",
+      "Width": "575",
+      "Height": "878",
+      "Inscription": {
+        "Title": "CIL VI 19049",
+        "CIL Number": "VI 19049",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 19049 cf. VI p. 3523 = ICVR n. s. V 13549 = CLE 545",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001709"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex. Part: pars dextra.",
+        "Material": "Latex",
+        "Folder": "H 2 / B",
+        "Title": "CIL VI 19049 - squeeze EC0000056",
+        "Accession ID Number": "EC0000056"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000058": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 13, 2017",
+      "Width": "993",
+      "Height": "575",
+      "Inscription": {
+        "Title": "CIL VI 30117",
+        "CIL Number": "VI 30117",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30117 cf. VI p. 3736 = CLE 1469",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001711"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "H 2 / B",
+        "Title": "CIL VI 30117 - squeeze EC0000058",
+        "Accession ID Number": "EC0000058"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000059": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 23, 2017",
+      "Width": "1199",
+      "Height": "422",
+      "Inscription": {
+        "Title": "CIL VI 30119",
+        "CIL Number": "VI 30119",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30119 cf. VI p. 3736 = CLE 367",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001712"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "H 2 / B",
+        "Title": "CIL VI 30119 - squeeze EC0000059",
+        "Accession ID Number": "EC0000059"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000065": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 13, 2017",
+      "Width": "1500",
+      "Height": "408",
+      "Inscription": {
+        "Title": "CIL VI 1754",
+        "CIL Number": "VI 1754",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 1754 cf. VI 31921 et VI p. 3813 et VI p. 4752 = CLE 1348 = ILS 1269",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001718"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 1 / A",
+        "Title": "CIL VI 1754 - squeeze EC0000065",
+        "Accession ID Number": "EC0000065"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000075": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "1700",
+      "Height": "339",
+      "Inscription": {
+        "Title": "CIL VI 18209",
+        "CIL Number": "VI 18209",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 18209 cf. VI p. 3522 = CLE 1077 = Suppl. It. – Roma 1, 577",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001728"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 18209 - squeeze EC0000075",
+        "Accession ID Number": "EC0000075"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000077": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "800",
+      "Height": "1090",
+      "Inscription": {
+        "Title": "CIL VI 16059",
+        "CIL Number": "VI 16059",
+        "Publication": "VI 16059 cf. VI p. 3518 cf. XI 101*, 62 cf. CLE 175 adn.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001730"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 16059 - squeeze EC0000077",
+        "Accession ID Number": "EC0000077"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000078": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 11, 2016",
+      "Width": "857",
+      "Height": "919",
+      "Inscription": {
+        "Title": "CIL VI 14295",
+        "CIL Number": "VI 14295",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 14295 cf. VI p. 3515 = CLE 1462",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001731"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 14295 - squeeze EC0000078",
+        "Accession ID Number": "EC0000078"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000079": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "1038",
+      "Height": "556",
+      "Inscription": {
+        "Title": "CIL VI 13735",
+        "CIL Number": "VI 13735",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 13735 cf. VI p. 3513 = CLE 533",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001732"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 13735 - squeeze EC0000079",
+        "Accession ID Number": "EC0000079"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000081": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 14, 2016",
+      "Width": "891",
+      "Height": "571",
+      "Inscription": {
+        "Title": "CIL VI 12652 b",
+        "CIL Number": "VI 12652 b",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 12652 b cf. VI p. 3511 et VI p. 3911 = CLE 995 adn. = IG XIV 1892 b = Suppl. It. – Roma 1, 39 (1)",
+        "Language": "Greek, Latin",
+        "Accession ID Number": "KO0001734"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 12652 b - squeeze EC0000081",
+        "Accession ID Number": "EC0000081"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000082": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 23, 2017",
+      "Width": "515",
+      "Height": "1371",
+      "Inscription": {
+        "Title": "CIL VI 12652 a",
+        "CIL Number": "VI 12652 a",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 12652 a cf. VI p. 3511 et VI p. 3911 = CLE 995 B = IG XIV 1892 c = Suppl. It. – Roma 1, 39 (3)",
+        "Language": "Greek, Latin",
+        "Accession ID Number": "KO0001735"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 12652 a - squeeze EC0000082",
+        "Accession ID Number": "EC0000082"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000083": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "659",
+      "Height": "894",
+      "Inscription": {
+        "Title": "CIL VI 19874",
+        "CIL Number": "VI 19874",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 19874 cf. VI p. 3524 cf. XI 259*, 63 = CLE 1224",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001736"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 19874 - squeeze EC0000083",
+        "Accession ID Number": "EC0000083"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000084": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "1096",
+      "Height": "691",
+      "Inscription": {
+        "Title": "CIL VI 19055",
+        "CIL Number": "VI 19055",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 19055 cf. VI p. 3523 = CLE 495 = Suppl. It. – Roma 1, 903",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001737"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 2",
+        "Title": "CIL VI 19055 - squeeze EC0000084",
+        "Accession ID Number": "EC0000084"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000085": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "728",
+      "Height": "610",
+      "Inscription": {
+        "Title": "CIL VI 316",
+        "CIL Number": "VI 316",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 316 cf. VI 30735 et VI p. 3756 = CLE 869 = ILS 3404 = Suppl. It. – Roma 1, 216",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001738"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 316 - squeeze EC0000085",
+        "Accession ID Number": "EC0000085"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000086": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 11, 2016",
+      "Width": "842",
+      "Height": "683",
+      "Inscription": {
+        "Title": "CIL VI 313",
+        "CIL Number": "VI 313",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 313 cf. VI 30735 et VI p. 3756 = ILS 3402 = CLE 228 = Suppl. It. – Roma 2, 2811",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001739"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 313 - squeeze EC0000086",
+        "Accession ID Number": "EC0000086"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000089": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 14, 2016",
+      "Width": "865",
+      "Height": "1045",
+      "Inscription": {
+        "Title": "CIL VI 11592",
+        "CIL Number": "VI 11592",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 11592 cf. VI p. 3509 = CLE 146",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001742"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 11592 - squeeze EC0000089",
+        "Accession ID Number": "EC0000089"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000090": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 14, 2016",
+      "Width": "888",
+      "Height": "668",
+      "Inscription": {
+        "Title": "CIL VI 10081",
+        "CIL Number": "VI 10081",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 10081 cf. VI p. 3489 = CLE 1259 = Suppl. It. – Roma 1, 2068",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001743"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 10081 - squeeze EC0000090",
+        "Accession ID Number": "EC0000090"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000091": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "943",
+      "Height": "669",
+      "Inscription": {
+        "Title": "CIL VI 7886",
+        "CIL Number": "VI 7886",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7886 cf. VI p. 3439 cf. V 429*, 134 = CLE 1143",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001744"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 7886 - squeeze EC0000091",
+        "Accession ID Number": "EC0000091"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000092": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 14, 2016",
+      "Width": "2001",
+      "Height": "219",
+      "Inscription": {
+        "Title": "CIL VI 7233",
+        "CIL Number": "VI 7233",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7233 = VI 30677 cf. VI p. 3429 et VI p. 3752 = CLE 831 = Suppl. It. – Roma 1, 1480 cf. AE 1992, 92, 53",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001745"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 7233 - squeeze EC0000092",
+        "Accession ID Number": "EC0000092"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000093": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 14, 2016",
+      "Width": "800",
+      "Height": "1090",
+      "Inscription": {
+        "Title": "CIL VI 555",
+        "CIL Number": "VI 555",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 555 cf. VI p. 3005 et VI p. 3757 = CLE 266 = Suppl. It. – Roma 1, 114 cf. AE 1992, 92, 4",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001746"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 1",
+        "Title": "CIL VI 555 - squeeze EC0000093",
+        "Accession ID Number": "EC0000093"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000098": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "646",
+      "Height": "845",
+      "Inscription": {
+        "Title": "CIL VI 32755",
+        "CIL Number": "VI 32755",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 32755 v. 1–9 = CLE 1264",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001751"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 32755 - squeeze EC0000098",
+        "Accession ID Number": "EC0000098"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000099": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "701",
+      "Height": "701",
+      "Inscription": {
+        "Title": "CIL VI 32755",
+        "CIL Number": "VI 32755",
+        "Publication": "VI 32755 v. 10–15",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001752"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 32755 - squeeze EC0000099",
+        "Accession ID Number": "EC0000099"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000100": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "606",
+      "Height": "836",
+      "Inscription": {
+        "Title": "CIL VI 33903",
+        "CIL Number": "VI 33903",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 33903 cf. VI p. 3896 = CLE 1249 = ILS 1849 = Suppl. It. – Roma 1, 107",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001753"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 33903 - squeeze EC0000100",
+        "Accession ID Number": "EC0000100"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000101": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "900",
+      "Height": "773",
+      "Inscription": {
+        "Title": "CIL VI 35423",
+        "CIL Number": "VI 35423",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 35423 = CLE 2223",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001754"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 35423 - squeeze EC0000101",
+        "Accession ID Number": "EC0000101"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000102": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 20, 2016",
+      "Width": "1197",
+      "Height": "752",
+      "Inscription": {
+        "Title": "CIL VI 35769",
+        "CIL Number": "VI 35769",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 35769 cf. XI 26*, 41 = CLE 1994 = Engström 189",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001755"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 35769 - squeeze EC0000102",
+        "Accession ID Number": "EC0000102"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000103": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "564",
+      "Height": "993",
+      "Inscription": {
+        "Title": "CIL VI 36278",
+        "CIL Number": "VI 36278",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 36278 = CLE 2000",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001756"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL VI 36278 - squeeze EC0000103",
+        "Accession ID Number": "EC0000103"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000104": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "974",
+      "Height": "536",
+      "Inscription": {
+        "Title": "CLE 2177",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "CLE 2177",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001757"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CLE 2177 - squeeze EC0000104",
+        "Accession ID Number": "EC0000104"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000105": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "908",
+      "Height": "508",
+      "Inscription": {
+        "Title": "CIL XI 4010",
+        "CIL Number": "XI 4010",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "XI 4010 cf. XI p. 1359 = CLE 120",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001758"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "CIL XI 4010 - squeeze EC0000105",
+        "Accession ID Number": "EC0000105"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000106": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "804",
+      "Height": "989",
+      "Inscription": {
+        "Title": "Sched. XVIII/1, 1059",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "Sched. XVIII/1, 1059",
+        "Language": "Latin",
+        "Accession ID Number": "KO0096850"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "Sched. XVIII/1, 1059 - squeeze EC0000106",
+        "Accession ID Number": "EC0000106"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000107": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "732",
+      "Height": "653",
+      "Inscription": {
+        "Title": "NS 1931 p. 321 n. 3",
+        "Publication": "NS 1931 p. 321 n. 3",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001760"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "NS 1931 p. 321 n. 3 - squeeze EC0000107",
+        "Accession ID Number": "EC0000107"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000108": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "686",
+      "Height": "867",
+      "Inscription": {
+        "Title": "Sched. XVIII/1, 1058",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "Sched. XVIII/1, 1058",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127362"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "Sched. XVIII/1, 1058 - squeeze EC0000108",
+        "Accession ID Number": "EC0000108"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000109": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 21, 2016",
+      "Width": "1204",
+      "Height": "609",
+      "Inscription": {
+        "Title": "Sched. XVIII/1, 0442",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "Sched. XVIII/1, 0442",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127363"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 4",
+        "Title": "Sched. XVIII/1, 0442 - squeeze EC0000109",
+        "Accession ID Number": "EC0000109"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000110": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "900",
+      "Height": "591",
+      "Inscription": {
+        "Title": "CIL VI 20370",
+        "CIL Number": "VI 20370",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 20370 cf. VI 34130 et VI p. 3915 = CLE 1544 (RS = VI 20371)",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001763"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 20370 - squeeze EC0000110",
+        "Accession ID Number": "EC0000110"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000111": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "879",
+      "Height": "589",
+      "Inscription": {
+        "Title": "CIL VI 22215",
+        "CIL Number": "VI 22215",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 22215 cf. VI p. 3527 = CLE 801 = Suppl. It. – Roma 1, 1710",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001764"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 22215 - squeeze EC0000111",
+        "Accession ID Number": "EC0000111"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000112": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "728",
+      "Height": "732",
+      "Inscription": {
+        "Title": "CIL VI 22321",
+        "CIL Number": "VI 22321",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 22321 cf. VI p. 3527 = CLE 1220 = Suppl. It. – Roma 1, 1148",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001765"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 22321 - squeeze EC0000112",
+        "Accession ID Number": "EC0000112"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000113": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 22, 2016",
+      "Width": "761",
+      "Height": "721",
+      "Inscription": {
+        "Title": "CIL VI 23730",
+        "CIL Number": "VI 23730",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 23730 cf. VI 34148a et VI p. 3917 cf. XI 156*, 38 = CLE 837 = ILS 8195b cf. Suppl. It. 11, 1993, 126",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001766"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 23730 - squeeze EC0000113",
+        "Accession ID Number": "EC0000113"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000114": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "1314",
+      "Height": "627",
+      "Inscription": {
+        "Title": "CIL VI 24368",
+        "CIL Number": "VI 24368",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 24368 cf. VI 34152 = CLE 1097",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001767"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 24368 - squeeze EC0000114",
+        "Accession ID Number": "EC0000114"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000115": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "803",
+      "Height": "561",
+      "Inscription": {
+        "Title": "CIL VI 25547",
+        "CIL Number": "VI 25547",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 25547 cf. VI p. 3532 cf. XI 156*, 39 = CLE 1293 cf. Suppl. It. 11, 1993, 126",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001768"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 25547 - squeeze EC0000115",
+        "Accession ID Number": "EC0000115"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000116": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "975",
+      "Height": "598",
+      "Inscription": {
+        "Title": "CIL VI 25570",
+        "CIL Number": "VI 25570",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 25570 cf. VI p. 3532 = CLE 1000",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001769"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 25570 - squeeze EC0000116",
+        "Accession ID Number": "EC0000116"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000117": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "798",
+      "Height": "868",
+      "Inscription": {
+        "Title": "CIL VI 28239",
+        "CIL Number": "VI 28239",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 28239 cf. VI p. 3535 cf. XI 124*, 4 = CLE 447 cf. CLE 805 adn.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001770"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 28239 - squeeze EC0000117",
+        "Accession ID Number": "EC0000117"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000118": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 14, 2016",
+      "Width": "822",
+      "Height": "769",
+      "Inscription": {
+        "Title": "CIL VI 30153",
+        "CIL Number": "VI 30153",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30153 cf. VI p. 3736 cf. V 429*, 139 = CLE 1689",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001771"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 30153 - squeeze EC0000118",
+        "Accession ID Number": "EC0000118"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000119": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Sep. 15, 2016",
+      "Width": "763",
+      "Height": "725",
+      "Inscription": {
+        "Title": "CIL VI 30484",
+        "CIL Number": "VI 30484",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30484 = VI 36710 cf. VI p. 4056 = CLE 1875 = ILCV 4774 = Engström 63",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001772"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "hh 3",
+        "Title": "CIL VI 30484 - squeeze EC0000119",
+        "Accession ID Number": "EC0000119"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000149": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 12, 2017",
+      "Width": "881",
+      "Height": "673",
+      "Inscription": {
+        "Title": "CIL VI 20908",
+        "CIL Number": "VI 20908",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 20908 cf. VI p. 3526 cf. XI 26*, 37 = CLE 1584",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001802"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "H 1 / A",
+        "Title": "CIL VI 20908 - squeeze EC0000149",
+        "Accession ID Number": "EC0000149"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000245": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "713",
+      "Height": "800",
+      "Inscription": {
+        "Title": "CIL VI 21521",
+        "CIL Number": "VI 21521",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 21521 cf. VI 34137 = CLE 1109",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008522"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 21521 - squeeze EC0000245",
+        "Accession ID Number": "EC0000245"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000246": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "1008",
+      "Height": "563",
+      "Inscription": {
+        "Title": "CIL VI 20128",
+        "CIL Number": "VI 20128",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 20128 cf. VI p. 3524 = CLE 1065",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008523"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 20128 - squeeze EC0000246",
+        "Accession ID Number": "EC0000246"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000247": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "713",
+      "Height": "669",
+      "Inscription": {
+        "Title": "CIL VI 26020",
+        "CIL Number": "VI 26020",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 26020 cf. VI p. 3532 = CLE 1013",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008524"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 26020 - squeeze EC0000247",
+        "Accession ID Number": "EC0000247"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000248": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "999",
+      "Height": "474",
+      "Inscription": {
+        "Title": "CIL VI 11464",
+        "CIL Number": "VI 11464",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 11464 cf. VI p. 3508 = CLE 1261",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008525"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 11464 - squeeze EC0000248",
+        "Accession ID Number": "EC0000248"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000249": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "964",
+      "Height": "616",
+      "Inscription": {
+        "Title": "CIL VI 30111",
+        "CIL Number": "VI 30111",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30111 cf. VI p. 3736 = CLE 1094",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008526"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 30111 - squeeze EC0000249",
+        "Accession ID Number": "EC0000249"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000250": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "1034",
+      "Height": "631",
+      "Inscription": {
+        "Title": "CIL VI 35508",
+        "CIL Number": "VI 35508",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 35508 = CLE 1294",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008527"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 35508 - squeeze EC0000250",
+        "Accession ID Number": "EC0000250"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000251": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "583",
+      "Height": "800",
+      "Inscription": {
+        "Title": "CIL VI 28523",
+        "CIL Number": "VI 28523",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 28523 cf. VI p. 3535 = CLE 1540",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008528"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / A",
+        "Title": "CIL VI 28523 - squeeze EC0000251",
+        "Accession ID Number": "EC0000251"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000252": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "1109",
+      "Height": "511",
+      "Inscription": {
+        "Title": "CIL VI 30553",
+        "CIL Number": "VI 30553",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 30553, 21 cf. VI p. 3751 = CLE 1775",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008529"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 30553 - squeeze EC0000252",
+        "Accession ID Number": "EC0000252"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000253": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "900",
+      "Height": "548",
+      "Inscription": {
+        "Title": "CIL VI 48",
+        "CIL Number": "VI 48",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 48 cf. VI p. 3003 et VI p. 3755 et VI p. 4099 = ILS 3375 = CLE 889",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008530"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 48 - squeeze EC0000253",
+        "Accession ID Number": "EC0000253"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000254": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "791",
+      "Height": "653",
+      "Inscription": {
+        "Title": "CIL VI 24792",
+        "CIL Number": "VI 24792",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 24792 cf. VI 34154 = CLE 1062",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008531"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / B",
+        "Title": "CIL VI 24792 - squeeze EC0000254",
+        "Accession ID Number": "EC0000254"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000255": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Nov. 24, 2016",
+      "Width": "800",
+      "Height": "671",
+      "Inscription": {
+        "Title": "CIL VI 7578",
+        "CIL Number": "VI 7578",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7578 cf. VI p. 3431 et VI p. 3852 = CLE 422",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008532"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 5 / A",
+        "Title": "CIL VI 7578 - squeeze EC0000255",
+        "Accession ID Number": "EC0000255"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000256": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "800",
+      "Height": "685",
+      "Inscription": {
+        "Title": "CIL VI 20450",
+        "CIL Number": "VI 20450",
+        "Publication": "VI 20450 cf. CLE 162 adn.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008533"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 20450 - squeeze EC0000256",
+        "Accession ID Number": "EC0000256"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000257": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "1100",
+      "Height": "529",
+      "Inscription": {
+        "Title": "CIL VI 7873",
+        "CIL Number": "VI 7873",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 7873 cf. VI p. 3439 = CLE 1024",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008534"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 7873 - squeeze EC0000257",
+        "Accession ID Number": "EC0000257"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000258": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "605",
+      "Height": "789",
+      "Inscription": {
+        "Title": "CIL VI 22413",
+        "CIL Number": "VI 22413",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 22413 cf. VI p. 3528 = CLE 1638",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008535"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 22413 - squeeze EC0000258",
+        "Accession ID Number": "EC0000258"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000259": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "894",
+      "Height": "558",
+      "Inscription": {
+        "Title": "CIL VI 23629",
+        "CIL Number": "VI 23629",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 23629 cf. VI p. 3529 = CLE 496",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008536"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 23629 - squeeze EC0000259",
+        "Accession ID Number": "EC0000259"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000260": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "671",
+      "Height": "728",
+      "Inscription": {
+        "Title": "CIL VI 15806 a",
+        "CIL Number": "VI 15806 a",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 15806 a = CLE 1090",
+        "Language": "Latin",
+        "Accession ID Number": "KO0052515"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 15806 a - squeeze EC0000260",
+        "Accession ID Number": "EC0000260"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000261": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "592",
+      "Height": "787",
+      "Inscription": {
+        "Title": "CIL VI 20679",
+        "CIL Number": "VI 20679",
+        "Publication": "VI 20679 = IG XIV 1711 = IGUR II 1, 634 cf. CLE 162 adn.",
+        "Language": "Greek, Latin",
+        "Accession ID Number": "KO0008538"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 20679 - squeeze EC0000261",
+        "Accession ID Number": "EC0000261"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000263": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "998",
+      "Height": "521",
+      "Inscription": {
+        "Title": "CIL VI 22377",
+        "CIL Number": "VI 22377",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 22377 cf. VI p. 3527 = CLE 1040",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008539"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 22377 - squeeze EC0000263",
+        "Accession ID Number": "EC0000263"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000264": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "891",
+      "Height": "739",
+      "Inscription": {
+        "Title": "CIL XIV 3535",
+        "CIL Number": "XIV 3535",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "XIV 3535 = CLE 879 = Inscr. It. IV 1, 35 cf. Inscr. It. IV 1 p. 208 cf. ILS 4874 adn. = Suppl. It. – Latium vetus 1, 934",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008540"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "CIL XIV 3535 - squeeze EC0000264",
+        "Accession ID Number": "EC0000264"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000265": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "598",
+      "Height": "887",
+      "Inscription": {
+        "Title": "CIL VI 8991",
+        "CIL Number": "VI 8991",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 8991 cf. VI p. 3463 et VI p. 3891 = CLE 101 = ILS 7741 = Suppl. It. – Roma 2, 2309",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008541"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "CIL VI 8991 - squeeze EC0000265",
+        "Accession ID Number": "EC0000265"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000266": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "628",
+      "Height": "799",
+      "Inscription": {
+        "Title": "CIL VI 2357",
+        "CIL Number": "VI 2357",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 2357 cf. VI p. 3318 = ILS 8204 = CLE 838 = Suppl. It. – Roma 2, 2645",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001832"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "CIL VI 2357 - squeeze EC0000266",
+        "Accession ID Number": "EC0000266"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000267": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "650",
+      "Height": "895",
+      "Inscription": {
+        "Title": "CIL VI 9604",
+        "CIL Number": "VI 9604",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 9604 cf. VI p. 3470 et VI p. 3895 = CLE 1253 = ILS 7800 = Suppl. It. – Roma 2, 2585",
+        "Language": "Latin",
+        "Accession ID Number": "KO0001816"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "CIL VI 9604 - squeeze EC0000267",
+        "Accession ID Number": "EC0000267"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000268": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 22, 2016",
+      "Width": "1196",
+      "Height": "481",
+      "Inscription": {
+        "Title": "AE 1947, 191",
+        "Publication": "AE 1947, 191 = AE 1948, 106",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008542"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "AE 1947, 191 - squeeze EC0000268",
+        "Accession ID Number": "EC0000268"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000269": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "694",
+      "Height": "680",
+      "Inscription": {
+        "Title": "CIL XIV 3869",
+        "CIL Number": "XIV 3869",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "XIV 3869 = CLE 1758 cf. EE IX p. 471 = Inscr. It. IV 1, 482 cf. Inscr. It. IV 1 p. 212 = Suppl. It. – Latium vetus 1, 933",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008543"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 3",
+        "Title": "CIL XIV 3869 - squeeze EC0000269",
+        "Accession ID Number": "EC0000269"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000270": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 22, 2016",
+      "Width": "798",
+      "Height": "745",
+      "Inscription": {
+        "Title": "CIL VI 24243",
+        "CIL Number": "VI 24243",
+        "Publication": "VI 24243 cf. VI p. 3917 cf. CLE 162 adn.",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008544"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 2",
+        "Title": "CIL VI 24243 - squeeze EC0000270",
+        "Accession ID Number": "EC0000270"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000271": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 22, 2016",
+      "Width": "1071",
+      "Height": "636",
+      "Inscription": {
+        "Title": "CIL VI 19175",
+        "CIL Number": "VI 19175",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 19175 cf. VI 34120 = CLE 1086",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008545"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 2",
+        "Title": "CIL VI 19175 - squeeze EC0000271",
+        "Accession ID Number": "EC0000271"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000272": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 22, 2016",
+      "Width": "717",
+      "Height": "581",
+      "Inscription": {
+        "Title": "CIL VI 13830",
+        "CIL Number": "VI 13830",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 13830 cf. VI p. 3514 et VI p. 3912 = CLE 497 = ILS 7990",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008546"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 2",
+        "Title": "CIL VI 13830 - squeeze EC0000272",
+        "Accession ID Number": "EC0000272"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000273": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 22, 2016",
+      "Width": "803",
+      "Height": "632",
+      "Inscription": {
+        "Title": "CIL VI 24758",
+        "CIL Number": "VI 24758",
+        "Publication": "VI 24758",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008547"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 2",
+        "Title": "CIL VI 24758 - squeeze EC0000273",
+        "Accession ID Number": "EC0000273"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000303": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jan. 12, 2017",
+      "Width": "538",
+      "Height": "1049",
+      "Inscription": {
+        "Title": "AE 1928, 72",
+        "Publication": "AE 1928, 72",
+        "Language": "Latin",
+        "Accession ID Number": "KO0008572"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription.",
+        "Folder": "H 2 / B",
+        "Title": "AE 1928, 72 - squeeze EC0000303",
+        "Accession ID Number": "EC0000303"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0000313": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Dec. 16, 2016",
+      "Width": "657",
+      "Height": "793",
+      "Inscription": {
+        "Title": "CIL VI 15806 b",
+        "CIL Number": "VI 15806 b",
+        "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
+        "Publication": "VI 15806 b = CLE 1090",
+        "Language": "Latin",
+        "Accession ID Number": "KO0052516"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of latex.",
+        "Material": "Latex",
+        "Folder": "HH 4",
+        "Title": "CIL VI 15806 b - squeeze EC0000313",
+        "Accession ID Number": "EC0000313"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012906": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1148",
+      "Height": "441",
+      "Inscription": {
+        "Title": "CIL XV 2971 a",
+        "CIL Number": "XV 2971 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2971 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127632"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0003",
+        "Title": "CIL XV 2971 a - squeeze EC0012906",
+        "Accession ID Number": "EC0012906"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012907": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1173",
+      "Height": "481",
+      "Inscription": {
+        "Title": "CIL XV 2919 d",
+        "CIL Number": "XV 2919 d",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2919 d",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127633"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0004",
+        "Title": "CIL XV 2919 d - squeeze EC0012907",
+        "Accession ID Number": "EC0012907"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012908": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1068",
+      "Height": "500",
+      "Inscription": {
+        "Title": "CIL XV 2756 a",
+        "CIL Number": "XV 2756 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2756 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127634"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0005",
+        "Title": "CIL XV 2756 a - squeeze EC0012908",
+        "Accession ID Number": "EC0012908"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012911": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1075",
+      "Height": "526",
+      "Inscription": {
+        "Title": "CIL XV 3045 b",
+        "CIL Number": "XV 3045 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3045 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127638"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0009",
+        "Title": "CIL XV 3045 b - squeeze EC0012911",
+        "Accession ID Number": "EC0012911"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012912": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1152",
+      "Height": "527",
+      "Inscription": {
+        "Title": "CIL XV 2629 a",
+        "CIL Number": "XV 2629 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2629 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127639"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0012",
+        "Title": "CIL XV 2629 a - squeeze EC0012912",
+        "Accession ID Number": "EC0012912"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012913": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "965",
+      "Height": "526",
+      "Inscription": {
+        "Title": "CIL XV 2630 c",
+        "CIL Number": "XV 2630 c",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2630 c",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127640"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0010",
+        "Title": "CIL XV 2630 c - squeeze EC0012913",
+        "Accession ID Number": "EC0012913"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012914": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "997",
+      "Height": "604",
+      "Inscription": {
+        "Title": "CIL XV 3045 e",
+        "CIL Number": "XV 3045 e",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3045 e",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127641"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0011",
+        "Title": "CIL XV 3045 e - squeeze EC0012914",
+        "Accession ID Number": "EC0012914"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012915": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1089",
+      "Height": "536",
+      "Inscription": {
+        "Title": "CIL XV 2971 b",
+        "CIL Number": "XV 2971 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2971 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127642"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0013",
+        "Title": "CIL XV 2971 b - squeeze EC0012915",
+        "Accession ID Number": "EC0012915"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012916": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1197",
+      "Height": "492",
+      "Inscription": {
+        "Title": "CIL XV 2835 c",
+        "CIL Number": "XV 2835 c",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2835 c",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127644"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0017",
+        "Title": "CIL XV 2835 c - squeeze EC0012916",
+        "Accession ID Number": "EC0012916"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012917": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 24, 2017",
+      "Width": "1097",
+      "Height": "495",
+      "Inscription": {
+        "Title": "CIL XV 2747 a",
+        "CIL Number": "XV 2747 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2747 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127646"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0021",
+        "Title": "CIL XV 2747 a - squeeze EC0012917",
+        "Accession ID Number": "EC0012917"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012918": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1213",
+      "Height": "517",
+      "Inscription": {
+        "Title": "CIL XV 3045 a",
+        "CIL Number": "XV 3045 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3045 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127647"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0023",
+        "Title": "CIL XV 3045 a - squeeze EC0012918",
+        "Accession ID Number": "EC0012918"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012919": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1179",
+      "Height": "439",
+      "Inscription": {
+        "Title": "CIL XV 2662 c",
+        "CIL Number": "XV 2662 c",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2662 c",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127648"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0025",
+        "Title": "CIL XV 2662 c - squeeze EC0012919",
+        "Accession ID Number": "EC0012919"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012920": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1084",
+      "Height": "514",
+      "Inscription": {
+        "Title": "CIL XV 2629 a",
+        "CIL Number": "XV 2629 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2629 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127639"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0026",
+        "Title": "CIL XV 2629 a - squeeze EC0012920",
+        "Accession ID Number": "EC0012920"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012921": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "999",
+      "Height": "579",
+      "Inscription": {
+        "Title": "CIL XV 3010 a",
+        "CIL Number": "XV 3010 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3010 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127649"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0027",
+        "Title": "CIL XV 3010 a - squeeze EC0012921",
+        "Accession ID Number": "EC0012921"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012922": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 25, 2017",
+      "Width": "1159",
+      "Height": "509",
+      "Inscription": {
+        "Title": "CIL XV 2571",
+        "CIL Number": "XV 2571",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2571",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127650"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0049",
+        "Title": "CIL XV 2571 - squeeze EC0012922",
+        "Accession ID Number": "EC0012922"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012923": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 25, 2017",
+      "Width": "1288",
+      "Height": "452",
+      "Inscription": {
+        "Title": "CIL XV 2586 a",
+        "CIL Number": "XV 2586 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2586 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127651"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0050",
+        "Title": "CIL XV 2586 a - squeeze EC0012923",
+        "Accession ID Number": "EC0012923"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012924": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 24, 2017",
+      "Width": "899",
+      "Height": "554",
+      "Inscription": {
+        "Title": "CIL XV 2748 b",
+        "CIL Number": "XV 2748 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2748 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127652"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0052",
+        "Title": "CIL XV 2748 b - squeeze EC0012924",
+        "Accession ID Number": "EC0012924"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012925": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 24, 2017",
+      "Width": "1219",
+      "Height": "467",
+      "Inscription": {
+        "Title": "CIL XV 3041 i",
+        "CIL Number": "XV 3041 i",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3041 i cf. EE IX p. 173 n. 424, 80",
+        "Language": "Latin",
+        "Accession ID Number": "KO0106867"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0053",
+        "Title": "CIL XV 3041 i - squeeze EC0012925",
+        "Accession ID Number": "EC0012925"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012926": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1055",
+      "Height": "532",
+      "Inscription": {
+        "Title": "CIL XV 3045 b",
+        "CIL Number": "XV 3045 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3045 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127638"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0028",
+        "Title": "CIL XV 3045 b - squeeze EC0012926",
+        "Accession ID Number": "EC0012926"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012927": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1198",
+      "Height": "468",
+      "Inscription": {
+        "Title": "CIL XV 2967 b",
+        "CIL Number": "XV 2967 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2967 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127654"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription.",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0030",
+        "Title": "CIL XV 2967 b - squeeze EC0012927",
+        "Accession ID Number": "EC0012927"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012928": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "948",
+      "Height": "560",
+      "Inscription": {
+        "Title": "CIL XV 2748 a",
+        "CIL Number": "XV 2748 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2748 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127653"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0031",
+        "Title": "CIL XV 2748 a - squeeze EC0012928",
+        "Accession ID Number": "EC0012928"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012929": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1184",
+      "Height": "433",
+      "Inscription": {
+        "Title": "CIL XV 2869 d",
+        "CIL Number": "XV 2869 d",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2869 d",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127655"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 002] Nr. 0038",
+        "Title": "CIL XV 2869 d - squeeze EC0012929",
+        "Accession ID Number": "EC0012929"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012930": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 24, 2017",
+      "Width": "1288",
+      "Height": "437",
+      "Inscription": {
+        "Title": "CIL XV 2863 e",
+        "CIL Number": "XV 2863 e",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2863 e",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127636"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0055",
+        "Title": "CIL XV 2863 e - squeeze EC0012930",
+        "Accession ID Number": "EC0012930"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012931": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1043",
+      "Height": "472",
+      "Inscription": {
+        "Title": "CIL XV 2833 s",
+        "CIL Number": "XV 2833 s",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2833 s",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127656"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0062",
+        "Title": "CIL XV 2833 s - squeeze EC0012931",
+        "Accession ID Number": "EC0012931"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012932": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1138",
+      "Height": "443",
+      "Inscription": {
+        "Title": "CIL XV 2886",
+        "CIL Number": "XV 2886",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2886",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127657"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0057",
+        "Title": "CIL XV 2886 - squeeze EC0012932",
+        "Accession ID Number": "EC0012932"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012933": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Aug. 25, 2017",
+      "Width": "1201",
+      "Height": "440",
+      "Inscription": {
+        "Title": "CIL XV 2864",
+        "CIL Number": "XV 2864",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2864",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127659"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0068",
+        "Title": "CIL XV 2864 - squeeze EC0012933",
+        "Accession ID Number": "EC0012933"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012934": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1049",
+      "Height": "557",
+      "Inscription": {
+        "Title": "CIL XV 2643 a",
+        "CIL Number": "XV 2643 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2643 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127660"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0089",
+        "Title": "CIL XV 2643 a - squeeze EC0012934",
+        "Accession ID Number": "EC0012934"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012935": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1379",
+      "Height": "389",
+      "Inscription": {
+        "Title": "CIL XV 3167 s",
+        "CIL Number": "XV 3167 s",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3167 s",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127661"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0092",
+        "Title": "CIL XV 3167 s - squeeze EC0012935",
+        "Accession ID Number": "EC0012935"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012936": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "879",
+      "Height": "653",
+      "Inscription": {
+        "Title": "CIL XV 2574 a",
+        "CIL Number": "XV 2574 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2574 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127662"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0093",
+        "Title": "CIL XV 2574 a - squeeze EC0012936",
+        "Accession ID Number": "EC0012936"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012937": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1184",
+      "Height": "441",
+      "Inscription": {
+        "Title": "CIL XV 2573",
+        "CIL Number": "XV 2573",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2573",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127663"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0094",
+        "Title": "CIL XV 2573 - squeeze EC0012937",
+        "Accession ID Number": "EC0012937"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012938": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1172",
+      "Height": "469",
+      "Inscription": {
+        "Title": "CIL XV 2573",
+        "CIL Number": "XV 2573",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2573",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127663"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0095",
+        "Title": "CIL XV 2573 - squeeze EC0012938",
+        "Accession ID Number": "EC0012938"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012939": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "971",
+      "Height": "549",
+      "Inscription": {
+        "Title": "CIL XV 2754 e",
+        "CIL Number": "XV 2754 e",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2754 e",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127664"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0100",
+        "Title": "CIL XV 2754 e - squeeze EC0012939",
+        "Accession ID Number": "EC0012939"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012941": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1016",
+      "Height": "541",
+      "Inscription": {
+        "Title": "CIL XV 3085 b",
+        "CIL Number": "XV 3085 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3085 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127666"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0102",
+        "Title": "CIL XV 3085 b - squeeze EC0012941",
+        "Accession ID Number": "EC0012941"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012942": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1085",
+      "Height": "552",
+      "Inscription": {
+        "Title": "CIL XV 2617",
+        "CIL Number": "XV 2617",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2617",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127667"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0107",
+        "Title": "CIL XV 2617 - squeeze EC0012942",
+        "Accession ID Number": "EC0012942"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012943": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "980",
+      "Height": "598",
+      "Inscription": {
+        "Title": "CIL XV 3129",
+        "CIL Number": "XV 3129",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3129",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127681"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0046",
+        "Title": "CIL XV 3129 - squeeze EC0012943",
+        "Accession ID Number": "EC0012943"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012944": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1355",
+      "Height": "376",
+      "Inscription": {
+        "Title": "CIL XV 2944",
+        "CIL Number": "XV 2944",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2944",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127682"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0047",
+        "Title": "CIL XV 2944 - squeeze EC0012944",
+        "Accession ID Number": "EC0012944"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012945": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1223",
+      "Height": "436",
+      "Inscription": {
+        "Title": "CIL XV 3094 f",
+        "CIL Number": "XV 3094 f",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3094 f",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127683"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0070",
+        "Title": "CIL XV 3094 f - squeeze EC0012945",
+        "Accession ID Number": "EC0012945"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012946": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1390",
+      "Height": "421",
+      "Inscription": {
+        "Title": "CIL XV 2595 a",
+        "CIL Number": "XV 2595 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2595 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127684"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0054",
+        "Title": "CIL XV 2595 a - squeeze EC0012946",
+        "Accession ID Number": "EC0012946"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012947": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "989",
+      "Height": "585",
+      "Inscription": {
+        "Title": "CIL XV 2777 a",
+        "CIL Number": "XV 2777 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2777 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127685"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0054",
+        "Title": "CIL XV 2777 a - squeeze EC0012947",
+        "Accession ID Number": "EC0012947"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012948": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "837",
+      "Height": "657",
+      "Inscription": {
+        "Title": "CIL XV 3169 b",
+        "CIL Number": "XV 3169 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3169 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127686"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0072",
+        "Title": "CIL XV 3169 b - squeeze EC0012948",
+        "Accession ID Number": "EC0012948"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012949": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "975",
+      "Height": "603",
+      "Inscription": {
+        "Title": "CIL XV 2840 a",
+        "CIL Number": "XV 2840 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2840 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127687"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0074",
+        "Title": "CIL XV 2840 a - squeeze EC0012949",
+        "Accession ID Number": "EC0012949"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012950": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1035",
+      "Height": "535",
+      "Inscription": {
+        "Title": "CIL XV 3107",
+        "CIL Number": "XV 3107",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3107",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127688"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0078",
+        "Title": "CIL XV 3107 - squeeze EC0012950",
+        "Accession ID Number": "EC0012950"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012951": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1162",
+      "Height": "487",
+      "Inscription": {
+        "Title": "CIL XV 2695",
+        "CIL Number": "XV 2695",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2695",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127689"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0082",
+        "Title": "CIL XV 2695 - squeeze EC0012951",
+        "Accession ID Number": "EC0012951"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012952": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1243",
+      "Height": "458",
+      "Inscription": {
+        "Title": "CIL XV 2919 a",
+        "CIL Number": "XV 2919 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2919 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127690"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0085",
+        "Title": "CIL XV 2919 a - squeeze EC0012952",
+        "Accession ID Number": "EC0012952"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012953": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1031",
+      "Height": "539",
+      "Inscription": {
+        "Title": "CIL XV 2788 c",
+        "CIL Number": "XV 2788 c",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2788 c",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127691"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0086",
+        "Title": "CIL XV 2788 c - squeeze EC0012953",
+        "Accession ID Number": "EC0012953"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012954": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 25, 2017",
+      "Width": "1109",
+      "Height": "459",
+      "Inscription": {
+        "Title": "CIL XV 2643 b",
+        "CIL Number": "XV 2643 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2643 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127692"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 004] Nr. 0088",
+        "Title": "CIL XV 2643 b - squeeze EC0012954",
+        "Accession ID Number": "EC0012954"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012955": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1279",
+      "Height": "410",
+      "Inscription": {
+        "Title": "CIL XV 2558 a",
+        "CIL Number": "XV 2558 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2558 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127694"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0113",
+        "Title": "CIL XV 2558 a - squeeze EC0012955",
+        "Accession ID Number": "EC0012955"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012956": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1337",
+      "Height": "460",
+      "Inscription": {
+        "Title": "CIL XV 2575 e",
+        "CIL Number": "XV 2575 e",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2575 e",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127695"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0114",
+        "Title": "CIL XV 2575 e - squeeze EC0012956",
+        "Accession ID Number": "EC0012956"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012957": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "791",
+      "Height": "522",
+      "Inscription": {
+        "Title": "CIL XV 2831 b",
+        "CIL Number": "XV 2831 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2831 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127696"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0115",
+        "Title": "CIL XV 2831 b - squeeze EC0012957",
+        "Accession ID Number": "EC0012957"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012958": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1281",
+      "Height": "390",
+      "Inscription": {
+        "Title": "CIL XV 2828 a",
+        "CIL Number": "XV 2828 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2828 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127697"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0116",
+        "Title": "CIL XV 2828 a - squeeze EC0012958",
+        "Accession ID Number": "EC0012958"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012959": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1190",
+      "Height": "505",
+      "Inscription": {
+        "Title": "CIL XV 3053",
+        "CIL Number": "XV 3053",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3053",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127698"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0117",
+        "Title": "CIL XV 3053 - squeeze EC0012959",
+        "Accession ID Number": "EC0012959"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012960": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1056",
+      "Height": "485",
+      "Inscription": {
+        "Title": "CIL XV 3100 c",
+        "CIL Number": "XV 3100 c",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3100 c",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127699"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0118",
+        "Title": "CIL XV 3100 c - squeeze EC0012960",
+        "Accession ID Number": "EC0012960"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012961": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1130",
+      "Height": "536",
+      "Inscription": {
+        "Title": "CIL XV 3114 a",
+        "CIL Number": "XV 3114 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3114 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127700"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0119",
+        "Title": "CIL XV 3114 a - squeeze EC0012961",
+        "Accession ID Number": "EC0012961"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012962": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1033",
+      "Height": "535",
+      "Inscription": {
+        "Title": "CIL XV 2863 f",
+        "CIL Number": "XV 2863 f",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2863 f",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127701"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0121",
+        "Title": "CIL XV 2863 f - squeeze EC0012962",
+        "Accession ID Number": "EC0012962"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012963": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1046",
+      "Height": "557",
+      "Inscription": {
+        "Title": "CIL XV 2947 e",
+        "CIL Number": "XV 2947 e",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2947 e",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127702"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0126",
+        "Title": "CIL XV 2947 e - squeeze EC0012963",
+        "Accession ID Number": "EC0012963"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012964": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1578",
+      "Height": "383",
+      "Inscription": {
+        "Title": "CIL XV 2594 a",
+        "CIL Number": "XV 2594 a",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2594 a",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127703"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0130",
+        "Title": "CIL XV 2594 a - squeeze EC0012964",
+        "Accession ID Number": "EC0012964"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012969": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1235",
+      "Height": "463",
+      "Inscription": {
+        "Title": "CIL XV 2669",
+        "CIL Number": "XV 2669",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2669",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127704"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0131",
+        "Title": "CIL XV 2669 - squeeze EC0012969",
+        "Accession ID Number": "EC0012969"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012970": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "962",
+      "Height": "576",
+      "Inscription": {
+        "Title": "CIL XV 2966 b",
+        "CIL Number": "XV 2966 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2966 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127709"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0133",
+        "Title": "CIL XV 2966 b - squeeze EC0012970",
+        "Accession ID Number": "EC0012970"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012971": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1366",
+      "Height": "416",
+      "Inscription": {
+        "Title": "CIL XV 2589 d",
+        "CIL Number": "XV 2589 d",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2589 d",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127710"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0135",
+        "Title": "CIL XV 2589 d - squeeze EC0012971",
+        "Accession ID Number": "EC0012971"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012972": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1295",
+      "Height": "409",
+      "Inscription": {
+        "Title": "CIL XV 2970",
+        "CIL Number": "XV 2970",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2970",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127711"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0137",
+        "Title": "CIL XV 2970 - squeeze EC0012972",
+        "Accession ID Number": "EC0012972"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012973": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1261",
+      "Height": "423",
+      "Inscription": {
+        "Title": "CIL XV 2833 t",
+        "CIL Number": "XV 2833 t",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2833 t",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127712"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0139",
+        "Title": "CIL XV 2833 t - squeeze EC0012973",
+        "Accession ID Number": "EC0012973"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012974": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1196",
+      "Height": "491",
+      "Inscription": {
+        "Title": "CIL XV 2833 s",
+        "CIL Number": "XV 2833 s",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2833 s",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127656"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 005] Nr. 0140",
+        "Title": "CIL XV 2833 s - squeeze EC0012974",
+        "Accession ID Number": "EC0012974"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012975": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1030",
+      "Height": "579",
+      "Inscription": {
+        "Title": "CIL XV 2748 b",
+        "CIL Number": "XV 2748 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2748 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127652"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 003] Nr. 0142",
+        "Title": "CIL XV 2748 b - squeeze EC0012975",
+        "Accession ID Number": "EC0012975"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012976": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "905",
+      "Height": "573",
+      "Inscription": {
+        "Title": "CIL XV 2966 b",
+        "CIL Number": "XV 2966 b",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 2966 b",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127709"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0143",
+        "Title": "CIL XV 2966 b - squeeze EC0012976",
+        "Accession ID Number": "EC0012976"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    },
+    "EC0012977": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Oct. 26, 2017",
+      "Width": "1167",
+      "Height": "478",
+      "Inscription": {
+        "Title": "CIL XV 3246",
+        "CIL Number": "XV 3246",
+        "Inscription type": "Instrumentum domesticum",
+        "Publication": "XV 3246",
+        "Language": "Latin",
+        "Accession ID Number": "KO0127713"
+      },
+      "Squeeze": {
+        "Description": "Squeeze (ectypum) of the inscription, made of paper.",
+        "Material": "Papier",
+        "Folder": "[Kiste XV,5] [Blatt 001] Nr. 0147",
+        "Title": "CIL XV 3246 - squeeze EC0012977",
+        "Accession ID Number": "EC0012977"
+      },
+      "Sources": [
+        {
+          "id": "../References/MVA2010/Info.xml"
+        }
+      ]
+    }
+  },
+  "Editors": {},
+  "Sources": {}
+}
