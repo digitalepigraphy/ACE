@@ -14,7 +14,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7243 cf. VI p. 3429 et VI p. 3852 = CLE 1089",
         "Language": "Latin",
-        "Accession ID Number": "KO0001678"
+        "Accession ID Number": "KO0001678",
+        "OCR": "CLYTIVS L L PHILE CLYTI L / HIC CLYTIVS CARVS CVNCTIS IVSTVSQVE PIVS[...] / [...] ET SVBITO [...] PRAEREPTVS ET / QVEM ME ET AMISSVM AETERNO TEMPORE [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -25,7 +26,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -40,7 +41,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7193a cf. VI p. 3429 et VI 33241 = CLE 1247",
         "Language": "Latin",
-        "Accession ID Number": "KO0001679"
+        "Accession ID Number": "KO0001679",
+        "OCR": "[...]ARTINVS [...] / [...] CONIVGE SVA VIXIT ANN XVIII / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -51,7 +53,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -66,7 +68,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7574 cf. VI p. 3431 = CLE 1490 = Suppl. It. – Roma 2, 2691",
         "Language": "Latin",
-        "Accession ID Number": "KO0001680"
+        "Accession ID Number": "KO0001680",
+        "OCR": "[...]QVOMODO / MALA IN ARBORE PENDVNT / SIC CORPORA NOSTRA / AVT MATVRA CADVNT AVT / CITO ACERVA RVVNT / DOMATIVS TIRAS / FILIAE DVLCISSIMAE"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -77,7 +80,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -92,7 +95,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 10021 cf. VI p. 3429 et VI p. 3896 = CLE 839",
         "Language": "Latin",
-        "Accession ID Number": "KO0001682"
+        "Accession ID Number": "KO0001682",
+        "OCR": "LAETVS ATHENAIS / LAETIA / DE CAPITOLIO / [...] / VITA BONA FVIT MORS EXITV / HONESTO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -103,7 +107,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -118,7 +122,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 10105 cf. VI p. 3492 et VI p. 3906 = ILS 5219 = CLE 823",
         "Language": "Latin",
-        "Accession ID Number": "KO0001683"
+        "Accession ID Number": "KO0001683",
+        "OCR": "MAN[...]VS M F ESQ / LONGINVS MACCVS VIXIT / DVLCISSVME [...] / C GAVIVS [...] VIX ANN VII / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -129,7 +134,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -144,7 +149,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 11357 cf. VI p. 3508 et VI p. 3911 = CLE 180 = ILS 8404",
         "Language": "Latin",
-        "Accession ID Number": "KO0001684"
+        "Accession ID Number": "KO0001684",
+        "OCR": "ALBIA DE HARCVLA VIXIT ANN / LVI CASTA FIDE MAGNA SEI / QVICQVAM SAPIVNT INFERI / VT OSSA EIVS QVAE HIC SITA / SVNT BENE QVIESCANT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -155,7 +161,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -170,7 +176,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 12009 cf. VI p. 3509 = CLE 1218",
         "Language": "Latin",
-        "Accession ID Number": "KO0001685"
+        "Accession ID Number": "KO0001685",
+        "OCR": "[...]IVM[...] / [...]INA MATE[...] / [...]TABVS / QVISQVIS ES HVC CO[...] / NOMEN HIC TITVLV[...] / PARENTVM PEREVN[...] / CRVDELI FVNERE RE[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -181,7 +188,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -196,7 +203,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 14578 cf. VI 34083 = CLE 502",
         "Language": "Latin",
-        "Accession ID Number": "KO0001686"
+        "Accession ID Number": "KO0001686",
+        "OCR": "D[...]S M / [...]ATILI FLORI / [...]A AFRICANA / [...]ISSIMO / [...] / [...]NOMINI / [...] / [...]FARE MORTE[...] / [...]SOROR[...] / [...]AMICI / [...]QVID MEA CARMIN[...] / [...]RECORQVE ROGO / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -207,7 +215,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -222,7 +230,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 14618 cf. VI p. 3516 = CLE 1494",
         "Language": "Latin",
-        "Accession ID Number": "KO0001687"
+        "Accession ID Number": "KO0001687",
+        "OCR": "DIS MAN / P CAVLIVS / SYNTROPHVS HIC / SITVS EST V AN L / SINE CRIMINE VITAE / VOS EGO NVNC MONEO / SEMPER QVI VIVITIS / AVARE NVDVS NATV[...] / FVERAS A MATRE / CREATVS NVDVS ERIS / OBITIS GRATIA NVLLA / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -233,7 +242,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -248,7 +257,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 19036 cf. VI p. 3523 = CLE 1646",
         "Language": "Latin",
-        "Accession ID Number": "KO0001688"
+        "Accession ID Number": "KO0001688",
+        "OCR": "[...]ANNA / [...]ARTI[...] / [...]QVAM MODO EX / [...]VM CONSVERVNT / ET VITOS MITTAS / [...] / [...]I M XI D XVII / [...]IN AGR[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -259,7 +269,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -273,7 +283,8 @@
         "CIL Number": "VI 19100",
         "Publication": "VI 19100 cf. CLE 162 adn.",
         "Language": "Latin",
-        "Accession ID Number": "KO0001689"
+        "Accession ID Number": "KO0001689",
+        "OCR": "GRANIA OLYMPIAS FEC / SIBI ET SVIS DIS M S / L MVSSIO PHILO DICVM QVO / VIX ANNIS XXX [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -284,7 +295,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -299,7 +310,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 20466 cf. VI p. 3525 = CLE 1064",
         "Language": "Latin",
-        "Accession ID Number": "KO0001690"
+        "Accession ID Number": "KO0001690",
+        "OCR": "IVLIA C L FELICVLA / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -310,7 +322,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -325,7 +337,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 26623 cf. VI p. 3533 = VI 38923 = CLE 1816",
         "Language": "Latin",
-        "Accession ID Number": "KO0001692"
+        "Accession ID Number": "KO0001692",
+        "OCR": "SOPHRON VIX ANNVM ET / SATVRNINA SOROR EIVS VIX / SOPHRON [...] PIETATIS PARVAE [...] / SATVRNINA SOROR [...] CARISSIMA NOSTRIS / XANTHVS ET AMILLA FILIS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -336,7 +349,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -351,7 +364,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 22863 cf. VI p. 3528 cf. XI 101*, 181 = CLE 337",
         "Language": "Latin",
-        "Accession ID Number": "KO0001693"
+        "Accession ID Number": "KO0001693",
+        "OCR": "DA PVR AS HIC / NAS IN EST"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -362,7 +376,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -377,7 +391,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 26901 a cf. VI p. 3533 et XI 569*, 2 = CLE 172",
         "Language": "Latin",
-        "Accession ID Number": "KO0052406"
+        "Accession ID Number": "KO0052406",
+        "OCR": "DIIS / MANIBVS / SVCCESSI FIL / CAESIA GEMELLA / MATER PIISSIMO / FILIO DE SVO / VIX ANN IX / M IIII DIEB XV / FATIS PERACTIS MATER / [...] EST CONDITA QVAE / [...] / VIX ANN [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -388,7 +403,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -403,7 +418,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 27278 cf. VI p. 3534 = CLE 389 cum add.",
         "Language": "Latin",
-        "Accession ID Number": "KO0001695"
+        "Accession ID Number": "KO0001695",
+        "OCR": "[...]VS L L TERTIVS / [...]S C L EVTYCHVS / C L FORTVNATA / [...]A FVI ET VIXI ET DIGNA / [...]S ET NIMIVM SVBITO FATALI / [...] HORA HIC EGO SECVRE TAQ[...] / [...]PER IGNES ET TV MORTAL[...] / [...]VM ESSE MEMENTO NA[...] / [...]OTIS EXCEDERE FATA / [...]STO SIT MO[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -414,7 +430,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -429,7 +445,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 28695 cf. VI p. 3536 = CLE 1145",
         "Language": "Latin",
-        "Accession ID Number": "KO0001696"
+        "Accession ID Number": "KO0001696",
+        "OCR": "[...]C PORPHYRIDI / [...]AETERIES[...]PARCAS / [...]ARE IACENTE / [...]IS MISERAE MEMBRA / [...]ACENTIS HVMO / [...]AE TOTTIENS LVGENDA ERIT QVOT[...] / [...]ESTE MEMORABILIS AETAS / [...]ERIPTA DOLVERE SIBI QVI TE / GENVERE PARENTES / NON NASCI MELIVS FVERAT QVAM / NVNC INDIGNA IACERE / OSSA CINIS FACTA EST IAM MOR[...] / [...]RES POSVERA PARENT[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -440,7 +457,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -455,7 +472,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 29426 cf. VI p. 3536 = CLE 1164",
         "Language": "Latin",
-        "Accession ID Number": "KO0001697"
+        "Accession ID Number": "KO0001697",
+        "OCR": "[...]A Q MARI Q[...] / [...]RERE SOLVM / [...] / [...]IVS[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -466,7 +484,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -481,7 +499,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30152 cf. VI p. 3736 = CLE 1645",
         "Language": "Latin",
-        "Accession ID Number": "KO0001698"
+        "Accession ID Number": "KO0001698",
+        "OCR": "[...] TVMVLO CAR[...] / [...]VNX QVAE NOMIN[...] / [...]NOVI VIRGO CASTVM / [...]SINE CRIMINE VITA[...] / [...]GRATA PARENTI SE[...] / [...]CONTIGIT ET[...] / [...]ESDV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -492,7 +511,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -507,7 +526,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 36537 cf. VI p. 3920 = CLE 2164 = ILS 8198 cf. AE 1991, 1375",
         "Language": "Latin",
-        "Accession ID Number": "KO0001699"
+        "Accession ID Number": "KO0001699",
+        "OCR": "D M S / L VIBI FELICIS HIC / SVPTVS POSITVS EST / MONEO TE LECTIS LIT / TERIS NE CONTEMNAS / ET VELIS TITVLVM MO / VERE ET CORPORI IN / IVRIAM FACERE SI / QVIS AVTEM SIBI AD / MISERIT NON BONO / SVO FECERIT ET SVPERS / ET INFER[...] IRATOS / HABEAT [...] / [...]RVPTO FVNDE[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -518,7 +538,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -533,7 +553,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "[VI 39444 Bang] cf. VI 4068 = CLE 1961 = ILS 9346 = AE 1996, 105",
         "Language": "Latin",
-        "Accession ID Number": "KO0001700"
+        "Accession ID Number": "KO0001700",
+        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -544,7 +565,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -558,7 +579,8 @@
         "CIL Number": "VI 39086a",
         "Publication": "VI 39086a = ILS 9521 = ILCV 4986",
         "Language": "Latin",
-        "Accession ID Number": "KO0001701"
+        "Accession ID Number": "KO0001701",
+        "OCR": "AMICI EGO VOS / HIC EXSPECTO / LEO NOMINE ET / SIGNO LEONTIVS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -569,7 +591,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -583,7 +605,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "ICVR n. s. I 52 = ICVR n. s. IV 12631 = CLE 2291 = ILCV 4787",
         "Language": "Latin",
-        "Accession ID Number": "KO0001702"
+        "Accession ID Number": "KO0001702",
+        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -594,7 +617,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -609,7 +632,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 3566 = VI 7541 cf. VI p. 3407 = CLE 2161 = Suppl. It. – Roma 2, 2415; Engström 418",
         "Language": "Latin",
-        "Accession ID Number": "KO0001704"
+        "Accession ID Number": "KO0001704",
+        "OCR": "HIC CVRA E[...] / [...]LLEBORVS[...] / A[...]NIVS[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -620,7 +644,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -635,7 +659,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 18086 cf. VI p. 3521 = CLE 1581 (pars prior = VI 1880* cf. VI p. 254*)",
         "Language": "Latin",
-        "Accession ID Number": "KO0001708"
+        "Accession ID Number": "KO0001708",
+        "OCR": "HIC EST REPOSITVS FELIX HER / MES QVEM FATVS LONGIVS / DVCERE NOLVIT QVI MALVIT ILLVC / EVM LINQVERE QVAM GRATIAS / REDDERE SVIS [...] / SOCIA SED DICEBAT NVTRIRE / BACCHILLVM SVMMAE SENEC / TAE DELVSIT [...] / NIMIVS ERAT BLANDVS AD ILLVM AVI / VMQVE SVVM ADLECTABAT VOCE / [...] CVNCTI VICINI DICEBANT / O DVLCE [...] / [...] IVVENES DE SVBITO ACCEPERVNT / SVI LVCTV PARENTES HIC TAMEN / IN BIENNIO VIXIT QVASI QVI VIXISSET / ET SEDECIM ANNIS TALIS ENIM / SENSVS ERAT ILLI QVASI PROPE / RANTES AD ORCVM ITAQVE / TIBI DICO QVI NESCIS DVLCE / VOCE DICERE FELIX NE VELLIS / [...] / MALE"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -646,7 +671,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -661,7 +686,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 19049 cf. VI p. 3523 = ICVR n. s. V 13549 = CLE 545",
         "Language": "Latin",
-        "Accession ID Number": "KO0001709"
+        "Accession ID Number": "KO0001709",
+        "OCR": "[...]NI ET DVRO / [...]E NOCTEM[...] / [...]ORSEDE / [...]A VDOR[...] / [...]VS [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex. Part: pars dextra.",
@@ -672,7 +698,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -687,7 +713,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30117 cf. VI p. 3736 = CLE 1469",
         "Language": "Latin",
-        "Accession ID Number": "KO0001711"
+        "Accession ID Number": "KO0001711",
+        "OCR": "TIBI VIVA VOLVPTAS / PARCE MANV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -698,7 +725,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -713,7 +740,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30119 cf. VI p. 3736 = CLE 367",
         "Language": "Latin",
-        "Accession ID Number": "KO0001712"
+        "Accession ID Number": "KO0001712",
+        "OCR": "ASPICITE HANC SPECIEM IVVENIS MISERABILIS HORA / QVOD LVCEM ERIPVIT CAROQVE VIRO DEDIT LVCTVM / HIC VOBEIS DIGNIS VNA MECVM DEDIT HOC MONVMENTVM / HAEC A VOBEIS MERITO DATA NOBIS PRAEMIA LAETOR / QVOD SPECIES NOSTRAS TITVLO DIGNAS ESSE [...] / [...] ROGO QVOD SEQVITVR SEMPER NOSTRI MEMINISSE VELI[...] / [...] CVRA VELIT VESTRA LAVDE TRIBVTVM [...] / [...]FATVM TVLERIT VNA EIVS MECVM CONDERE OSSA LOCO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -724,7 +752,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -739,7 +767,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 1754 cf. VI 31921 et VI p. 3813 et VI p. 4752 = CLE 1348 = ILS 1269",
         "Language": "Latin",
-        "Accession ID Number": "KO0001718"
+        "Accession ID Number": "KO0001718",
+        "OCR": "[...]HIC PERSO[...] / [...]DEDERAT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -750,7 +779,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -765,7 +794,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 18209 cf. VI p. 3522 = CLE 1077 = Suppl. It. – Roma 1, 577",
         "Language": "Latin",
-        "Accession ID Number": "KO0001728"
+        "Accession ID Number": "KO0001728",
+        "OCR": "CN FLAVIVS CN L SOSIA / CN FLAVIVS CN L APOLLONIV[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -776,7 +806,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -790,7 +820,8 @@
         "CIL Number": "VI 16059",
         "Publication": "VI 16059 cf. VI p. 3518 cf. XI 101*, 62 cf. CLE 175 adn.",
         "Language": "Latin",
-        "Accession ID Number": "KO0001730"
+        "Accession ID Number": "KO0001730",
+        "OCR": "DIS MANIBVS / SACRVM / COMMVNI / VIXIT ANNIS IIII M VI / ZOSIMO / VIXIT ANNO I M III / SOTERICHVS ET TYCHE / PARENTES / QVOD FACERE NATI / PARENTIBVS DEBVERANT / SVIS MORS IMMATVRA / FECIT VT FILIS / FACERENT PARENTES"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -801,7 +832,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -816,7 +847,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 14295 cf. VI p. 3515 = CLE 1462",
         "Language": "Latin",
-        "Accession ID Number": "KO0001731"
+        "Accession ID Number": "KO0001731",
+        "OCR": "D[...] / AMBICIVS TE[...] / LVCCEIA TYC[...] / LVCCEIVS SEC[...] / [...]FRVNT SIBI [...] / [...]ABVSQ POSTER[...] / [...]AE DEDERIS SIT[...] / [...]XXVI NAC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -827,7 +859,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -842,7 +874,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 13735 cf. VI p. 3513 = CLE 533",
         "Language": "Latin",
-        "Accession ID Number": "KO0001732"
+        "Accession ID Number": "KO0001732",
+        "OCR": "L CAECILIVS FELIX / FECIT SIBI CONIVGI / FILIS LIBERTIS SEXVS / VTRIVSQ ET POSTQVE / FVTVRIS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -853,7 +886,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -868,7 +901,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 12652 b cf. VI p. 3511 et VI p. 3911 = CLE 995 adn. = IG XIV 1892 b = Suppl. It. – Roma 1, 39 (1)",
         "Language": "Greek, Latin",
-        "Accession ID Number": "KO0001734"
+        "Accession ID Number": "KO0001734",
+        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / PERMISSV PATRONI / IN FRONTE LONGVM P V LATVM P IV"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -879,7 +913,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -894,7 +928,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 12652 a cf. VI p. 3511 et VI p. 3911 = CLE 995 B = IG XIV 1892 c = Suppl. It. – Roma 1, 39 (3)",
         "Language": "Greek, Latin",
-        "Accession ID Number": "KO0001735"
+        "Accession ID Number": "KO0001735",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -905,7 +940,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -920,7 +955,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 19874 cf. VI p. 3524 cf. XI 259*, 63 = CLE 1224",
         "Language": "Latin",
-        "Accession ID Number": "KO0001736"
+        "Accession ID Number": "KO0001736",
+        "OCR": "D M / FILIVS HIC SITVS EST / IVLI BASSI BASSIANVS / ANNOS QVI VIX X / ET XIIII SOLES / QVEM QVONIAM / MANES VI[...] MVNV / DI RA[...]VERVNT / NE CALCARE VELIS / NEC GRAVIS ESSE / LOCO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -931,7 +967,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -946,7 +982,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 19055 cf. VI p. 3523 = CLE 495 = Suppl. It. – Roma 1, 903",
         "Language": "Latin",
-        "Accession ID Number": "KO0001737"
+        "Accession ID Number": "KO0001737",
+        "OCR": "HOC IACET IN TVMVLO SECVRA GLYCONIS HONESTO / [...]S NOMINE [...] ANIMA QVOQVE [...] / [...] / [...] / [...] / [...]AMORE / DVLCE [...] / [...]GENERAVIT / DIGNA [...] BENIGNA / [...] QVO NOS FATA [...]VOCANT / [...] CHARITON CONIVGI B M F / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -957,7 +994,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -972,7 +1009,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 316 cf. VI 30735 et VI p. 3756 = CLE 869 = ILS 3404 = Suppl. It. – Roma 1, 216",
         "Language": "Latin",
-        "Accession ID Number": "KO0001738"
+        "Accession ID Number": "KO0001738",
+        "OCR": "ALCIDE SACRI GENERIS / DECVS HOC TIBI / PRAETOR / ET IOVIS ANTISTES / DEDICO PERPETVVS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -983,7 +1021,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -998,7 +1036,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 313 cf. VI 30735 et VI p. 3756 = ILS 3402 = CLE 228 = Suppl. It. – Roma 2, 2811",
         "Language": "Latin",
-        "Accession ID Number": "KO0001739"
+        "Accession ID Number": "KO0001739",
+        "OCR": "[...] HOC QVOD ONV[...] / [...]CAE ET GNATIB[...] / [...]VERITI FECISS[...] / [...]ITIS EVANDRIC[...] / [...]QVOD ANNIS HIC [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1009,7 +1048,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1024,7 +1063,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 11592 cf. VI p. 3509 = CLE 146",
         "Language": "Latin",
-        "Accession ID Number": "KO0001742"
+        "Accession ID Number": "KO0001742",
+        "OCR": "D M / AMPHIATAE [...] / [...]DANIA / [...]PRIMIGENIVS FECIT / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1035,7 +1075,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1050,7 +1090,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 10081 cf. VI p. 3489 = CLE 1259 = Suppl. It. – Roma 1, 2068",
         "Language": "Latin",
-        "Accession ID Number": "KO0001743"
+        "Accession ID Number": "KO0001743",
+        "OCR": "[...] / [...]RVS NICVS / [...]VCOTECHNITES / [...]SVIS SIBI DVM VIXIT FECIT / VBIQVE [...] BENE / [...]NICVS / SODALES HAVETE"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1061,7 +1102,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1076,7 +1117,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7886 cf. VI p. 3439 cf. V 429*, 134 = CLE 1143",
         "Language": "Latin",
-        "Accession ID Number": "KO0001744"
+        "Accession ID Number": "KO0001744",
+        "OCR": "NONVM POST DECIMVM CONPLERAS / NVBILIS ANNVM / VIBIA CRVDELI FVNERE RAPTA VIRO / DVM TIBI PROGENIES ANIMO DVM / FIDIS IN ILLA / HEV FACINVS VICIT [...] VOTA GRAVANT[...] / MOLLITER AD MATREM PLACIDI / DESCENDITE MANES / ELYSIIS CAMPIS FLOREAT VMBRA TIBI / MATEIVS EPAPHRODITVS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1087,7 +1129,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1102,7 +1144,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7233 = VI 30677 cf. VI p. 3429 et VI p. 3752 = CLE 831 = Suppl. It. – Roma 1, 1480 cf. AE 1992, 92, 53",
         "Language": "Latin",
-        "Accession ID Number": "KO0001745"
+        "Accession ID Number": "KO0001745",
+        "OCR": "[...]RTI ET CONSERVI MERITO POSIERVNT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1113,7 +1156,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1128,7 +1171,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 555 cf. VI p. 3005 et VI p. 3757 = CLE 266 = Suppl. It. – Roma 1, 114 cf. AE 1992, 92, 4",
         "Language": "Latin",
-        "Accession ID Number": "KO0001746"
+        "Accession ID Number": "KO0001746",
+        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]DANV DIONES SOLVENS / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1139,7 +1183,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1154,7 +1198,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 32755 v. 1–9 = CLE 1264",
         "Language": "Latin",
-        "Accession ID Number": "KO0001751"
+        "Accession ID Number": "KO0001751",
+        "OCR": "[...]OND / [...]TVS / [...]ATA / PER INDE[...] / [...]LIT ORA / DANVVI / PATRONO ET / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1165,7 +1210,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1179,7 +1224,8 @@
         "CIL Number": "VI 32755",
         "Publication": "VI 32755 v. 10–15",
         "Language": "Latin",
-        "Accession ID Number": "KO0001752"
+        "Accession ID Number": "KO0001752",
+        "OCR": "[...]ILARIO / [...] / FRATRI / PRO[...]VS / EVTYCHI / FECIT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1190,7 +1236,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1205,7 +1251,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 33903 cf. VI p. 3896 = CLE 1249 = ILS 1849 = Suppl. It. – Roma 1, 107",
         "Language": "Latin",
-        "Accession ID Number": "KO0001753"
+        "Accession ID Number": "KO0001753",
+        "OCR": "D M / C L HIC IACEO DIADVME / NVS ARTE POETA OLIM CAE / SAREIS FLORIDVS OFFICIIS / QVEM NVMQVAM CVPIDAE / POSSEDIT GLORIA FAMAE / SED SEMPER MODICVS REX / SIT VBIQVE TENOR [...] / [...]PATER VENI[...] / [...] HOSPITIVM / NOBISCVM [...] DOMVS / [...] / [...]FRVCTIANE[...] / B M F"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1216,7 +1263,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1231,7 +1278,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 35423 = CLE 2223",
         "Language": "Latin",
-        "Accession ID Number": "KO0001754"
+        "Accession ID Number": "KO0001754",
+        "OCR": "[...]M / [...]B ET P DE[...]PHOR[...] / [...]CRISPINE [...]CIOVENIA / [...]OST MVLTA TEMPOR[...] / [...]ILLORV[...] / [...]RVS ET[...] / [...]TES VIXIT A[...] / [...]A VIRIA CARI[...] / [...]S HAEC MELI[...] / [...]NAE QVIE[...] / [...]FILIV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1242,7 +1290,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1257,7 +1305,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 35769 cf. XI 26*, 41 = CLE 1994 = Engström 189",
         "Language": "Latin",
-        "Accession ID Number": "KO0001755"
+        "Accession ID Number": "KO0001755",
+        "OCR": "[...]M / [...]PVER [...] / [...]VS L XV [...] / [...]POSITVM [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1268,7 +1317,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1283,7 +1332,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 36278 = CLE 2000",
         "Language": "Latin",
-        "Accession ID Number": "KO0001756"
+        "Accession ID Number": "KO0001756",
+        "OCR": "[...]EST[...] / [...]IIA FILIA[...] / [...]AS DOLOR / [...]LVCTVSQVE / [...]ENTVM / [...]E VIXIT AN / VIIII MENS VI / BVI RVTILI[...] / [...]IVRVS ET / [...]DON PAREN[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1294,7 +1344,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1308,7 +1358,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "CLE 2177",
         "Language": "Latin",
-        "Accession ID Number": "KO0001757"
+        "Accession ID Number": "KO0001757",
+        "OCR": "DIS MANIBVS CATTI CIRMAVRI NOMINE ERAM / MAVRVS NONA AETATE [...] ANNOS VIXI XVI ET / MENSIS VII [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / SVO POSVIT ALVMNO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1319,7 +1370,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1334,7 +1385,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "XI 4010 cf. XI p. 1359 = CLE 120",
         "Language": "Latin",
-        "Accession ID Number": "KO0001758"
+        "Accession ID Number": "KO0001758",
+        "OCR": "M VITELLIVS [...] THEODOR[...] / BAEBIA [...] FAVSTA / M VITELLIVS M L [...]VRSOR / IVLIA [...] L RVFA / [...] / [...] / [...] CREDE [...] TIBI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1345,7 +1397,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1359,7 +1411,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 1059",
         "Language": "Latin",
-        "Accession ID Number": "KO0096850"
+        "Accession ID Number": "KO0096850",
+        "OCR": "SVPERBVS / [...]LEVIRVM / [...]TISTE / [...]IA FVIT / [...]RERE [...] / [...]LET / [...]VIT [...] ANN[...] / [...]POLLIS / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1370,7 +1423,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1383,7 +1436,8 @@
         "Title": "NS 1931 p. 321 n. 3",
         "Publication": "NS 1931 p. 321 n. 3",
         "Language": "Latin",
-        "Accession ID Number": "KO0001760"
+        "Accession ID Number": "KO0001760",
+        "OCR": "[...]EX QVO [...]NDVS HA[...] / MVSARVM MVNERA NO[...] / [...]A SOLVS AMICVS [...] / [...]ET QVEM TIBIA MAGN[...] / [...]MI CVNCTI PRAECLAR[...] / [...]M POPVLIS LVDOS [...] / [...]CESSE EX [...] / QVI VIXIT NOBILIS AN / NOS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1394,7 +1448,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1408,7 +1462,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 1058",
         "Language": "Latin",
-        "Accession ID Number": "KO0127362"
+        "Accession ID Number": "KO0127362",
+        "OCR": "CONCEN[...] / HOC [...] / [...] / [...] / [...] / [...] / [...]BENE[...] / HOS MOMENT[...] / [...] / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1419,7 +1474,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1433,7 +1488,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 0442",
         "Language": "Latin",
-        "Accession ID Number": "KO0127363"
+        "Accession ID Number": "KO0127363",
+        "OCR": "HVNC [...] VIVA POSVIT [...] / [...] / PIETATI CASTITATIQVE [...] / QVAE FELICITATIS BIS BINIS PARVOLIS [...] / MA[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1444,7 +1500,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1459,7 +1515,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 20370 cf. VI 34130 et VI p. 3915 = CLE 1544 (RS = VI 20371)",
         "Language": "Latin",
-        "Accession ID Number": "KO0001763"
+        "Accession ID Number": "KO0001763",
+        "OCR": "[...]C L AP[...] / [...]SVAVICVLA ANNORVM [...] / OLVPIVM APOLLONIDAM [...] / SVO ET PARENTIBVS [...] VIXIT [...] / ERIPITAM VIRO ET MATRI MATER [...] / [...] / [...] / [...] / [...] MATER [...] / TV QVI ADSTITISTI MEI MONVMENTI / AMBVLA ET TE ESSE HOMINEM FAC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1470,7 +1527,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1485,7 +1542,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 22215 cf. VI p. 3527 = CLE 801 = Suppl. It. – Roma 1, 1710",
         "Language": "Latin",
-        "Accession ID Number": "KO0001764"
+        "Accession ID Number": "KO0001764",
+        "OCR": "M MARIVS M L SA[...] / M MARIO M L TI[...] / SVO ET MARIAE M L FAV[...] / RVFO [...] CONSOLAT[...] / [...] / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1496,7 +1554,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1511,7 +1569,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 22321 cf. VI p. 3527 = CLE 1220 = Suppl. It. – Roma 1, 1148",
         "Language": "Latin",
-        "Accession ID Number": "KO0001765"
+        "Accession ID Number": "KO0001765",
+        "OCR": "D M S / MAXIMVS HIC RECVBO / DVLCISSIMVS INFANS BIMVLVS / IN TERTIVM ESCENDENS SIS / MIHI TERRA LEVIS DVLCIS / ERAM MATRI CARIOR / VSQVE PATRI FECERVNT / L PETRONIVS AMPLIATVS / ET MASONIA BRISEIS / FILIO DVLCISSIMO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1522,7 +1581,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1537,7 +1596,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 23730 cf. VI 34148a et VI p. 3917 cf. XI 156*, 38 = CLE 837 = ILS 8195b cf. Suppl. It. 11, 1993, 126",
         "Language": "Latin",
-        "Accession ID Number": "KO0001766"
+        "Accession ID Number": "KO0001766",
+        "OCR": "DIIS MAN / PALINVRO / L APONI VAL H / POSVIT TIPHVS / FRAT CARISSI / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1548,7 +1608,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1563,7 +1623,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 24368 cf. VI 34152 = CLE 1097",
         "Language": "Latin",
-        "Accession ID Number": "KO0001767"
+        "Accession ID Number": "KO0001767",
+        "OCR": "C POBLICIVS C L AM[...] / RVSTIA C L M[...] / C CLAVDIVS FAVSTVS VI[...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1574,7 +1635,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1589,7 +1650,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 25547 cf. VI p. 3532 cf. XI 156*, 39 = CLE 1293 cf. Suppl. It. 11, 1993, 126",
         "Language": "Latin",
-        "Accession ID Number": "KO0001768"
+        "Accession ID Number": "KO0001768",
+        "OCR": "D M / RVBRIAE POSTVMA / CONIVGI KARISSIMAE / CVM QVEM VIX AN XIIX / L HAEC CONIVNX POSVI / TIBI DONA MERENTI / HIC ERIT ET NOBIS / VNA ALIQVANDO DOMVS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1600,7 +1662,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1615,7 +1677,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 25570 cf. VI p. 3532 = CLE 1000",
         "Language": "Latin",
-        "Accession ID Number": "KO0001769"
+        "Accession ID Number": "KO0001769",
+        "OCR": "[...]FIONI RVTILIAE / SERVO DEDIT / C VEHILIVS ALBANVS / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1626,7 +1689,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1641,7 +1704,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 28239 cf. VI p. 3535 cf. XI 124*, 4 = CLE 447 cf. CLE 805 adn.",
         "Language": "Latin",
-        "Accession ID Number": "KO0001770"
+        "Accession ID Number": "KO0001770",
+        "OCR": "VALERIA NOVELLA MATER / HYPARCHIVS ALVMNVS / [...] / [...] / [...] / [...] / [...] / [...] / VALE [...] / MATER [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1652,7 +1716,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1667,7 +1731,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30153 cf. VI p. 3736 cf. V 429*, 139 = CLE 1689",
         "Language": "Latin",
-        "Accession ID Number": "KO0001771"
+        "Accession ID Number": "KO0001771",
+        "OCR": "[...] / QVOD MIHI TV IPSA M[...] / SENSVM FACILE DEDI HINC A[...] / QVIBVS IPSE ESSET MERITIS SE[...] / RE SOLEBAM ENIM IACET ME[...] / [...]VI VOS O AMANTES MIH[...] / [...]BONVS[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1678,7 +1743,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1693,7 +1758,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30484 = VI 36710 cf. VI p. 4056 = CLE 1875 = ILCV 4774 = Engström 63",
         "Language": "Latin",
-        "Accession ID Number": "KO0001772"
+        "Accession ID Number": "KO0001772",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1704,7 +1770,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1719,7 +1785,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 20908 cf. VI p. 3526 cf. XI 26*, 37 = CLE 1584",
         "Language": "Latin",
-        "Accession ID Number": "KO0001802"
+        "Accession ID Number": "KO0001802",
+        "OCR": "D M / IVNIA SABINA CONIVX / INCOMPARABILIS [...]PIENTIS / SIMA HIC QVIESCIT CVI BENE ME / RENTI DE SVIS SIBI [...] / TVS CONIVX ITEM MARATHO [...] CAL / LISTRATVS FILI FECERVNT ET HVNC / TITVLVM POSVERVNT PIETATIS HO / NOREM AETERNVM CONIVGI ET MATRI / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1730,7 +1797,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1745,7 +1812,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 21521 cf. VI 34137 = CLE 1109",
         "Language": "Latin",
-        "Accession ID Number": "KO0008522"
+        "Accession ID Number": "KO0008522",
+        "OCR": "[...] / [...]RA / [...]ET FREMIT PARCAR[...] / [...]CEMERE MIHI TRISTI[...] / [...]VERSARI [...] / [...]MEDIS SOLATVM [...]DESERTVM / [...]CLAMARE [...] / EX ACTA PROPE NOCTE SVOS C[...] / SPARGERET ET VOLVCRI[...] / VIDI SIDEREO RADIANTEM LVMI[...] / AETHERIDE LABI NON FV[...] / SED VERVS IVVENI COLOR ET S[...] / MAIOR ERAT[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1756,7 +1824,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1771,7 +1839,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 20128 cf. VI p. 3524 = CLE 1065",
         "Language": "Latin",
-        "Accession ID Number": "KO0008523"
+        "Accession ID Number": "KO0008523",
+        "OCR": "C IVLIVS SP F MAXIMVS / VIXIT ANNIS II MENSIBVS V / [...] / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1782,7 +1851,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1797,7 +1866,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 26020 cf. VI p. 3532 = CLE 1013",
         "Language": "Latin",
-        "Accession ID Number": "KO0008524"
+        "Accession ID Number": "KO0008524",
+        "OCR": "[...] / [...] / [...] / [...] / [...]PATRI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1808,7 +1878,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1823,7 +1893,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 11464 cf. VI p. 3508 = CLE 1261",
         "Language": "Latin",
-        "Accession ID Number": "KO0008525"
+        "Accession ID Number": "KO0008525",
+        "OCR": "C ALLIDIO HERMAE / QVI QVID QVID DIXIT / DVLCIS AMICIS ERAT / HVNC QVOQVE POST MORTEM / DEFLEMVS [...] AMICI / VIXIT ANNIS LX"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1834,7 +1905,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1849,7 +1920,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30111 cf. VI p. 3736 = CLE 1094",
         "Language": "Latin",
-        "Accession ID Number": "KO0008526"
+        "Accession ID Number": "KO0008526",
+        "OCR": "QVANDIVS VIXI QVAESIVI / NEC CESSAVI PERDERE / SEMPER / MORS INTERVENIT QVAE / FACIT VT AB VTROQVE / VACI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1860,7 +1932,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1875,7 +1947,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 35508 = CLE 1294",
         "Language": "Latin",
-        "Accession ID Number": "KO0008527"
+        "Accession ID Number": "KO0008527",
+        "OCR": "[...]VIXIT ANNOS XXIIX / [...]POSVIT SED FVNER FACER SO[...] / [...]ILIA MINOR / [...]FELICES [...] O LAPIS HIC BENE [...] / [...]TERRA MVTA [...] / IVCVNDAM ALTER[...] / SEMPER [...]QVOD[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1886,7 +1959,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1901,7 +1974,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 28523 cf. VI p. 3535 = CLE 1540",
         "Language": "Latin",
-        "Accession ID Number": "KO0008528"
+        "Accession ID Number": "KO0008528",
+        "OCR": "[...]MORTAL[...] / [...]SIC EQVAM VNDE / [...]SITA [...] VIXI / ANN L [...] / [...] / [...] / [...] / PIETATIS [...] / [...] / [...] / ET DOROTHEVS FECERVNT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1912,7 +1986,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1927,7 +2001,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 30553, 21 cf. VI p. 3751 = CLE 1775",
         "Language": "Latin",
-        "Accession ID Number": "KO0008529"
+        "Accession ID Number": "KO0008529",
+        "OCR": "[...]EN VIVIT EO QVI LEGIT / [...]IS CINERIS PROFV[...] / [...]MANV LVCEN[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1938,7 +2013,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1953,7 +2028,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 48 cf. VI p. 3003 et VI p. 3755 et VI p. 4099 = ILS 3375 = CLE 889",
         "Language": "Latin",
-        "Accession ID Number": "KO0008530"
+        "Accession ID Number": "KO0008530",
+        "OCR": "FECERAT [...] / QVEM [...] / [...]CONS[...] / [...]TVRI SAC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1964,7 +2040,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -1979,7 +2055,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 24792 cf. VI 34154 = CLE 1062",
         "Language": "Latin",
-        "Accession ID Number": "KO0008531"
+        "Accession ID Number": "KO0008531",
+        "OCR": "P ILLIVS LAENA[...] / [...]CAMVS FILIO V A XV[...] / [...]CINERES ALIVS LOCO / [...]ABET OSSA EFFICIES V[...] / [...]CRA SIC COLITVR"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1990,7 +2067,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2005,7 +2082,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7578 cf. VI p. 3431 et VI p. 3852 = CLE 422",
         "Language": "Latin",
-        "Accession ID Number": "KO0008532"
+        "Accession ID Number": "KO0008532",
+        "OCR": "HOC EGO SVM IN TVMVLO MARCIANA [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]FATA TVLISSENT / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]VIVAM SERVES CVNCTIS GENER[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2016,7 +2094,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2030,7 +2108,8 @@
         "CIL Number": "VI 20450",
         "Publication": "VI 20450 cf. CLE 162 adn.",
         "Language": "Latin",
-        "Accession ID Number": "KO0008533"
+        "Accession ID Number": "KO0008533",
+        "OCR": "DIS MAN SAC / IVLIA EVTYCHIA / VIX ANNIS XX / L CALPVRNIVS MELICHRVS / CONIVGI CARISSIMAE B M F / DE QVA NIHIL DOLVIT NISI MO[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2041,7 +2120,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2056,7 +2135,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 7873 cf. VI p. 3439 = CLE 1024",
         "Language": "Latin",
-        "Accession ID Number": "KO0008534"
+        "Accession ID Number": "KO0008534",
+        "OCR": "ASPHALE OCTAVIA / VIXIT ANN XXXIII / MENS VIII / HIC IACEO CONIVX [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2067,7 +2147,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2082,7 +2162,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 22413 cf. VI p. 3528 = CLE 1638",
         "Language": "Latin",
-        "Accession ID Number": "KO0008535"
+        "Accession ID Number": "KO0008535",
+        "OCR": "[...] / [...]E CONIVGIS[...] / [...]MAE ET MELICVRI[...] / [...]ME CHRONIVS[...] / [...]FELICI SSVAE FECI[...] / [...] / [...] / [...] / [...]NOS [...] HIC AN / [...] / [...] / [...] / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2093,7 +2174,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2108,7 +2189,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 23629 cf. VI p. 3529 = CLE 496",
         "Language": "Latin",
-        "Accession ID Number": "KO0008536"
+        "Accession ID Number": "KO0008536",
+        "OCR": "D M / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2119,7 +2201,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2134,7 +2216,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 15806 a = CLE 1090",
         "Language": "Latin",
-        "Accession ID Number": "KO0052515"
+        "Accession ID Number": "KO0052515",
+        "OCR": "[...]CLODIA D L / ELEGANS / VIX AN XXX / HIC CLODIA CARA / CVNCTIS IVSTISQVE PIIS / QVE EST SITA ET SVBITO / TEMPORE RAPTA ABIIT / QVE[...] ET AMISSAM / AETERNO TEMPORE / CONIVNX"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2145,7 +2228,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2159,7 +2242,8 @@
         "CIL Number": "VI 20679",
         "Publication": "VI 20679 = IG XIV 1711 = IGUR II 1, 634 cf. CLE 162 adn.",
         "Language": "Greek, Latin",
-        "Accession ID Number": "KO0008538"
+        "Accession ID Number": "KO0008538",
+        "OCR": "D M S / IVLIAE SEVERAE FIL[...] / [...] / IN OMNIBVS [...] / VITAE SVAE [...] / SEVERVS AVG LIB / FECIT CONIVGI OPTV / MAE CVM QVA VIXIT / ANNIS [...] DE QVA NI / HIL CONQVESTVS EST / NISI QVOD CELERI FATO / INTERCEPTA SIT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2170,7 +2254,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2185,7 +2269,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 22377 cf. VI p. 3527 = CLE 1040",
         "Language": "Latin",
-        "Accession ID Number": "KO0008539"
+        "Accession ID Number": "KO0008539",
+        "OCR": "[...]MMIA [...] / [...] / [...] / [...] / [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2196,7 +2281,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2211,7 +2296,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "XIV 3535 = CLE 879 = Inscr. It. IV 1, 35 cf. Inscr. It. IV 1 p. 208 cf. ILS 4874 adn. = Suppl. It. – Latium vetus 1, 934",
         "Language": "Latin",
-        "Accession ID Number": "KO0008540"
+        "Accession ID Number": "KO0008540",
+        "OCR": "[...]VOS ET BELENO IARA [...] / [...]NONANTINVS ET QVOQVE [...] / [...]S SIC VI[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2222,7 +2308,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2237,7 +2323,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 8991 cf. VI p. 3463 et VI p. 3891 = CLE 101 = ILS 7741 = Suppl. It. – Roma 2, 2309",
         "Language": "Latin",
-        "Accession ID Number": "KO0008541"
+        "Accession ID Number": "KO0008541",
+        "OCR": "L MARIVS L F / VITALIS / VIX AN XVII [...] / CONSVMMATVS [...] / [...] / [...] / VRBE [...] PRAETORIO / HADRIANI AVG CAESAR / VBI DVM EST [...] / [...]DERVNT [...] / QVI [...] TRADIDERVNT / HOC [...]OCO / MARIA MALCHIS MATER / INFELICISSIMA FILIO SANCTISSIMO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2248,7 +2335,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2263,7 +2350,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 2357 cf. VI p. 3318 = ILS 8204 = CLE 838 = Suppl. It. – Roma 2, 2645",
         "Language": "Latin",
-        "Accession ID Number": "KO0001832"
+        "Accession ID Number": "KO0001832",
+        "OCR": "DIS MANIBVS / IVLIAE FELICVLAE / CONIVGI BENE / MERENTI EIVS DE [...] / FILIO NEP [...] MATER / FECIT [...]VS PVBLIC / IVLIANVS [...] ET SVIS / POSTERISQVE [...] EORVM / HOSPES AD HVNC TVMVLVM / NE MIIAS OSSA PRECANTVR / TECTA HOMINIS [...] GRATVS / HOMO ES MISCE BIBE DA MI[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2274,7 +2362,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2289,7 +2377,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 9604 cf. VI p. 3470 et VI p. 3895 = CLE 1253 = ILS 7800 = Suppl. It. – Roma 2, 2585",
         "Language": "Latin",
-        "Accession ID Number": "KO0001816"
+        "Accession ID Number": "KO0001816",
+        "OCR": "NOMEN QVI RETINENS TV / MAGNVS ALEXANDER / PALLADOS INVENTVM / MEDICINALEMQ LABOREM / QVOT FECI STVDIO PRO / XIMVS IPSE MEO / TESTOR NVNC SVPEROS NON / HOC MERVISSE VIDEBAR / IN VOLNVS GENERIS QVOT / SVBITO OCCIDIMVS / NVNC ET DVBIA [...]ATORVM / NEC LEGE CLADES / CONIVNX QVOD POTVIT TITV / LVM MIHI REDDIDIT VNI / VALERIA VRSILLA"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2300,7 +2389,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2313,7 +2402,8 @@
         "Title": "AE 1947, 191",
         "Publication": "AE 1947, 191 = AE 1948, 106",
         "Language": "Latin",
-        "Accession ID Number": "KO0008542"
+        "Accession ID Number": "KO0008542",
+        "OCR": "HOMO BONVS INFANS ADQVE AMICVS OMNIBVS / HIC CONQVIESCIT ANIMA SVPERIS TRADITA / QVIN[...]PTVM LVMEN MENSI XI REDDIDIT / AMYMONE MATRE ET Q MARCILIO PATRE / NATVS QVIRINA ATHENODORVS ROMA DOMO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2324,7 +2414,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2339,7 +2429,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "XIV 3869 = CLE 1758 cf. EE IX p. 471 = Inscr. It. IV 1, 482 cf. Inscr. It. IV 1 p. 212 = Suppl. It. – Latium vetus 1, 933",
         "Language": "Latin",
-        "Accession ID Number": "KO0008543"
+        "Accession ID Number": "KO0008543",
+        "OCR": "HOC IACET IN TVMVLO / QVEM RAPVIT FA[...] / TER[...]BIS QVIN[...] / TRES SVPER [...] / HIC COLVIT SVPER[...] / ELIGERE QVI[...] / [...]ILLA [...] / [...] / [...]MOR[...] / [...]AL[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2350,7 +2441,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2364,7 +2455,8 @@
         "CIL Number": "VI 24243",
         "Publication": "VI 24243 cf. VI p. 3917 cf. CLE 162 adn.",
         "Language": "Latin",
-        "Accession ID Number": "KO0008544"
+        "Accession ID Number": "KO0008544",
+        "OCR": "D M S / PLAETORIAE / ANTIOCHIDI / RARISSIMAE FEMINAE / VIX ANN XXVI M III D XXVII / T FLAVIVS CAPITO / CONIVGI CASTISSIMAE / PIISSIMAE ET DE SE / OPTIME MERITAE / DE QVA NVLLVM DOLOREM / NISI ACERBISSIMAE MORTIS EIVS / ACCEPERAT DIGNISSIMAE FECIT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2375,7 +2467,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2390,7 +2482,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 19175 cf. VI 34120 = CLE 1086",
         "Language": "Latin",
-        "Accession ID Number": "KO0008545"
+        "Accession ID Number": "KO0008545",
+        "OCR": "HEDIA C L NARDIS VIX[...] / SI QVIS FORTE LEGIT TITVLVM NOMEN [...] / NARDINIS INVENIES OSSA SEPVLTA LO[...] / CARA VIRO NVNC [...] / MANET [...] / HELIADES CONIVGI BENE MEREN[...] / SI TANTVM MIHI FORTVNA LARGITA[...] / [...] OFFICIA [...] HOC TO[...] / DEM EA PAVPERIE FECI VI[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2401,7 +2494,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2416,7 +2509,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 13830 cf. VI p. 3514 et VI p. 3912 = CLE 497 = ILS 7990",
         "Language": "Latin",
-        "Accession ID Number": "KO0008546"
+        "Accession ID Number": "KO0008546",
+        "OCR": "CAECILIAE SEX L [...] / QVAE VIXIT AN XLVII M III / [...] / HIC OSSA SEPVLTA [...] / BLANDAE MEMORIAE QVIESC[...] / [...] / [...] / Q V F ET F [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2427,7 +2521,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2441,7 +2535,8 @@
         "CIL Number": "VI 24758",
         "Publication": "VI 24758",
         "Language": "Latin",
-        "Accession ID Number": "KO0008547"
+        "Accession ID Number": "KO0008547",
+        "OCR": "PONTIA D L / TRYPHERA / DVM VIXIT / PIA FVIT SVIS"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2452,7 +2547,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2465,7 +2560,8 @@
         "Title": "AE 1928, 72",
         "Publication": "AE 1928, 72",
         "Language": "Latin",
-        "Accession ID Number": "KO0008572"
+        "Accession ID Number": "KO0008572",
+        "OCR": "D[...] / SEX AVO[...] / MARTIA[...] / [...]STRA[...] / AVONIA PR[...] / CONIVX AVON[...] / E[...] / SEX AVON[...] / LIB PATRON[...] / MERENTI [...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription.",
@@ -2475,7 +2571,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2490,7 +2586,8 @@
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "VI 15806 b = CLE 1090",
         "Language": "Latin",
-        "Accession ID Number": "KO0052516"
+        "Accession ID Number": "KO0052516",
+        "OCR": "C MEMMIVS / C E D L MILO / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2501,7 +2598,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2516,7 +2613,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2971 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127632"
+        "Accession ID Number": "KO0127632",
+        "OCR": "PAL[...]FO[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2527,7 +2625,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2542,7 +2640,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2919 d",
         "Language": "Latin",
-        "Accession ID Number": "KO0127633"
+        "Accession ID Number": "KO0127633",
+        "OCR": "Q I A[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2553,7 +2652,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2568,7 +2667,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2756 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127634"
+        "Accession ID Number": "KO0127634",
+        "OCR": "Q G[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2579,7 +2679,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2594,7 +2694,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3045 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127638"
+        "Accession ID Number": "KO0127638",
+        "OCR": "[...]SN[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2605,7 +2706,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2620,7 +2721,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2629 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127639"
+        "Accession ID Number": "KO0127639",
+        "OCR": "VIRAV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2631,7 +2733,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2646,7 +2748,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2630 c",
         "Language": "Latin",
-        "Accession ID Number": "KO0127640"
+        "Accession ID Number": "KO0127640",
+        "OCR": "VIR[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2657,7 +2760,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2672,7 +2775,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3045 e",
         "Language": "Latin",
-        "Accession ID Number": "KO0127641"
+        "Accession ID Number": "KO0127641",
+        "OCR": "SNRG[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2683,7 +2787,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2698,7 +2802,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2971 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127642"
+        "Accession ID Number": "KO0127642",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2709,7 +2814,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2724,7 +2829,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2835 c",
         "Language": "Latin",
-        "Accession ID Number": "KO0127644"
+        "Accession ID Number": "KO0127644",
+        "OCR": "Q[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2735,7 +2841,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2750,7 +2856,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2747 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127646"
+        "Accession ID Number": "KO0127646",
+        "OCR": "[...]CERYC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2761,7 +2868,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2776,7 +2883,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3045 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127647"
+        "Accession ID Number": "KO0127647",
+        "OCR": "[...]S N RO"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2787,7 +2895,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2802,7 +2910,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2662 c",
         "Language": "Latin",
-        "Accession ID Number": "KO0127648"
+        "Accession ID Number": "KO0127648",
+        "OCR": "[...]ARP[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2813,7 +2922,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2828,7 +2937,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2629 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127639"
+        "Accession ID Number": "KO0127639",
+        "OCR": "VIRAV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2839,7 +2949,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2854,7 +2964,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3010 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127649"
+        "Accession ID Number": "KO0127649",
+        "OCR": "[...]MIS[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2865,7 +2976,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2880,7 +2991,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2571",
         "Language": "Latin",
-        "Accession ID Number": "KO0127650"
+        "Accession ID Number": "KO0127650",
+        "OCR": "TI AVREL HERACLA / [...]AT ET FILEC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2891,7 +3003,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2906,7 +3018,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2586 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127651"
+        "Accession ID Number": "KO0127651",
+        "OCR": "FAQVN[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2917,7 +3030,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2932,7 +3045,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2748 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127652"
+        "Accession ID Number": "KO0127652",
+        "OCR": "L C H[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2943,7 +3057,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2958,7 +3072,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3041 i cf. EE IX p. 173 n. 424, 80",
         "Language": "Latin",
-        "Accession ID Number": "KO0106867"
+        "Accession ID Number": "KO0106867",
+        "OCR": "[...]P NN"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2969,7 +3084,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -2984,7 +3099,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3045 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127638"
+        "Accession ID Number": "KO0127638",
+        "OCR": "SNR"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2995,7 +3111,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3010,7 +3126,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2967 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127654"
+        "Accession ID Number": "KO0127654",
+        "OCR": "[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription.",
@@ -3020,7 +3137,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3035,7 +3152,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2748 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127653"
+        "Accession ID Number": "KO0127653",
+        "OCR": "L CH"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3046,7 +3164,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3061,7 +3179,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2869 d",
         "Language": "Latin",
-        "Accession ID Number": "KO0127655"
+        "Accession ID Number": "KO0127655",
+        "OCR": "[...]ERSA SIP"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3072,7 +3191,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3087,7 +3206,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2863 e",
         "Language": "Latin",
-        "Accession ID Number": "KO0127636"
+        "Accession ID Number": "KO0127636",
+        "OCR": "[...]FA[...] F P"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3098,7 +3218,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3113,7 +3233,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2833 s",
         "Language": "Latin",
-        "Accession ID Number": "KO0127656"
+        "Accession ID Number": "KO0127656",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3124,7 +3245,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3139,7 +3260,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2886",
         "Language": "Latin",
-        "Accession ID Number": "KO0127657"
+        "Accession ID Number": "KO0127657",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3150,7 +3272,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3165,7 +3287,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2864",
         "Language": "Latin",
-        "Accession ID Number": "KO0127659"
+        "Accession ID Number": "KO0127659",
+        "OCR": "L M[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3176,7 +3299,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3191,7 +3314,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2643 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127660"
+        "Accession ID Number": "KO0127660",
+        "OCR": "[...]C A F"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3202,7 +3326,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3217,7 +3341,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3167 s",
         "Language": "Latin",
-        "Accession ID Number": "KO0127661"
+        "Accession ID Number": "KO0127661",
+        "OCR": "S[...]F CAVI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3228,7 +3353,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3243,7 +3368,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2574 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127662"
+        "Accession ID Number": "KO0127662",
+        "OCR": "[...] / [...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3254,7 +3380,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3269,7 +3395,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2573",
         "Language": "Latin",
-        "Accession ID Number": "KO0127663"
+        "Accession ID Number": "KO0127663",
+        "OCR": "F CRV"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3280,7 +3407,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3295,7 +3422,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2573",
         "Language": "Latin",
-        "Accession ID Number": "KO0127663"
+        "Accession ID Number": "KO0127663",
+        "OCR": "[...]E CAV"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3306,7 +3434,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3321,7 +3449,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2754 e",
         "Language": "Latin",
-        "Accession ID Number": "KO0127664"
+        "Accession ID Number": "KO0127664",
+        "OCR": "L C M"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3332,7 +3461,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3347,7 +3476,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3085 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127666"
+        "Accession ID Number": "KO0127666",
+        "OCR": "[...]ATERNI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3358,7 +3488,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3373,7 +3503,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2617",
         "Language": "Latin",
-        "Accession ID Number": "KO0127667"
+        "Accession ID Number": "KO0127667",
+        "OCR": "[...]MOCV / [...]PALMA"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3384,7 +3515,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3399,7 +3530,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3129",
         "Language": "Latin",
-        "Accession ID Number": "KO0127681"
+        "Accession ID Number": "KO0127681",
+        "OCR": "[...]RTV"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3410,7 +3542,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3425,7 +3557,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2944",
         "Language": "Latin",
-        "Accession ID Number": "KO0127682"
+        "Accession ID Number": "KO0127682",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3436,7 +3569,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3451,7 +3584,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3094 f",
         "Language": "Latin",
-        "Accession ID Number": "KO0127683"
+        "Accession ID Number": "KO0127683",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3462,7 +3596,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3477,7 +3611,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2595 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127684"
+        "Accession ID Number": "KO0127684",
+        "OCR": "L F C CV EX F"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3488,7 +3623,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3503,7 +3638,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2777 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127685"
+        "Accession ID Number": "KO0127685",
+        "OCR": "CAIS[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3514,7 +3650,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3529,7 +3665,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3169 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127686"
+        "Accession ID Number": "KO0127686",
+        "OCR": "[...]F SCH / [...]NIAN"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3540,7 +3677,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3555,7 +3692,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2840 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127687"
+        "Accession ID Number": "KO0127687",
+        "OCR": "D H[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3566,7 +3704,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3581,7 +3719,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3107",
         "Language": "Latin",
-        "Accession ID Number": "KO0127688"
+        "Accession ID Number": "KO0127688",
+        "OCR": "L C[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3592,7 +3731,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3607,7 +3746,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2695",
         "Language": "Latin",
-        "Accession ID Number": "KO0127689"
+        "Accession ID Number": "KO0127689",
+        "OCR": "F ALB LIC[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3618,7 +3758,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3633,7 +3773,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2919 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127690"
+        "Accession ID Number": "KO0127690",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3644,7 +3785,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3659,7 +3800,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2788 c",
         "Language": "Latin",
-        "Accession ID Number": "KO0127691"
+        "Accession ID Number": "KO0127691",
+        "OCR": "CON[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3670,7 +3812,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3685,7 +3827,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2643 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127692"
+        "Accession ID Number": "KO0127692",
+        "OCR": "[...]FAV[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3696,7 +3839,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3711,7 +3854,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2558 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127694"
+        "Accession ID Number": "KO0127694",
+        "OCR": "AVGG NNN"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3722,7 +3866,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3737,7 +3881,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2575 e",
         "Language": "Latin",
-        "Accession ID Number": "KO0127695"
+        "Accession ID Number": "KO0127695",
+        "OCR": "[...]CIRCI"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3748,7 +3893,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3763,7 +3908,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2831 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127696"
+        "Accession ID Number": "KO0127696",
+        "OCR": "[...]TE[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3774,7 +3920,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3789,7 +3935,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2828 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127697"
+        "Accession ID Number": "KO0127697",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3800,7 +3947,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3815,7 +3962,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3053",
         "Language": "Latin",
-        "Accession ID Number": "KO0127698"
+        "Accession ID Number": "KO0127698",
+        "OCR": "[...]CO[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3826,7 +3974,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3841,7 +3989,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3100 c",
         "Language": "Latin",
-        "Accession ID Number": "KO0127699"
+        "Accession ID Number": "KO0127699",
+        "OCR": "A[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3852,7 +4001,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3867,7 +4016,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3114 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127700"
+        "Accession ID Number": "KO0127700",
+        "OCR": "C PA[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3878,7 +4028,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3893,7 +4043,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2863 f",
         "Language": "Latin",
-        "Accession ID Number": "KO0127701"
+        "Accession ID Number": "KO0127701",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3904,7 +4055,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3919,7 +4070,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2947 e",
         "Language": "Latin",
-        "Accession ID Number": "KO0127702"
+        "Accession ID Number": "KO0127702",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3930,7 +4082,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3945,7 +4097,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2594 a",
         "Language": "Latin",
-        "Accession ID Number": "KO0127703"
+        "Accession ID Number": "KO0127703",
+        "OCR": "L E C CV F S"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3956,7 +4109,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3971,7 +4124,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2669",
         "Language": "Latin",
-        "Accession ID Number": "KO0127704"
+        "Accession ID Number": "KO0127704",
+        "OCR": "PAT"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3982,7 +4136,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -3997,7 +4151,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2966 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127709"
+        "Accession ID Number": "KO0127709",
+        "OCR": "NIM / [...]S S[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4008,7 +4163,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4023,7 +4178,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2589 d",
         "Language": "Latin",
-        "Accession ID Number": "KO0127710"
+        "Accession ID Number": "KO0127710",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4034,7 +4190,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4049,7 +4205,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2970",
         "Language": "Latin",
-        "Accession ID Number": "KO0127711"
+        "Accession ID Number": "KO0127711",
+        "OCR": "[...]L D V"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4060,7 +4217,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4075,7 +4232,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2833 t",
         "Language": "Latin",
-        "Accession ID Number": "KO0127712"
+        "Accession ID Number": "KO0127712",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4086,7 +4244,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4101,7 +4259,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2833 s",
         "Language": "Latin",
-        "Accession ID Number": "KO0127656"
+        "Accession ID Number": "KO0127656",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4112,7 +4271,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4127,7 +4286,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2748 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127652"
+        "Accession ID Number": "KO0127652",
+        "OCR": "L C H E"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4138,7 +4298,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4153,7 +4313,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 2966 b",
         "Language": "Latin",
-        "Accession ID Number": "KO0127709"
+        "Accession ID Number": "KO0127709",
+        "OCR": "L IVNIN / BLIS S"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4164,7 +4325,7 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     },
@@ -4179,7 +4340,8 @@
         "Inscription type": "Instrumentum domesticum",
         "Publication": "XV 3246",
         "Language": "Latin",
-        "Accession ID Number": "KO0127713"
+        "Accession ID Number": "KO0127713",
+        "OCR": "[...]"
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4190,11 +4352,21 @@
       },
       "Sources": [
         {
-          "id": "../References/MVA2010/Info.xml"
+          "id": "MVA2010"
         }
       ]
     }
   },
   "Editors": {},
-  "Sources": {}
+  "Sources": {
+    "MVA2010": {
+      "Author(s)": "A. Barmpoutis, E. Bozia, R. S. Wagman",
+      "Title": "A novel framework for 3D reconstruction and analysis of ancient inscriptions",
+      "Publication": "Journal of Machine Vision and Applications",
+      "Volume": "21",
+      "Number": "6",
+      "Year": "2010",
+      "Pages": "989-998"
+    }
+  }
 }
