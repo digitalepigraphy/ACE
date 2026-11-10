@@ -1,7 +1,7 @@
 {
   "Collection": "Archivum Corporis Electronicum",
   "URL": "https://digitalepigraphy.github.io/ACE/",
-  "CiteAs": "Archivum Corporis Electronicum, Corpus Inscriptionum Latinarum, Berlin-Brandenburgische Akademie der Wissenschaften",
+  "CiteAs": "Archivum Corporis Electronicum, Corpus Inscriptionum Latinarum, Berlin-Brandenburgische Akademie der Wissenschaften, https://cil.bbaw.de/ace/",
   "Records": {
     "EC0000025": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
