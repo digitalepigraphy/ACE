@@ -8,4 +8,7 @@
 	<field id="34" value="701"/>
 	<field id="35" value="701"/>
 	<field id="45" value="Marcus Dohnicht"/>
+	<field id="43" value="The 3D digitization was funded by the Einstein Foundation.">
+		<source url="https://www.einsteinfoundation.de/"/>
+	</field>
 </record>
