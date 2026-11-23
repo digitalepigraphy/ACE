@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 19055"></field>
 	<field id="1" value="VI 19055"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 19055 cf. VI p. 3523 = CLE 495 = Suppl. It. – Roma 1, 903"></field>
+	<field id="20" value="VI 19055 cf. VI p. 3523 = CLE 495 = Suppl. It. – Roma 1, 903">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+495"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/12100965"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001737"></field>
 	<field id="460" value="HOC IACET IN TVMVLO SECVRA GLYCONIS HONESTO / [...]S NOMINE [...] ANIMA QVOQVE [...] / [...] / [...] / [...] / [...]AMORE / DVLCE [...] / [...]GENERAVIT / DIGNA [...] BENIGNA / [...] QVO NOS FATA [...]VOCANT / [...] CHARITON CONIVGI B M F / [...]"></field>

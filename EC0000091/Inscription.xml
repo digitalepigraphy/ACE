@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 7886"></field>
 	<field id="1" value="VI 7886"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 7886 cf. VI p. 3439 cf. V 429*, 134 = CLE 1143"></field>
+	<field id="20" value="VI 7886 cf. VI p. 3439 cf. V 429*, 134 = CLE 1143">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+1143"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/18700311"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001744"></field>
 	<field id="460" value="NONVM POST DECIMVM CONPLERAS / NVBILIS ANNVM / VIBIA CRVDELI FVNERE RAPTA VIRO / DVM TIBI PROGENIES ANIMO DVM / FIDIS IN ILLA / HEV FACINVS VICIT [...] VOTA GRAVANT[...] / MOLLITER AD MATREM PLACIDI / DESCENDITE MANES / ELYSIIS CAMPIS FLOREAT VMBRA TIBI / MATEIVS EPAPHRODITVS"></field>

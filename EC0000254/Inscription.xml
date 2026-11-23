@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 24792"></field>
 	<field id="1" value="VI 24792"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 24792 cf. VI 34154 = CLE 1062"></field>
+	<field id="20" value="VI 24792 cf. VI 34154 = CLE 1062">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+1062"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/13801041"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0008531"></field>
 	<field id="460" value="P ILLIVS LAENA[...] / [...]CAMVS FILIO V A XV[...] / [...]CINERES ALIVS LOCO / [...]ABET OSSA EFFICIES V[...] / [...]CRA SIC COLITVR"></field>

@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 28523"></field>
 	<field id="1" value="VI 28523"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 28523 cf. VI p. 3535 = CLE 1540"></field>
+	<field id="20" value="VI 28523 cf. VI p. 3535 = CLE 1540">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+1540"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/14802481"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0008528"></field>
 	<field id="460" value="[...]MORTAL[...] / [...]SIC EQVAM VNDE / [...]SITA [...] VIXI / ANN L [...] / [...] / [...] / [...] / PIETATIS [...] / [...] / [...] / ET DOROTHEVS FECERVNT"></field>

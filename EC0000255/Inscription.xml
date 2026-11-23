@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 7578"></field>
 	<field id="1" value="VI 7578"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 7578 cf. VI p. 3431 et VI p. 3852 = CLE 422"></field>
+	<field id="20" value="VI 7578 cf. VI p. 3431 et VI p. 3852 = CLE 422">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+422"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/18600290"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0008532"></field>
 	<field id="460" value="HOC EGO SVM IN TVMVLO MARCIANA [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]FATA TVLISSENT / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]VIVAM SERVES CVNCTIS GENER[...]"></field>

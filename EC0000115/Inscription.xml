@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 25547"></field>
 	<field id="1" value="VI 25547"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 25547 cf. VI p. 3532 cf. XI 156*, 39 = CLE 1293 cf. Suppl. It. 11, 1993, 126"></field>
+	<field id="20" value="VI 25547 cf. VI p. 3532 cf. XI 156*, 39 = CLE 1293 cf. Suppl. It. 11, 1993, 126">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+1293"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/13801796"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001768"></field>
 	<field id="460" value="D M / RVBRIAE POSTVMA / CONIVGI KARISSIMAE / CVM QVEM VIX AN XIIX / L HAEC CONIVNX POSVI / TIBI DONA MERENTI / HIC ERIT ET NOBIS / VNA ALIQVANDO DOMVS"></field>

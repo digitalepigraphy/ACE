@@ -2,7 +2,10 @@
 <record>
 	<field id="26" value="Sched. XVIII/1, 1059"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="Sched. XVIII/1, 1059"></field>
+	<field id="20" value="Sched. XVIII/1, 1059">
+		<source url="https://cil.bbaw.de/ace/search?name=Sched.+XVIII%2F1%2C+1059"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/68300157"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0096850"></field>
 	<field id="460" value="SVPERBVS / [...]LEVIRVM / [...]TISTE / [...]IA FVIT / [...]RERE [...] / [...]LET / [...]VIT [...] ANN[...] / [...]POLLIS / [...]"></field>

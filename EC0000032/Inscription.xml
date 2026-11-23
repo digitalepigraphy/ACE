@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 12009"></field>
 	<field id="1" value="VI 12009"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 12009 cf. VI p. 3509 = CLE 1218"></field>
+	<field id="20" value="VI 12009 cf. VI p. 3509 = CLE 1218">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+1218"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/14800229"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001685"></field>
 	<field id="460" value="[...]IVM[...] / [...]INA MATE[...] / [...]TABVS / QVISQVIS ES HVC CO[...] / NOMEN HIC TITVLV[...] / PARENTVM PEREVN[...] / CRVDELI FVNERE RE[...]"></field>

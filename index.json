@@ -8,6 +8,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "1126",
       "Height": "487",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7243",
         "CIL Number": "VI 7243",
@@ -15,7 +16,15 @@
         "Publication": "VI 7243 cf. VI p. 3429 et VI p. 3852 = CLE 1089",
         "Language": "Latin",
         "Accession ID Number": "KO0001678",
-        "OCR": "CLYTIVS L L PHILE CLYTI L / HIC CLYTIVS CARVS CVNCTIS IVSTVSQVE PIVS[...] / [...] ET SVBITO [...] PRAEREPTVS ET / QVEM ME ET AMISSVM AETERNO TEMPORE [...]"
+        "OCR": "CLYTIVS L L PHILE CLYTI L / HIC CLYTIVS CARVS CVNCTIS IVSTVSQVE PIVS[...] / [...] ET SVBITO [...] PRAEREPTVS ET / QVEM ME ET AMISSVM AETERNO TEMPORE [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1089"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18600659"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -35,6 +44,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "999",
       "Height": "519",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7193a",
         "CIL Number": "VI 7193a",
@@ -42,7 +52,15 @@
         "Publication": "VI 7193a cf. VI p. 3429 et VI 33241 = CLE 1247",
         "Language": "Latin",
         "Accession ID Number": "KO0001679",
-        "OCR": "[...]ARTINVS [...] / [...] CONIVGE SVA VIXIT ANN XVIII / [...]"
+        "OCR": "[...]ARTINVS [...] / [...] CONIVGE SVA VIXIT ANN XVIII / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1247"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18300915"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -62,6 +80,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "1001",
       "Height": "600",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7574",
         "CIL Number": "VI 7574",
@@ -69,7 +88,15 @@
         "Publication": "VI 7574 cf. VI p. 3431 = CLE 1490 = Suppl. It. – Roma 2, 2691",
         "Language": "Latin",
         "Accession ID Number": "KO0001680",
-        "OCR": "[...]QVOMODO / MALA IN ARBORE PENDVNT / SIC CORPORA NOSTRA / AVT MATVRA CADVNT AVT / CITO ACERVA RVVNT / DOMATIVS TIRAS / FILIAE DVLCISSIMAE"
+        "OCR": "[...]QVOMODO / MALA IN ARBORE PENDVNT / SIC CORPORA NOSTRA / AVT MATVRA CADVNT AVT / CITO ACERVA RVVNT / DOMATIVS TIRAS / FILIAE DVLCISSIMAE",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1490"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18600286"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -89,6 +116,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "1000",
       "Height": "584",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 10021",
         "CIL Number": "VI 10021",
@@ -96,7 +124,15 @@
         "Publication": "VI 10021 cf. VI p. 3429 et VI p. 3896 = CLE 839",
         "Language": "Latin",
         "Accession ID Number": "KO0001682",
-        "OCR": "LAETVS ATHENAIS / LAETIA / DE CAPITOLIO / [...] / VITA BONA FVIT MORS EXITV / HONESTO"
+        "OCR": "LAETVS ATHENAIS / LAETIA / DE CAPITOLIO / [...] / VITA BONA FVIT MORS EXITV / HONESTO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+839"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/19200292"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -116,6 +152,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "1285",
       "Height": "618",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 10105",
         "CIL Number": "VI 10105",
@@ -123,7 +160,15 @@
         "Publication": "VI 10105 cf. VI p. 3492 et VI p. 3906 = ILS 5219 = CLE 823",
         "Language": "Latin",
         "Accession ID Number": "KO0001683",
-        "OCR": "MAN[...]VS M F ESQ / LONGINVS MACCVS VIXIT / DVLCISSVME [...] / C GAVIVS [...] VIX ANN VII / [...] / [...]"
+        "OCR": "MAN[...]VS M F ESQ / LONGINVS MACCVS VIXIT / DVLCISSVME [...] / C GAVIVS [...] VIX ANN VII / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+823"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/19301267"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -143,6 +188,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "1307",
       "Height": "492",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 11357",
         "CIL Number": "VI 11357",
@@ -150,7 +196,15 @@
         "Publication": "VI 11357 cf. VI p. 3508 et VI p. 3911 = CLE 180 = ILS 8404",
         "Language": "Latin",
         "Accession ID Number": "KO0001684",
-        "OCR": "ALBIA DE HARCVLA VIXIT ANN / LVI CASTA FIDE MAGNA SEI / QVICQVAM SAPIVNT INFERI / VT OSSA EIVS QVAE HIC SITA / SVNT BENE QVIESCANT"
+        "OCR": "ALBIA DE HARCVLA VIXIT ANN / LVI CASTA FIDE MAGNA SEI / QVICQVAM SAPIVNT INFERI / VT OSSA EIVS QVAE HIC SITA / SVNT BENE QVIESCANT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+180"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17201049"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -170,6 +224,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "878",
       "Height": "831",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 12009",
         "CIL Number": "VI 12009",
@@ -177,7 +232,15 @@
         "Publication": "VI 12009 cf. VI p. 3509 = CLE 1218",
         "Language": "Latin",
         "Accession ID Number": "KO0001685",
-        "OCR": "[...]IVM[...] / [...]INA MATE[...] / [...]TABVS / QVISQVIS ES HVC CO[...] / NOMEN HIC TITVLV[...] / PARENTVM PEREVN[...] / CRVDELI FVNERE RE[...]"
+        "OCR": "[...]IVM[...] / [...]INA MATE[...] / [...]TABVS / QVISQVIS ES HVC CO[...] / NOMEN HIC TITVLV[...] / PARENTVM PEREVN[...] / CRVDELI FVNERE RE[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1218"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14800229"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -197,6 +260,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "634",
       "Height": "874",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 14578",
         "CIL Number": "VI 14578",
@@ -204,7 +268,15 @@
         "Publication": "VI 14578 cf. VI 34083 = CLE 502",
         "Language": "Latin",
         "Accession ID Number": "KO0001686",
-        "OCR": "D[...]S M / [...]ATILI FLORI / [...]A AFRICANA / [...]ISSIMO / [...] / [...]NOMINI / [...] / [...]FARE MORTE[...] / [...]SOROR[...] / [...]AMICI / [...]QVID MEA CARMIN[...] / [...]RECORQVE ROGO / [...]"
+        "OCR": "D[...]S M / [...]ATILI FLORI / [...]A AFRICANA / [...]ISSIMO / [...] / [...]NOMINI / [...] / [...]FARE MORTE[...] / [...]SOROR[...] / [...]AMICI / [...]QVID MEA CARMIN[...] / [...]RECORQVE ROGO / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+502"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15600479"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -224,6 +296,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "687",
       "Height": "700",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 14618",
         "CIL Number": "VI 14618",
@@ -231,7 +304,15 @@
         "Publication": "VI 14618 cf. VI p. 3516 = CLE 1494",
         "Language": "Latin",
         "Accession ID Number": "KO0001687",
-        "OCR": "DIS MAN / P CAVLIVS / SYNTROPHVS HIC / SITVS EST V AN L / SINE CRIMINE VITAE / VOS EGO NVNC MONEO / SEMPER QVI VIVITIS / AVARE NVDVS NATV[...] / FVERAS A MATRE / CREATVS NVDVS ERIS / OBITIS GRATIA NVLLA / [...]"
+        "OCR": "DIS MAN / P CAVLIVS / SYNTROPHVS HIC / SITVS EST V AN L / SINE CRIMINE VITAE / VOS EGO NVNC MONEO / SEMPER QVI VIVITIS / AVARE NVDVS NATV[...] / FVERAS A MATRE / CREATVS NVDVS ERIS / OBITIS GRATIA NVLLA / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1494"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15600520"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -251,6 +332,7 @@
       "Date": "Sep. 21, 2016",
       "Width": "593",
       "Height": "903",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19036",
         "CIL Number": "VI 19036",
@@ -258,7 +340,15 @@
         "Publication": "VI 19036 cf. VI p. 3523 = CLE 1646",
         "Language": "Latin",
         "Accession ID Number": "KO0001688",
-        "OCR": "[...]ANNA / [...]ARTI[...] / [...]QVAM MODO EX / [...]VM CONSVERVNT / ET VITOS MITTAS / [...] / [...]I M XI D XVII / [...]IN AGR[...]"
+        "OCR": "[...]ANNA / [...]ARTI[...] / [...]QVAM MODO EX / [...]VM CONSVERVNT / ET VITOS MITTAS / [...] / [...]I M XI D XVII / [...]IN AGR[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1646"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12100946"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -278,13 +368,22 @@
       "Date": "Sep. 22, 2016",
       "Width": "1174",
       "Height": "469",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19100",
         "CIL Number": "VI 19100",
         "Publication": "VI 19100 cf. CLE 162 adn.",
         "Language": "Latin",
         "Accession ID Number": "KO0001689",
-        "OCR": "GRANIA OLYMPIAS FEC / SIBI ET SVIS DIS M S / L MVSSIO PHILO DICVM QVO / VIX ANNIS XXX [...] / [...]"
+        "OCR": "GRANIA OLYMPIAS FEC / SIBI ET SVIS DIS M S / L MVSSIO PHILO DICVM QVO / VIX ANNIS XXX [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+19100"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12101011"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -304,6 +403,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "1171",
       "Height": "491",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20466",
         "CIL Number": "VI 20466",
@@ -311,7 +411,15 @@
         "Publication": "VI 20466 cf. VI p. 3525 = CLE 1064",
         "Language": "Latin",
         "Accession ID Number": "KO0001690",
-        "OCR": "IVLIA C L FELICVLA / [...]"
+        "OCR": "IVLIA C L FELICVLA / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1064"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12201142"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -331,6 +439,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "1001",
       "Height": "581",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 26623",
         "CIL Number": "VI 26623",
@@ -338,7 +447,15 @@
         "Publication": "VI 26623 cf. VI p. 3533 = VI 38923 = CLE 1816",
         "Language": "Latin",
         "Accession ID Number": "KO0001692",
-        "OCR": "SOPHRON VIX ANNVM ET / SATVRNINA SOROR EIVS VIX / SOPHRON [...] PIETATIS PARVAE [...] / SATVRNINA SOROR [...] CARISSIMA NOSTRIS / XANTHVS ET AMILLA FILIS"
+        "OCR": "SOPHRON VIX ANNVM ET / SATVRNINA SOROR EIVS VIX / SOPHRON [...] PIETATIS PARVAE [...] / SATVRNINA SOROR [...] CARISSIMA NOSTRIS / XANTHVS ET AMILLA FILIS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1816"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23102573"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -358,6 +475,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "1204",
       "Height": "617",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 22863",
         "CIL Number": "VI 22863",
@@ -365,7 +483,15 @@
         "Publication": "VI 22863 cf. VI p. 3528 cf. XI 101*, 181 = CLE 337",
         "Language": "Latin",
         "Accession ID Number": "KO0001693",
-        "OCR": "DA PVR AS HIC / NAS IN EST"
+        "OCR": "DA PVR AS HIC / NAS IN EST",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+337"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13201148"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -385,6 +511,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "586",
       "Height": "998",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 26901 a",
         "CIL Number": "VI 26901 a",
@@ -392,7 +519,15 @@
         "Publication": "VI 26901 a cf. VI p. 3533 et XI 569*, 2 = CLE 172",
         "Language": "Latin",
         "Accession ID Number": "KO0052406",
-        "OCR": "DIIS / MANIBVS / SVCCESSI FIL / CAESIA GEMELLA / MATER PIISSIMO / FILIO DE SVO / VIX ANN IX / M IIII DIEB XV / FATIS PERACTIS MATER / [...] EST CONDITA QVAE / [...] / VIX ANN [...]"
+        "OCR": "DIIS / MANIBVS / SVCCESSI FIL / CAESIA GEMELLA / MATER PIISSIMO / FILIO DE SVO / VIX ANN IX / M IIII DIEB XV / FATIS PERACTIS MATER / [...] EST CONDITA QVAE / [...] / VIX ANN [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+172"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14201092"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -412,6 +547,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "669",
       "Height": "700",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 27278",
         "CIL Number": "VI 27278",
@@ -419,7 +555,15 @@
         "Publication": "VI 27278 cf. VI p. 3534 = CLE 389 cum add.",
         "Language": "Latin",
         "Accession ID Number": "KO0001695",
-        "OCR": "[...]VS L L TERTIVS / [...]S C L EVTYCHVS / C L FORTVNATA / [...]A FVI ET VIXI ET DIGNA / [...]S ET NIMIVM SVBITO FATALI / [...] HORA HIC EGO SECVRE TAQ[...] / [...]PER IGNES ET TV MORTAL[...] / [...]VM ESSE MEMENTO NA[...] / [...]OTIS EXCEDERE FATA / [...]STO SIT MO[...]"
+        "OCR": "[...]VS L L TERTIVS / [...]S C L EVTYCHVS / C L FORTVNATA / [...]A FVI ET VIXI ET DIGNA / [...]S ET NIMIVM SVBITO FATALI / [...] HORA HIC EGO SECVRE TAQ[...] / [...]PER IGNES ET TV MORTAL[...] / [...]VM ESSE MEMENTO NA[...] / [...]OTIS EXCEDERE FATA / [...]STO SIT MO[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+389"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14801236"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -439,6 +583,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "905",
       "Height": "749",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 28695",
         "CIL Number": "VI 28695",
@@ -446,7 +591,15 @@
         "Publication": "VI 28695 cf. VI p. 3536 = CLE 1145",
         "Language": "Latin",
         "Accession ID Number": "KO0001696",
-        "OCR": "[...]C PORPHYRIDI / [...]AETERIES[...]PARCAS / [...]ARE IACENTE / [...]IS MISERAE MEMBRA / [...]ACENTIS HVMO / [...]AE TOTTIENS LVGENDA ERIT QVOT[...] / [...]ESTE MEMORABILIS AETAS / [...]ERIPTA DOLVERE SIBI QVI TE / GENVERE PARENTES / NON NASCI MELIVS FVERAT QVAM / NVNC INDIGNA IACERE / OSSA CINIS FACTA EST IAM MOR[...] / [...]RES POSVERA PARENT[...]"
+        "OCR": "[...]C PORPHYRIDI / [...]AETERIES[...]PARCAS / [...]ARE IACENTE / [...]IS MISERAE MEMBRA / [...]ACENTIS HVMO / [...]AE TOTTIENS LVGENDA ERIT QVOT[...] / [...]ESTE MEMORABILIS AETAS / [...]ERIPTA DOLVERE SIBI QVI TE / GENVERE PARENTES / NON NASCI MELIVS FVERAT QVAM / NVNC INDIGNA IACERE / OSSA CINIS FACTA EST IAM MOR[...] / [...]RES POSVERA PARENT[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1145"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14802653"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -466,6 +619,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "879",
       "Height": "808",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 29426",
         "CIL Number": "VI 29426",
@@ -473,7 +627,15 @@
         "Publication": "VI 29426 cf. VI p. 3536 = CLE 1164",
         "Language": "Latin",
         "Accession ID Number": "KO0001697",
-        "OCR": "[...]A Q MARI Q[...] / [...]RERE SOLVM / [...] / [...]IVS[...]"
+        "OCR": "[...]A Q MARI Q[...] / [...]RERE SOLVM / [...] / [...]IVS[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1164"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14803396"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -493,6 +655,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "800",
       "Height": "701",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30152",
         "CIL Number": "VI 30152",
@@ -500,7 +663,15 @@
         "Publication": "VI 30152 cf. VI p. 3736 = CLE 1645",
         "Language": "Latin",
         "Accession ID Number": "KO0001698",
-        "OCR": "[...] TVMVLO CAR[...] / [...]VNX QVAE NOMIN[...] / [...]NOVI VIRGO CASTVM / [...]SINE CRIMINE VITA[...] / [...]GRATA PARENTI SE[...] / [...]CONTIGIT ET[...] / [...]ESDV[...]"
+        "OCR": "[...] TVMVLO CAR[...] / [...]VNX QVAE NOMIN[...] / [...]NOVI VIRGO CASTVM / [...]SINE CRIMINE VITA[...] / [...]GRATA PARENTI SE[...] / [...]CONTIGIT ET[...] / [...]ESDV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1645"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17202254"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -520,6 +691,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "545",
       "Height": "983",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 36537",
         "CIL Number": "VI 36537",
@@ -527,7 +699,15 @@
         "Publication": "VI 36537 cf. VI p. 3920 = CLE 2164 = ILS 8198 cf. AE 1991, 1375",
         "Language": "Latin",
         "Accession ID Number": "KO0001699",
-        "OCR": "D M S / L VIBI FELICIS HIC / SVPTVS POSITVS EST / MONEO TE LECTIS LIT / TERIS NE CONTEMNAS / ET VELIS TITVLVM MO / VERE ET CORPORI IN / IVRIAM FACERE SI / QVIS AVTEM SIBI AD / MISERIT NON BONO / SVO FECERIT ET SVPERS / ET INFER[...] IRATOS / HABEAT [...] / [...]RVPTO FVNDE[...]"
+        "OCR": "D M S / L VIBI FELICIS HIC / SVPTVS POSITVS EST / MONEO TE LECTIS LIT / TERIS NE CONTEMNAS / ET VELIS TITVLVM MO / VERE ET CORPORI IN / IVRIAM FACERE SI / QVIS AVTEM SIBI AD / MISERIT NON BONO / SVO FECERIT ET SVPERS / ET INFER[...] IRATOS / HABEAT [...] / [...]RVPTO FVNDE[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2164"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23801601"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -547,6 +727,7 @@
       "Date": "Jul. 11, 2016",
       "Width": "852",
       "Height": "621",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 39444",
         "CIL Number": "VI 39444",
@@ -554,7 +735,15 @@
         "Publication": "[VI 39444 Bang] cf. VI 4068 = CLE 1961 = ILS 9346 = AE 1996, 105",
         "Language": "Latin",
         "Accession ID Number": "KO0001700",
-        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]"
+        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1961"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/16500180"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -574,13 +763,22 @@
       "Date": "Sep. 22, 2016",
       "Width": "807",
       "Height": "599",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 39086a",
         "CIL Number": "VI 39086a",
         "Publication": "VI 39086a = ILS 9521 = ILCV 4986",
         "Language": "Latin",
         "Accession ID Number": "KO0001701",
-        "OCR": "AMICI EGO VOS / HIC EXSPECTO / LEO NOMINE ET / SIGNO LEONTIVS"
+        "OCR": "AMICI EGO VOS / HIC EXSPECTO / LEO NOMINE ET / SIGNO LEONTIVS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+39086a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23102750"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -600,13 +798,22 @@
       "Date": "Jul. 11, 2016",
       "Width": "852",
       "Height": "621",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "ICVR n. s. I 52",
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "ICVR n. s. I 52 = ICVR n. s. IV 12631 = CLE 2291 = ILCV 4787",
         "Language": "Latin",
         "Accession ID Number": "KO0001702",
-        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]"
+        "OCR": "[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2291"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/35100460"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -626,6 +833,7 @@
       "Date": "Jan. 13, 2017",
       "Width": "577",
       "Height": "799",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 3566",
         "CIL Number": "VI 3566",
@@ -633,7 +841,15 @@
         "Publication": "VI 3566 = VI 7541 cf. VI p. 3407 = CLE 2161 = Suppl. It. – Roma 2, 2415; Engström 418",
         "Language": "Latin",
         "Accession ID Number": "KO0001704",
-        "OCR": "HIC CVRA E[...] / [...]LLEBORVS[...] / A[...]NIVS[...] / [...]"
+        "OCR": "HIC CVRA E[...] / [...]LLEBORVS[...] / A[...]NIVS[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2161"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/19000506"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -653,6 +869,7 @@
       "Date": "Jan. 12, 2017",
       "Width": "541",
       "Height": "997",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 18086",
         "CIL Number": "VI 18086",
@@ -660,7 +877,15 @@
         "Publication": "VI 18086 cf. VI p. 3521 = CLE 1581 (pars prior = VI 1880* cf. VI p. 254*)",
         "Language": "Latin",
         "Accession ID Number": "KO0001708",
-        "OCR": "HIC EST REPOSITVS FELIX HER / MES QVEM FATVS LONGIVS / DVCERE NOLVIT QVI MALVIT ILLVC / EVM LINQVERE QVAM GRATIAS / REDDERE SVIS [...] / SOCIA SED DICEBAT NVTRIRE / BACCHILLVM SVMMAE SENEC / TAE DELVSIT [...] / NIMIVS ERAT BLANDVS AD ILLVM AVI / VMQVE SVVM ADLECTABAT VOCE / [...] CVNCTI VICINI DICEBANT / O DVLCE [...] / [...] IVVENES DE SVBITO ACCEPERVNT / SVI LVCTV PARENTES HIC TAMEN / IN BIENNIO VIXIT QVASI QVI VIXISSET / ET SEDECIM ANNIS TALIS ENIM / SENSVS ERAT ILLI QVASI PROPE / RANTES AD ORCVM ITAQVE / TIBI DICO QVI NESCIS DVLCE / VOCE DICERE FELIX NE VELLIS / [...] / MALE"
+        "OCR": "HIC EST REPOSITVS FELIX HER / MES QVEM FATVS LONGIVS / DVCERE NOLVIT QVI MALVIT ILLVC / EVM LINQVERE QVAM GRATIAS / REDDERE SVIS [...] / SOCIA SED DICEBAT NVTRIRE / BACCHILLVM SVMMAE SENEC / TAE DELVSIT [...] / NIMIVS ERAT BLANDVS AD ILLVM AVI / VMQVE SVVM ADLECTABAT VOCE / [...] CVNCTI VICINI DICEBANT / O DVLCE [...] / [...] IVVENES DE SVBITO ACCEPERVNT / SVI LVCTV PARENTES HIC TAMEN / IN BIENNIO VIXIT QVASI QVI VIXISSET / ET SEDECIM ANNIS TALIS ENIM / SENSVS ERAT ILLI QVASI PROPE / RANTES AD ORCVM ITAQVE / TIBI DICO QVI NESCIS DVLCE / VOCE DICERE FELIX NE VELLIS / [...] / MALE",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1581"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/10200282"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -680,6 +905,7 @@
       "Date": "Feb. 10, 2017",
       "Width": "575",
       "Height": "878",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19049",
         "CIL Number": "VI 19049",
@@ -687,7 +913,15 @@
         "Publication": "VI 19049 cf. VI p. 3523 = ICVR n. s. V 13549 = CLE 545",
         "Language": "Latin",
         "Accession ID Number": "KO0001709",
-        "OCR": "[...]NI ET DVRO / [...]E NOCTEM[...] / [...]ORSEDE / [...]A VDOR[...] / [...]VS [...] / [...]"
+        "OCR": "[...]NI ET DVRO / [...]E NOCTEM[...] / [...]ORSEDE / [...]A VDOR[...] / [...]VS [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+545"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12100959"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex. Part: pars dextra.",
@@ -707,6 +941,7 @@
       "Date": "Jan. 13, 2017",
       "Width": "993",
       "Height": "575",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30117",
         "CIL Number": "VI 30117",
@@ -714,7 +949,15 @@
         "Publication": "VI 30117 cf. VI p. 3736 = CLE 1469",
         "Language": "Latin",
         "Accession ID Number": "KO0001711",
-        "OCR": "TIBI VIVA VOLVPTAS / PARCE MANV[...]"
+        "OCR": "TIBI VIVA VOLVPTAS / PARCE MANV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1469"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17202218"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -734,6 +977,7 @@
       "Date": "Jan. 23, 2017",
       "Width": "1199",
       "Height": "422",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30119",
         "CIL Number": "VI 30119",
@@ -741,7 +985,15 @@
         "Publication": "VI 30119 cf. VI p. 3736 = CLE 367",
         "Language": "Latin",
         "Accession ID Number": "KO0001712",
-        "OCR": "ASPICITE HANC SPECIEM IVVENIS MISERABILIS HORA / QVOD LVCEM ERIPVIT CAROQVE VIRO DEDIT LVCTVM / HIC VOBEIS DIGNIS VNA MECVM DEDIT HOC MONVMENTVM / HAEC A VOBEIS MERITO DATA NOBIS PRAEMIA LAETOR / QVOD SPECIES NOSTRAS TITVLO DIGNAS ESSE [...] / [...] ROGO QVOD SEQVITVR SEMPER NOSTRI MEMINISSE VELI[...] / [...] CVRA VELIT VESTRA LAVDE TRIBVTVM [...] / [...]FATVM TVLERIT VNA EIVS MECVM CONDERE OSSA LOCO"
+        "OCR": "ASPICITE HANC SPECIEM IVVENIS MISERABILIS HORA / QVOD LVCEM ERIPVIT CAROQVE VIRO DEDIT LVCTVM / HIC VOBEIS DIGNIS VNA MECVM DEDIT HOC MONVMENTVM / HAEC A VOBEIS MERITO DATA NOBIS PRAEMIA LAETOR / QVOD SPECIES NOSTRAS TITVLO DIGNAS ESSE [...] / [...] ROGO QVOD SEQVITVR SEMPER NOSTRI MEMINISSE VELI[...] / [...] CVRA VELIT VESTRA LAVDE TRIBVTVM [...] / [...]FATVM TVLERIT VNA EIVS MECVM CONDERE OSSA LOCO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+367"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17202220"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -761,6 +1013,7 @@
       "Date": "Jan. 13, 2017",
       "Width": "1500",
       "Height": "408",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 1754",
         "CIL Number": "VI 1754",
@@ -768,7 +1021,15 @@
         "Publication": "VI 1754 cf. VI 31921 et VI p. 3813 et VI p. 4752 = CLE 1348 = ILS 1269",
         "Language": "Latin",
         "Accession ID Number": "KO0001718",
-        "OCR": "[...]HIC PERSO[...] / [...]DEDERAT"
+        "OCR": "[...]HIC PERSO[...] / [...]DEDERAT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1348"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18100573"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -788,6 +1049,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "1700",
       "Height": "339",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 18209",
         "CIL Number": "VI 18209",
@@ -795,7 +1057,15 @@
         "Publication": "VI 18209 cf. VI p. 3522 = CLE 1077 = Suppl. It. – Roma 1, 577",
         "Language": "Latin",
         "Accession ID Number": "KO0001728",
-        "OCR": "CN FLAVIVS CN L SOSIA / CN FLAVIVS CN L APOLLONIV[...] / [...]"
+        "OCR": "CN FLAVIVS CN L SOSIA / CN FLAVIVS CN L APOLLONIV[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1077"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/10200408"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -815,13 +1085,22 @@
       "Date": "Jul. 14, 2016",
       "Width": "800",
       "Height": "1090",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 16059",
         "CIL Number": "VI 16059",
         "Publication": "VI 16059 cf. VI p. 3518 cf. XI 101*, 62 cf. CLE 175 adn.",
         "Language": "Latin",
         "Accession ID Number": "KO0001730",
-        "OCR": "DIS MANIBVS / SACRVM / COMMVNI / VIXIT ANNIS IIII M VI / ZOSIMO / VIXIT ANNO I M III / SOTERICHVS ET TYCHE / PARENTES / QVOD FACERE NATI / PARENTIBVS DEBVERANT / SVIS MORS IMMATVRA / FECIT VT FILIS / FACERENT PARENTES"
+        "OCR": "DIS MANIBVS / SACRVM / COMMVNI / VIXIT ANNIS IIII M VI / ZOSIMO / VIXIT ANNO I M III / SOTERICHVS ET TYCHE / PARENTES / QVOD FACERE NATI / PARENTIBVS DEBVERANT / SVIS MORS IMMATVRA / FECIT VT FILIS / FACERENT PARENTES",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+16059"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12000954"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -841,6 +1120,7 @@
       "Date": "Jul. 11, 2016",
       "Width": "857",
       "Height": "919",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 14295",
         "CIL Number": "VI 14295",
@@ -848,7 +1128,15 @@
         "Publication": "VI 14295 cf. VI p. 3515 = CLE 1462",
         "Language": "Latin",
         "Accession ID Number": "KO0001731",
-        "OCR": "D[...] / AMBICIVS TE[...] / LVCCEIA TYC[...] / LVCCEIVS SEC[...] / [...]FRVNT SIBI [...] / [...]ABVSQ POSTER[...] / [...]AE DEDERIS SIT[...] / [...]XXVI NAC[...]"
+        "OCR": "D[...] / AMBICIVS TE[...] / LVCCEIA TYC[...] / LVCCEIVS SEC[...] / [...]FRVNT SIBI [...] / [...]ABVSQ POSTER[...] / [...]AE DEDERIS SIT[...] / [...]XXVI NAC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1462"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15600199"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -868,6 +1156,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "1038",
       "Height": "556",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 13735",
         "CIL Number": "VI 13735",
@@ -875,7 +1164,15 @@
         "Publication": "VI 13735 cf. VI p. 3513 = CLE 533",
         "Language": "Latin",
         "Accession ID Number": "KO0001732",
-        "OCR": "L CAECILIVS FELIX / FECIT SIBI CONIVGI / FILIS LIBERTIS SEXVS / VTRIVSQ ET POSTQVE / FVTVRIS"
+        "OCR": "L CAECILIVS FELIX / FECIT SIBI CONIVGI / FILIS LIBERTIS SEXVS / VTRIVSQ ET POSTQVE / FVTVRIS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+533"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15500164"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -895,6 +1192,7 @@
       "Date": "Sep. 14, 2016",
       "Width": "891",
       "Height": "571",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 12652 b",
         "CIL Number": "VI 12652 b",
@@ -902,7 +1200,15 @@
         "Publication": "VI 12652 b cf. VI p. 3511 et VI p. 3911 = CLE 995 adn. = IG XIV 1892 b = Suppl. It. – Roma 1, 39 (1)",
         "Language": "Greek, Latin",
         "Accession ID Number": "KO0001734",
-        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / PERMISSV PATRONI / IN FRONTE LONGVM P V LATVM P IV"
+        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / PERMISSV PATRONI / IN FRONTE LONGVM P V LATVM P IV",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+995"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/26200854"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -922,6 +1228,7 @@
       "Date": "Jan. 23, 2017",
       "Width": "515",
       "Height": "1371",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 12652 a",
         "CIL Number": "VI 12652 a",
@@ -929,7 +1236,15 @@
         "Publication": "VI 12652 a cf. VI p. 3511 et VI p. 3911 = CLE 995 B = IG XIV 1892 c = Suppl. It. – Roma 1, 39 (3)",
         "Language": "Greek, Latin",
         "Accession ID Number": "KO0001735",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+995"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/26200854"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -949,6 +1264,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "659",
       "Height": "894",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19874",
         "CIL Number": "VI 19874",
@@ -956,7 +1272,15 @@
         "Publication": "VI 19874 cf. VI p. 3524 cf. XI 259*, 63 = CLE 1224",
         "Language": "Latin",
         "Accession ID Number": "KO0001736",
-        "OCR": "D M / FILIVS HIC SITVS EST / IVLI BASSI BASSIANVS / ANNOS QVI VIX X / ET XIIII SOLES / QVEM QVONIAM / MANES VI[...] MVNV / DI RA[...]VERVNT / NE CALCARE VELIS / NEC GRAVIS ESSE / LOCO"
+        "OCR": "D M / FILIVS HIC SITVS EST / IVLI BASSI BASSIANVS / ANNOS QVI VIX X / ET XIIII SOLES / QVEM QVONIAM / MANES VI[...] MVNV / DI RA[...]VERVNT / NE CALCARE VELIS / NEC GRAVIS ESSE / LOCO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1224"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12101781"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -976,6 +1300,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "1096",
       "Height": "691",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19055",
         "CIL Number": "VI 19055",
@@ -983,7 +1308,15 @@
         "Publication": "VI 19055 cf. VI p. 3523 = CLE 495 = Suppl. It. – Roma 1, 903",
         "Language": "Latin",
         "Accession ID Number": "KO0001737",
-        "OCR": "HOC IACET IN TVMVLO SECVRA GLYCONIS HONESTO / [...]S NOMINE [...] ANIMA QVOQVE [...] / [...] / [...] / [...] / [...]AMORE / DVLCE [...] / [...]GENERAVIT / DIGNA [...] BENIGNA / [...] QVO NOS FATA [...]VOCANT / [...] CHARITON CONIVGI B M F / [...]"
+        "OCR": "HOC IACET IN TVMVLO SECVRA GLYCONIS HONESTO / [...]S NOMINE [...] ANIMA QVOQVE [...] / [...] / [...] / [...] / [...]AMORE / DVLCE [...] / [...]GENERAVIT / DIGNA [...] BENIGNA / [...] QVO NOS FATA [...]VOCANT / [...] CHARITON CONIVGI B M F / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+495"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12100965"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1003,6 +1336,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "728",
       "Height": "610",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 316",
         "CIL Number": "VI 316",
@@ -1010,7 +1344,15 @@
         "Publication": "VI 316 cf. VI 30735 et VI p. 3756 = CLE 869 = ILS 3404 = Suppl. It. – Roma 1, 216",
         "Language": "Latin",
         "Accession ID Number": "KO0001738",
-        "OCR": "ALCIDE SACRI GENERIS / DECVS HOC TIBI / PRAETOR / ET IOVIS ANTISTES / DEDICO PERPETVVS"
+        "OCR": "ALCIDE SACRI GENERIS / DECVS HOC TIBI / PRAETOR / ET IOVIS ANTISTES / DEDICO PERPETVVS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+869"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17700074"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1030,6 +1372,7 @@
       "Date": "Jul. 11, 2016",
       "Width": "842",
       "Height": "683",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 313",
         "CIL Number": "VI 313",
@@ -1037,7 +1380,15 @@
         "Publication": "VI 313 cf. VI 30735 et VI p. 3756 = ILS 3402 = CLE 228 = Suppl. It. – Roma 2, 2811",
         "Language": "Latin",
         "Accession ID Number": "KO0001739",
-        "OCR": "[...] HOC QVOD ONV[...] / [...]CAE ET GNATIB[...] / [...]VERITI FECISS[...] / [...]ITIS EVANDRIC[...] / [...]QVOD ANNIS HIC [...]"
+        "OCR": "[...] HOC QVOD ONV[...] / [...]CAE ET GNATIB[...] / [...]VERITI FECISS[...] / [...]ITIS EVANDRIC[...] / [...]QVOD ANNIS HIC [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+228"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17700072"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1057,6 +1408,7 @@
       "Date": "Sep. 14, 2016",
       "Width": "865",
       "Height": "1045",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 11592",
         "CIL Number": "VI 11592",
@@ -1064,7 +1416,15 @@
         "Publication": "VI 11592 cf. VI p. 3509 = CLE 146",
         "Language": "Latin",
         "Accession ID Number": "KO0001742",
-        "OCR": "D M / AMPHIATAE [...] / [...]DANIA / [...]PRIMIGENIVS FECIT / [...] / [...] / [...]"
+        "OCR": "D M / AMPHIATAE [...] / [...]DANIA / [...]PRIMIGENIVS FECIT / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+146"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17201274"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1084,6 +1444,7 @@
       "Date": "Sep. 14, 2016",
       "Width": "888",
       "Height": "668",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 10081",
         "CIL Number": "VI 10081",
@@ -1091,7 +1452,15 @@
         "Publication": "VI 10081 cf. VI p. 3489 = CLE 1259 = Suppl. It. – Roma 1, 2068",
         "Language": "Latin",
         "Accession ID Number": "KO0001743",
-        "OCR": "[...] / [...]RVS NICVS / [...]VCOTECHNITES / [...]SVIS SIBI DVM VIXIT FECIT / VBIQVE [...] BENE / [...]NICVS / SODALES HAVETE"
+        "OCR": "[...] / [...]RVS NICVS / [...]VCOTECHNITES / [...]SVIS SIBI DVM VIXIT FECIT / VBIQVE [...] BENE / [...]NICVS / SODALES HAVETE",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1259"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/19301245"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1111,6 +1480,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "943",
       "Height": "669",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7886",
         "CIL Number": "VI 7886",
@@ -1118,7 +1488,15 @@
         "Publication": "VI 7886 cf. VI p. 3439 cf. V 429*, 134 = CLE 1143",
         "Language": "Latin",
         "Accession ID Number": "KO0001744",
-        "OCR": "NONVM POST DECIMVM CONPLERAS / NVBILIS ANNVM / VIBIA CRVDELI FVNERE RAPTA VIRO / DVM TIBI PROGENIES ANIMO DVM / FIDIS IN ILLA / HEV FACINVS VICIT [...] VOTA GRAVANT[...] / MOLLITER AD MATREM PLACIDI / DESCENDITE MANES / ELYSIIS CAMPIS FLOREAT VMBRA TIBI / MATEIVS EPAPHRODITVS"
+        "OCR": "NONVM POST DECIMVM CONPLERAS / NVBILIS ANNVM / VIBIA CRVDELI FVNERE RAPTA VIRO / DVM TIBI PROGENIES ANIMO DVM / FIDIS IN ILLA / HEV FACINVS VICIT [...] VOTA GRAVANT[...] / MOLLITER AD MATREM PLACIDI / DESCENDITE MANES / ELYSIIS CAMPIS FLOREAT VMBRA TIBI / MATEIVS EPAPHRODITVS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1143"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18700311"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1138,6 +1516,7 @@
       "Date": "Sep. 14, 2016",
       "Width": "2001",
       "Height": "219",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7233",
         "CIL Number": "VI 7233",
@@ -1145,7 +1524,15 @@
         "Publication": "VI 7233 = VI 30677 cf. VI p. 3429 et VI p. 3752 = CLE 831 = Suppl. It. – Roma 1, 1480 cf. AE 1992, 92, 53",
         "Language": "Latin",
         "Accession ID Number": "KO0001745",
-        "OCR": "[...]RTI ET CONSERVI MERITO POSIERVNT"
+        "OCR": "[...]RTI ET CONSERVI MERITO POSIERVNT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+831"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18600658"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1165,6 +1552,7 @@
       "Date": "Sep. 14, 2016",
       "Width": "800",
       "Height": "1090",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 555",
         "CIL Number": "VI 555",
@@ -1172,7 +1560,15 @@
         "Publication": "VI 555 cf. VI p. 3005 et VI p. 3757 = CLE 266 = Suppl. It. – Roma 1, 114 cf. AE 1992, 92, 4",
         "Language": "Latin",
         "Accession ID Number": "KO0001746",
-        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]DANV DIONES SOLVENS / [...] / [...]"
+        "OCR": "[...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]DANV DIONES SOLVENS / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+266"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17300701"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1192,6 +1588,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "646",
       "Height": "845",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 32755",
         "CIL Number": "VI 32755",
@@ -1199,7 +1596,15 @@
         "Publication": "VI 32755 v. 1–9 = CLE 1264",
         "Language": "Latin",
         "Accession ID Number": "KO0001751",
-        "OCR": "[...]OND / [...]TVS / [...]ATA / PER INDE[...] / [...]LIT ORA / DANVVI / PATRONO ET / [...]"
+        "OCR": "[...]OND / [...]TVS / [...]ATA / PER INDE[...] / [...]LIT ORA / DANVVI / PATRONO ET / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1264"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/22500770"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1219,13 +1624,22 @@
       "Date": "Sep. 15, 2016",
       "Width": "701",
       "Height": "701",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 32755",
         "CIL Number": "VI 32755",
         "Publication": "VI 32755 v. 10–15",
         "Language": "Latin",
         "Accession ID Number": "KO0001752",
-        "OCR": "[...]ILARIO / [...] / FRATRI / PRO[...]VS / EVTYCHI / FECIT"
+        "OCR": "[...]ILARIO / [...] / FRATRI / PRO[...]VS / EVTYCHI / FECIT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+32755"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/22500770"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1245,6 +1659,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "606",
       "Height": "836",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 33903",
         "CIL Number": "VI 33903",
@@ -1252,7 +1667,15 @@
         "Publication": "VI 33903 cf. VI p. 3896 = CLE 1249 = ILS 1849 = Suppl. It. – Roma 1, 107",
         "Language": "Latin",
         "Accession ID Number": "KO0001753",
-        "OCR": "D M / C L HIC IACEO DIADVME / NVS ARTE POETA OLIM CAE / SAREIS FLORIDVS OFFICIIS / QVEM NVMQVAM CVPIDAE / POSSEDIT GLORIA FAMAE / SED SEMPER MODICVS REX / SIT VBIQVE TENOR [...] / [...]PATER VENI[...] / [...] HOSPITIVM / NOBISCVM [...] DOMVS / [...] / [...]FRVCTIANE[...] / B M F"
+        "OCR": "D M / C L HIC IACEO DIADVME / NVS ARTE POETA OLIM CAE / SAREIS FLORIDVS OFFICIIS / QVEM NVMQVAM CVPIDAE / POSSEDIT GLORIA FAMAE / SED SEMPER MODICVS REX / SIT VBIQVE TENOR [...] / [...]PATER VENI[...] / [...] HOSPITIVM / NOBISCVM [...] DOMVS / [...] / [...]FRVCTIANE[...] / B M F",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1249"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/24100417"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1272,6 +1695,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "900",
       "Height": "773",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 35423",
         "CIL Number": "VI 35423",
@@ -1279,7 +1703,15 @@
         "Publication": "VI 35423 = CLE 2223",
         "Language": "Latin",
         "Accession ID Number": "KO0001754",
-        "OCR": "[...]M / [...]B ET P DE[...]PHOR[...] / [...]CRISPINE [...]CIOVENIA / [...]OST MVLTA TEMPOR[...] / [...]ILLORV[...] / [...]RVS ET[...] / [...]TES VIXIT A[...] / [...]A VIRIA CARI[...] / [...]S HAEC MELI[...] / [...]NAE QVIE[...] / [...]FILIV[...]"
+        "OCR": "[...]M / [...]B ET P DE[...]PHOR[...] / [...]CRISPINE [...]CIOVENIA / [...]OST MVLTA TEMPOR[...] / [...]ILLORV[...] / [...]RVS ET[...] / [...]TES VIXIT A[...] / [...]A VIRIA CARI[...] / [...]S HAEC MELI[...] / [...]NAE QVIE[...] / [...]FILIV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2223"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23500820"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1299,6 +1731,7 @@
       "Date": "Sep. 20, 2016",
       "Width": "1197",
       "Height": "752",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 35769",
         "CIL Number": "VI 35769",
@@ -1306,7 +1739,15 @@
         "Publication": "VI 35769 cf. XI 26*, 41 = CLE 1994 = Engström 189",
         "Language": "Latin",
         "Accession ID Number": "KO0001755",
-        "OCR": "[...]M / [...]PVER [...] / [...]VS L XV [...] / [...]POSITVM [...] / [...]"
+        "OCR": "[...]M / [...]PVER [...] / [...]VS L XV [...] / [...]POSITVM [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1994"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23500332"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1326,6 +1767,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "564",
       "Height": "993",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 36278",
         "CIL Number": "VI 36278",
@@ -1333,7 +1775,15 @@
         "Publication": "VI 36278 = CLE 2000",
         "Language": "Latin",
         "Accession ID Number": "KO0001756",
-        "OCR": "[...]EST[...] / [...]IIA FILIA[...] / [...]AS DOLOR / [...]LVCTVSQVE / [...]ENTVM / [...]E VIXIT AN / VIIII MENS VI / BVI RVTILI[...] / [...]IVRVS ET / [...]DON PAREN[...]"
+        "OCR": "[...]EST[...] / [...]IIA FILIA[...] / [...]AS DOLOR / [...]LVCTVSQVE / [...]ENTVM / [...]E VIXIT AN / VIIII MENS VI / BVI RVTILI[...] / [...]IVRVS ET / [...]DON PAREN[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2000"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23702231"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1353,13 +1803,22 @@
       "Date": "Sep. 21, 2016",
       "Width": "974",
       "Height": "536",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CLE 2177",
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "CLE 2177",
         "Language": "Latin",
         "Accession ID Number": "KO0001757",
-        "OCR": "DIS MANIBVS CATTI CIRMAVRI NOMINE ERAM / MAVRVS NONA AETATE [...] ANNOS VIXI XVI ET / MENSIS VII [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / SVO POSVIT ALVMNO"
+        "OCR": "DIS MANIBVS CATTI CIRMAVRI NOMINE ERAM / MAVRVS NONA AETATE [...] ANNOS VIXI XVI ET / MENSIS VII [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / SVO POSVIT ALVMNO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+2177"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23103176"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1379,6 +1838,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "908",
       "Height": "508",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XI 4010",
         "CIL Number": "XI 4010",
@@ -1386,7 +1846,15 @@
         "Publication": "XI 4010 cf. XI p. 1359 = CLE 120",
         "Language": "Latin",
         "Accession ID Number": "KO0001758",
-        "OCR": "M VITELLIVS [...] THEODOR[...] / BAEBIA [...] FAVSTA / M VITELLIVS M L [...]VRSOR / IVLIA [...] L RVFA / [...] / [...] / [...] CREDE [...] TIBI"
+        "OCR": "M VITELLIVS [...] THEODOR[...] / BAEBIA [...] FAVSTA / M VITELLIVS M L [...]VRSOR / IVLIA [...] L RVFA / [...] / [...] / [...] CREDE [...] TIBI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+120"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/22700962"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1406,13 +1874,22 @@
       "Date": "Sep. 21, 2016",
       "Width": "804",
       "Height": "989",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "Sched. XVIII/1, 1059",
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 1059",
         "Language": "Latin",
         "Accession ID Number": "KO0096850",
-        "OCR": "SVPERBVS / [...]LEVIRVM / [...]TISTE / [...]IA FVIT / [...]RERE [...] / [...]LET / [...]VIT [...] ANN[...] / [...]POLLIS / [...]"
+        "OCR": "SVPERBVS / [...]LEVIRVM / [...]TISTE / [...]IA FVIT / [...]RERE [...] / [...]LET / [...]VIT [...] ANN[...] / [...]POLLIS / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=Sched.+XVIII%2F1%2C+1059"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/68300157"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1432,12 +1909,21 @@
       "Date": "Sep. 21, 2016",
       "Width": "732",
       "Height": "653",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "NS 1931 p. 321 n. 3",
         "Publication": "NS 1931 p. 321 n. 3",
         "Language": "Latin",
         "Accession ID Number": "KO0001760",
-        "OCR": "[...]EX QVO [...]NDVS HA[...] / MVSARVM MVNERA NO[...] / [...]A SOLVS AMICVS [...] / [...]ET QVEM TIBIA MAGN[...] / [...]MI CVNCTI PRAECLAR[...] / [...]M POPVLIS LVDOS [...] / [...]CESSE EX [...] / QVI VIXIT NOBILIS AN / NOS"
+        "OCR": "[...]EX QVO [...]NDVS HA[...] / MVSARVM MVNERA NO[...] / [...]A SOLVS AMICVS [...] / [...]ET QVEM TIBIA MAGN[...] / [...]MI CVNCTI PRAECLAR[...] / [...]M POPVLIS LVDOS [...] / [...]CESSE EX [...] / QVI VIXIT NOBILIS AN / NOS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=NS+1931+p.+321+n.+3"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/34200830"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1457,13 +1943,19 @@
       "Date": "Sep. 21, 2016",
       "Width": "686",
       "Height": "867",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "Sched. XVIII/1, 1058",
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 1058",
         "Language": "Latin",
         "Accession ID Number": "KO0127362",
-        "OCR": "CONCEN[...] / HOC [...] / [...] / [...] / [...] / [...] / [...]BENE[...] / HOS MOMENT[...] / [...] / [...] / [...] / [...]"
+        "OCR": "CONCEN[...] / HOC [...] / [...] / [...] / [...] / [...] / [...]BENE[...] / HOS MOMENT[...] / [...] / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=Sched.+XVIII%2F1%2C+1058"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1483,13 +1975,19 @@
       "Date": "Sep. 21, 2016",
       "Width": "1204",
       "Height": "609",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "Sched. XVIII/1, 0442",
         "Inscription type": "Carmen epigraphicum (Latin verse inscription)",
         "Publication": "Sched. XVIII/1, 0442",
         "Language": "Latin",
         "Accession ID Number": "KO0127363",
-        "OCR": "HVNC [...] VIVA POSVIT [...] / [...] / PIETATI CASTITATIQVE [...] / QVAE FELICITATIS BIS BINIS PARVOLIS [...] / MA[...]"
+        "OCR": "HVNC [...] VIVA POSVIT [...] / [...] / PIETATI CASTITATIQVE [...] / QVAE FELICITATIS BIS BINIS PARVOLIS [...] / MA[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=Sched.+XVIII%2F1%2C+0442"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1509,6 +2007,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "900",
       "Height": "591",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20370",
         "CIL Number": "VI 20370",
@@ -1516,7 +2015,15 @@
         "Publication": "VI 20370 cf. VI 34130 et VI p. 3915 = CLE 1544 (RS = VI 20371)",
         "Language": "Latin",
         "Accession ID Number": "KO0001763",
-        "OCR": "[...]C L AP[...] / [...]SVAVICVLA ANNORVM [...] / OLVPIVM APOLLONIDAM [...] / SVO ET PARENTIBVS [...] VIXIT [...] / ERIPITAM VIRO ET MATRI MATER [...] / [...] / [...] / [...] / [...] MATER [...] / TV QVI ADSTITISTI MEI MONVMENTI / AMBVLA ET TE ESSE HOMINEM FAC[...]"
+        "OCR": "[...]C L AP[...] / [...]SVAVICVLA ANNORVM [...] / OLVPIVM APOLLONIDAM [...] / SVO ET PARENTIBVS [...] VIXIT [...] / ERIPITAM VIRO ET MATRI MATER [...] / [...] / [...] / [...] / [...] MATER [...] / TV QVI ADSTITISTI MEI MONVMENTI / AMBVLA ET TE ESSE HOMINEM FAC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1544"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12201049"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1536,6 +2043,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "879",
       "Height": "589",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 22215",
         "CIL Number": "VI 22215",
@@ -1543,7 +2051,15 @@
         "Publication": "VI 22215 cf. VI p. 3527 = CLE 801 = Suppl. It. – Roma 1, 1710",
         "Language": "Latin",
         "Accession ID Number": "KO0001764",
-        "OCR": "M MARIVS M L SA[...] / M MARIO M L TI[...] / SVO ET MARIAE M L FAV[...] / RVFO [...] CONSOLAT[...] / [...] / [...] / [...] / [...]"
+        "OCR": "M MARIVS M L SA[...] / M MARIO M L TI[...] / SVO ET MARIAE M L FAV[...] / RVFO [...] CONSOLAT[...] / [...] / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+801"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13200502"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1563,6 +2079,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "728",
       "Height": "732",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 22321",
         "CIL Number": "VI 22321",
@@ -1570,7 +2087,15 @@
         "Publication": "VI 22321 cf. VI p. 3527 = CLE 1220 = Suppl. It. – Roma 1, 1148",
         "Language": "Latin",
         "Accession ID Number": "KO0001765",
-        "OCR": "D M S / MAXIMVS HIC RECVBO / DVLCISSIMVS INFANS BIMVLVS / IN TERTIVM ESCENDENS SIS / MIHI TERRA LEVIS DVLCIS / ERAM MATRI CARIOR / VSQVE PATRI FECERVNT / L PETRONIVS AMPLIATVS / ET MASONIA BRISEIS / FILIO DVLCISSIMO"
+        "OCR": "D M S / MAXIMVS HIC RECVBO / DVLCISSIMVS INFANS BIMVLVS / IN TERTIVM ESCENDENS SIS / MIHI TERRA LEVIS DVLCIS / ERAM MATRI CARIOR / VSQVE PATRI FECERVNT / L PETRONIVS AMPLIATVS / ET MASONIA BRISEIS / FILIO DVLCISSIMO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1220"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13200608"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1590,6 +2115,7 @@
       "Date": "Sep. 22, 2016",
       "Width": "761",
       "Height": "721",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 23730",
         "CIL Number": "VI 23730",
@@ -1597,7 +2123,15 @@
         "Publication": "VI 23730 cf. VI 34148a et VI p. 3917 cf. XI 156*, 38 = CLE 837 = ILS 8195b cf. Suppl. It. 11, 1993, 126",
         "Language": "Latin",
         "Accession ID Number": "KO0001766",
-        "OCR": "DIIS MAN / PALINVRO / L APONI VAL H / POSVIT TIPHVS / FRAT CARISSI / [...] / [...]"
+        "OCR": "DIIS MAN / PALINVRO / L APONI VAL H / POSVIT TIPHVS / FRAT CARISSI / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+837"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13300926"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1617,6 +2151,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "1314",
       "Height": "627",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 24368",
         "CIL Number": "VI 24368",
@@ -1624,7 +2159,15 @@
         "Publication": "VI 24368 cf. VI 34152 = CLE 1097",
         "Language": "Latin",
         "Accession ID Number": "KO0001767",
-        "OCR": "C POBLICIVS C L AM[...] / RVSTIA C L M[...] / C CLAVDIVS FAVSTVS VI[...] / [...] / [...]"
+        "OCR": "C POBLICIVS C L AM[...] / RVSTIA C L M[...] / C CLAVDIVS FAVSTVS VI[...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1097"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13800617"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1644,6 +2187,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "803",
       "Height": "561",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 25547",
         "CIL Number": "VI 25547",
@@ -1651,7 +2195,15 @@
         "Publication": "VI 25547 cf. VI p. 3532 cf. XI 156*, 39 = CLE 1293 cf. Suppl. It. 11, 1993, 126",
         "Language": "Latin",
         "Accession ID Number": "KO0001768",
-        "OCR": "D M / RVBRIAE POSTVMA / CONIVGI KARISSIMAE / CVM QVEM VIX AN XIIX / L HAEC CONIVNX POSVI / TIBI DONA MERENTI / HIC ERIT ET NOBIS / VNA ALIQVANDO DOMVS"
+        "OCR": "D M / RVBRIAE POSTVMA / CONIVGI KARISSIMAE / CVM QVEM VIX AN XIIX / L HAEC CONIVNX POSVI / TIBI DONA MERENTI / HIC ERIT ET NOBIS / VNA ALIQVANDO DOMVS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1293"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13801796"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1671,6 +2223,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "975",
       "Height": "598",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 25570",
         "CIL Number": "VI 25570",
@@ -1678,7 +2231,15 @@
         "Publication": "VI 25570 cf. VI p. 3532 = CLE 1000",
         "Language": "Latin",
         "Accession ID Number": "KO0001769",
-        "OCR": "[...]FIONI RVTILIAE / SERVO DEDIT / C VEHILIVS ALBANVS / [...] / [...]"
+        "OCR": "[...]FIONI RVTILIAE / SERVO DEDIT / C VEHILIVS ALBANVS / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1000"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13801819"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1698,6 +2259,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "798",
       "Height": "868",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 28239",
         "CIL Number": "VI 28239",
@@ -1705,7 +2267,15 @@
         "Publication": "VI 28239 cf. VI p. 3535 cf. XI 124*, 4 = CLE 447 cf. CLE 805 adn.",
         "Language": "Latin",
         "Accession ID Number": "KO0001770",
-        "OCR": "VALERIA NOVELLA MATER / HYPARCHIVS ALVMNVS / [...] / [...] / [...] / [...] / [...] / [...] / VALE [...] / MATER [...] / [...] / [...]"
+        "OCR": "VALERIA NOVELLA MATER / HYPARCHIVS ALVMNVS / [...] / [...] / [...] / [...] / [...] / [...] / VALE [...] / MATER [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+447"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14802199"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1725,6 +2295,7 @@
       "Date": "Jul. 14, 2016",
       "Width": "822",
       "Height": "769",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30153",
         "CIL Number": "VI 30153",
@@ -1732,7 +2303,15 @@
         "Publication": "VI 30153 cf. VI p. 3736 cf. V 429*, 139 = CLE 1689",
         "Language": "Latin",
         "Accession ID Number": "KO0001771",
-        "OCR": "[...] / QVOD MIHI TV IPSA M[...] / SENSVM FACILE DEDI HINC A[...] / QVIBVS IPSE ESSET MERITIS SE[...] / RE SOLEBAM ENIM IACET ME[...] / [...]VI VOS O AMANTES MIH[...] / [...]BONVS[...]"
+        "OCR": "[...] / QVOD MIHI TV IPSA M[...] / SENSVM FACILE DEDI HINC A[...] / QVIBVS IPSE ESSET MERITIS SE[...] / RE SOLEBAM ENIM IACET ME[...] / [...]VI VOS O AMANTES MIH[...] / [...]BONVS[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1689"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17202255"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1752,6 +2331,7 @@
       "Date": "Sep. 15, 2016",
       "Width": "763",
       "Height": "725",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30484",
         "CIL Number": "VI 30484",
@@ -1759,7 +2339,15 @@
         "Publication": "VI 30484 = VI 36710 cf. VI p. 4056 = CLE 1875 = ILCV 4774 = Engström 63",
         "Language": "Latin",
         "Accession ID Number": "KO0001772",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1875"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17203045"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1779,6 +2367,7 @@
       "Date": "Jan. 12, 2017",
       "Width": "881",
       "Height": "673",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20908",
         "CIL Number": "VI 20908",
@@ -1786,7 +2375,15 @@
         "Publication": "VI 20908 cf. VI p. 3526 cf. XI 26*, 37 = CLE 1584",
         "Language": "Latin",
         "Accession ID Number": "KO0001802",
-        "OCR": "D M / IVNIA SABINA CONIVX / INCOMPARABILIS [...]PIENTIS / SIMA HIC QVIESCIT CVI BENE ME / RENTI DE SVIS SIBI [...] / TVS CONIVX ITEM MARATHO [...] CAL / LISTRATVS FILI FECERVNT ET HVNC / TITVLVM POSVERVNT PIETATIS HO / NOREM AETERNVM CONIVGI ET MATRI / [...]"
+        "OCR": "D M / IVNIA SABINA CONIVX / INCOMPARABILIS [...]PIENTIS / SIMA HIC QVIESCIT CVI BENE ME / RENTI DE SVIS SIBI [...] / TVS CONIVX ITEM MARATHO [...] CAL / LISTRATVS FILI FECERVNT ET HVNC / TITVLVM POSVERVNT PIETATIS HO / NOREM AETERNVM CONIVGI ET MATRI / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1584"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12201589"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1806,6 +2403,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "713",
       "Height": "800",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 21521",
         "CIL Number": "VI 21521",
@@ -1813,7 +2411,15 @@
         "Publication": "VI 21521 cf. VI 34137 = CLE 1109",
         "Language": "Latin",
         "Accession ID Number": "KO0008522",
-        "OCR": "[...] / [...]RA / [...]ET FREMIT PARCAR[...] / [...]CEMERE MIHI TRISTI[...] / [...]VERSARI [...] / [...]MEDIS SOLATVM [...]DESERTVM / [...]CLAMARE [...] / EX ACTA PROPE NOCTE SVOS C[...] / SPARGERET ET VOLVCRI[...] / VIDI SIDEREO RADIANTEM LVMI[...] / AETHERIDE LABI NON FV[...] / SED VERVS IVVENI COLOR ET S[...] / MAIOR ERAT[...]"
+        "OCR": "[...] / [...]RA / [...]ET FREMIT PARCAR[...] / [...]CEMERE MIHI TRISTI[...] / [...]VERSARI [...] / [...]MEDIS SOLATVM [...]DESERTVM / [...]CLAMARE [...] / EX ACTA PROPE NOCTE SVOS C[...] / SPARGERET ET VOLVCRI[...] / VIDI SIDEREO RADIANTEM LVMI[...] / AETHERIDE LABI NON FV[...] / SED VERVS IVVENI COLOR ET S[...] / MAIOR ERAT[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1109"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12600586"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1833,6 +2439,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "1008",
       "Height": "563",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20128",
         "CIL Number": "VI 20128",
@@ -1840,7 +2447,15 @@
         "Publication": "VI 20128 cf. VI p. 3524 = CLE 1065",
         "Language": "Latin",
         "Accession ID Number": "KO0008523",
-        "OCR": "C IVLIVS SP F MAXIMVS / VIXIT ANNIS II MENSIBVS V / [...] / [...] / [...] / [...]"
+        "OCR": "C IVLIVS SP F MAXIMVS / VIXIT ANNIS II MENSIBVS V / [...] / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1065"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12200806"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1860,6 +2475,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "713",
       "Height": "669",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 26020",
         "CIL Number": "VI 26020",
@@ -1867,7 +2483,15 @@
         "Publication": "VI 26020 cf. VI p. 3532 = CLE 1013",
         "Language": "Latin",
         "Accession ID Number": "KO0008524",
-        "OCR": "[...] / [...] / [...] / [...] / [...]PATRI"
+        "OCR": "[...] / [...] / [...] / [...] / [...]PATRI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1013"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14200190"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1887,6 +2511,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "999",
       "Height": "474",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 11464",
         "CIL Number": "VI 11464",
@@ -1894,7 +2519,15 @@
         "Publication": "VI 11464 cf. VI p. 3508 = CLE 1261",
         "Language": "Latin",
         "Accession ID Number": "KO0008525",
-        "OCR": "C ALLIDIO HERMAE / QVI QVID QVID DIXIT / DVLCIS AMICIS ERAT / HVNC QVOQVE POST MORTEM / DEFLEMVS [...] AMICI / VIXIT ANNIS LX"
+        "OCR": "C ALLIDIO HERMAE / QVI QVID QVID DIXIT / DVLCIS AMICIS ERAT / HVNC QVOQVE POST MORTEM / DEFLEMVS [...] AMICI / VIXIT ANNIS LX",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1261"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17201150"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1914,6 +2547,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "964",
       "Height": "616",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30111",
         "CIL Number": "VI 30111",
@@ -1921,7 +2555,15 @@
         "Publication": "VI 30111 cf. VI p. 3736 = CLE 1094",
         "Language": "Latin",
         "Accession ID Number": "KO0008526",
-        "OCR": "QVANDIVS VIXI QVAESIVI / NEC CESSAVI PERDERE / SEMPER / MORS INTERVENIT QVAE / FACIT VT AB VTROQVE / VACI"
+        "OCR": "QVANDIVS VIXI QVAESIVI / NEC CESSAVI PERDERE / SEMPER / MORS INTERVENIT QVAE / FACIT VT AB VTROQVE / VACI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1094"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17202211"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1941,6 +2583,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "1034",
       "Height": "631",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 35508",
         "CIL Number": "VI 35508",
@@ -1948,7 +2591,15 @@
         "Publication": "VI 35508 = CLE 1294",
         "Language": "Latin",
         "Accession ID Number": "KO0008527",
-        "OCR": "[...]VIXIT ANNOS XXIIX / [...]POSVIT SED FVNER FACER SO[...] / [...]ILIA MINOR / [...]FELICES [...] O LAPIS HIC BENE [...] / [...]TERRA MVTA [...] / IVCVNDAM ALTER[...] / SEMPER [...]QVOD[...]"
+        "OCR": "[...]VIXIT ANNOS XXIIX / [...]POSVIT SED FVNER FACER SO[...] / [...]ILIA MINOR / [...]FELICES [...] O LAPIS HIC BENE [...] / [...]TERRA MVTA [...] / IVCVNDAM ALTER[...] / SEMPER [...]QVOD[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1294"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/23500493"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1968,6 +2619,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "583",
       "Height": "800",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 28523",
         "CIL Number": "VI 28523",
@@ -1975,7 +2627,15 @@
         "Publication": "VI 28523 cf. VI p. 3535 = CLE 1540",
         "Language": "Latin",
         "Accession ID Number": "KO0008528",
-        "OCR": "[...]MORTAL[...] / [...]SIC EQVAM VNDE / [...]SITA [...] VIXI / ANN L [...] / [...] / [...] / [...] / PIETATIS [...] / [...] / [...] / ET DOROTHEVS FECERVNT"
+        "OCR": "[...]MORTAL[...] / [...]SIC EQVAM VNDE / [...]SITA [...] VIXI / ANN L [...] / [...] / [...] / [...] / PIETATIS [...] / [...] / [...] / ET DOROTHEVS FECERVNT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1540"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/14802481"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -1995,6 +2655,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "1109",
       "Height": "511",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 30553",
         "CIL Number": "VI 30553",
@@ -2002,7 +2663,15 @@
         "Publication": "VI 30553, 21 cf. VI p. 3751 = CLE 1775",
         "Language": "Latin",
         "Accession ID Number": "KO0008529",
-        "OCR": "[...]EN VIVIT EO QVI LEGIT / [...]IS CINERIS PROFV[...] / [...]MANV LVCEN[...]"
+        "OCR": "[...]EN VIVIT EO QVI LEGIT / [...]IS CINERIS PROFV[...] / [...]MANV LVCEN[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1775"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17600437"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2022,6 +2691,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "900",
       "Height": "548",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 48",
         "CIL Number": "VI 48",
@@ -2029,7 +2699,15 @@
         "Publication": "VI 48 cf. VI p. 3003 et VI p. 3755 et VI p. 4099 = ILS 3375 = CLE 889",
         "Language": "Latin",
         "Accession ID Number": "KO0008530",
-        "OCR": "FECERAT [...] / QVEM [...] / [...]CONS[...] / [...]TVRI SAC[...]"
+        "OCR": "FECERAT [...] / QVEM [...] / [...]CONS[...] / [...]TVRI SAC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+889"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/17200152"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2049,6 +2727,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "791",
       "Height": "653",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 24792",
         "CIL Number": "VI 24792",
@@ -2056,7 +2735,15 @@
         "Publication": "VI 24792 cf. VI 34154 = CLE 1062",
         "Language": "Latin",
         "Accession ID Number": "KO0008531",
-        "OCR": "P ILLIVS LAENA[...] / [...]CAMVS FILIO V A XV[...] / [...]CINERES ALIVS LOCO / [...]ABET OSSA EFFICIES V[...] / [...]CRA SIC COLITVR"
+        "OCR": "P ILLIVS LAENA[...] / [...]CAMVS FILIO V A XV[...] / [...]CINERES ALIVS LOCO / [...]ABET OSSA EFFICIES V[...] / [...]CRA SIC COLITVR",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1062"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13801041"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2076,6 +2763,7 @@
       "Date": "Nov. 24, 2016",
       "Width": "800",
       "Height": "671",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7578",
         "CIL Number": "VI 7578",
@@ -2083,7 +2771,15 @@
         "Publication": "VI 7578 cf. VI p. 3431 et VI p. 3852 = CLE 422",
         "Language": "Latin",
         "Accession ID Number": "KO0008532",
-        "OCR": "HOC EGO SVM IN TVMVLO MARCIANA [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]FATA TVLISSENT / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]VIVAM SERVES CVNCTIS GENER[...]"
+        "OCR": "HOC EGO SVM IN TVMVLO MARCIANA [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]FATA TVLISSENT / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...] / [...]VIVAM SERVES CVNCTIS GENER[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+422"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18600290"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2103,13 +2799,22 @@
       "Date": "Dec. 16, 2016",
       "Width": "800",
       "Height": "685",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20450",
         "CIL Number": "VI 20450",
         "Publication": "VI 20450 cf. CLE 162 adn.",
         "Language": "Latin",
         "Accession ID Number": "KO0008533",
-        "OCR": "DIS MAN SAC / IVLIA EVTYCHIA / VIX ANNIS XX / L CALPVRNIVS MELICHRVS / CONIVGI CARISSIMAE B M F / DE QVA NIHIL DOLVIT NISI MO[...]"
+        "OCR": "DIS MAN SAC / IVLIA EVTYCHIA / VIX ANNIS XX / L CALPVRNIVS MELICHRVS / CONIVGI CARISSIMAE B M F / DE QVA NIHIL DOLVIT NISI MO[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+20450"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12201127"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2129,6 +2834,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "1100",
       "Height": "529",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 7873",
         "CIL Number": "VI 7873",
@@ -2136,7 +2842,15 @@
         "Publication": "VI 7873 cf. VI p. 3439 = CLE 1024",
         "Language": "Latin",
         "Accession ID Number": "KO0008534",
-        "OCR": "ASPHALE OCTAVIA / VIXIT ANN XXXIII / MENS VIII / HIC IACEO CONIVX [...] / [...]"
+        "OCR": "ASPHALE OCTAVIA / VIXIT ANN XXXIII / MENS VIII / HIC IACEO CONIVX [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1024"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18700298"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2156,6 +2870,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "605",
       "Height": "789",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 22413",
         "CIL Number": "VI 22413",
@@ -2163,7 +2878,15 @@
         "Publication": "VI 22413 cf. VI p. 3528 = CLE 1638",
         "Language": "Latin",
         "Accession ID Number": "KO0008535",
-        "OCR": "[...] / [...]E CONIVGIS[...] / [...]MAE ET MELICVRI[...] / [...]ME CHRONIVS[...] / [...]FELICI SSVAE FECI[...] / [...] / [...] / [...] / [...]NOS [...] HIC AN / [...] / [...] / [...] / [...] / [...] / [...]"
+        "OCR": "[...] / [...]E CONIVGIS[...] / [...]MAE ET MELICVRI[...] / [...]ME CHRONIVS[...] / [...]FELICI SSVAE FECI[...] / [...] / [...] / [...] / [...]NOS [...] HIC AN / [...] / [...] / [...] / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1638"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13200700"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2183,6 +2906,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "894",
       "Height": "558",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 23629",
         "CIL Number": "VI 23629",
@@ -2190,7 +2914,15 @@
         "Publication": "VI 23629 cf. VI p. 3529 = CLE 496",
         "Language": "Latin",
         "Accession ID Number": "KO0008536",
-        "OCR": "D M / [...] / [...] / [...]"
+        "OCR": "D M / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+496"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13300825"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2210,6 +2942,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "671",
       "Height": "728",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 15806 a",
         "CIL Number": "VI 15806 a",
@@ -2217,7 +2950,15 @@
         "Publication": "VI 15806 a = CLE 1090",
         "Language": "Latin",
         "Accession ID Number": "KO0052515",
-        "OCR": "[...]CLODIA D L / ELEGANS / VIX AN XXX / HIC CLODIA CARA / CVNCTIS IVSTISQVE PIIS / QVE EST SITA ET SVBITO / TEMPORE RAPTA ABIIT / QVE[...] ET AMISSAM / AETERNO TEMPORE / CONIVNX"
+        "OCR": "[...]CLODIA D L / ELEGANS / VIX AN XXX / HIC CLODIA CARA / CVNCTIS IVSTISQVE PIIS / QVE EST SITA ET SVBITO / TEMPORE RAPTA ABIIT / QVE[...] ET AMISSAM / AETERNO TEMPORE / CONIVNX",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1090"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/09600676"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2237,13 +2978,22 @@
       "Date": "Dec. 16, 2016",
       "Width": "592",
       "Height": "787",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 20679",
         "CIL Number": "VI 20679",
         "Publication": "VI 20679 = IG XIV 1711 = IGUR II 1, 634 cf. CLE 162 adn.",
         "Language": "Greek, Latin",
         "Accession ID Number": "KO0008538",
-        "OCR": "D M S / IVLIAE SEVERAE FIL[...] / [...] / IN OMNIBVS [...] / VITAE SVAE [...] / SEVERVS AVG LIB / FECIT CONIVGI OPTV / MAE CVM QVA VIXIT / ANNIS [...] DE QVA NI / HIL CONQVESTVS EST / NISI QVOD CELERI FATO / INTERCEPTA SIT"
+        "OCR": "D M S / IVLIAE SEVERAE FIL[...] / [...] / IN OMNIBVS [...] / VITAE SVAE [...] / SEVERVS AVG LIB / FECIT CONIVGI OPTV / MAE CVM QVA VIXIT / ANNIS [...] DE QVA NI / HIL CONQVESTVS EST / NISI QVOD CELERI FATO / INTERCEPTA SIT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+20679"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12201359"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2263,6 +3013,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "998",
       "Height": "521",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 22377",
         "CIL Number": "VI 22377",
@@ -2270,7 +3021,15 @@
         "Publication": "VI 22377 cf. VI p. 3527 = CLE 1040",
         "Language": "Latin",
         "Accession ID Number": "KO0008539",
-        "OCR": "[...]MMIA [...] / [...] / [...] / [...] / [...] / [...]"
+        "OCR": "[...]MMIA [...] / [...] / [...] / [...] / [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1040"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13200665"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2290,6 +3049,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "891",
       "Height": "739",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XIV 3535",
         "CIL Number": "XIV 3535",
@@ -2297,7 +3057,15 @@
         "Publication": "XIV 3535 = CLE 879 = Inscr. It. IV 1, 35 cf. Inscr. It. IV 1 p. 208 cf. ILS 4874 adn. = Suppl. It. – Latium vetus 1, 934",
         "Language": "Latin",
         "Accession ID Number": "KO0008540",
-        "OCR": "[...]VOS ET BELENO IARA [...] / [...]NONANTINVS ET QVOQVE [...] / [...]S SIC VI[...]"
+        "OCR": "[...]VOS ET BELENO IARA [...] / [...]NONANTINVS ET QVOQVE [...] / [...]S SIC VI[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+879"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/05801524"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2317,6 +3085,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "598",
       "Height": "887",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 8991",
         "CIL Number": "VI 8991",
@@ -2324,7 +3093,15 @@
         "Publication": "VI 8991 cf. VI p. 3463 et VI p. 3891 = CLE 101 = ILS 7741 = Suppl. It. – Roma 2, 2309",
         "Language": "Latin",
         "Accession ID Number": "KO0008541",
-        "OCR": "L MARIVS L F / VITALIS / VIX AN XVII [...] / CONSVMMATVS [...] / [...] / [...] / VRBE [...] PRAETORIO / HADRIANI AVG CAESAR / VBI DVM EST [...] / [...]DERVNT [...] / QVI [...] TRADIDERVNT / HOC [...]OCO / MARIA MALCHIS MATER / INFELICISSIMA FILIO SANCTISSIMO"
+        "OCR": "L MARIVS L F / VITALIS / VIX AN XVII [...] / CONSVMMATVS [...] / [...] / [...] / VRBE [...] PRAETORIO / HADRIANI AVG CAESAR / VBI DVM EST [...] / [...]DERVNT [...] / QVI [...] TRADIDERVNT / HOC [...]OCO / MARIA MALCHIS MATER / INFELICISSIMA FILIO SANCTISSIMO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+101"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18900058"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2344,6 +3121,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "628",
       "Height": "799",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 2357",
         "CIL Number": "VI 2357",
@@ -2351,7 +3129,15 @@
         "Publication": "VI 2357 cf. VI p. 3318 = ILS 8204 = CLE 838 = Suppl. It. – Roma 2, 2645",
         "Language": "Latin",
         "Accession ID Number": "KO0001832",
-        "OCR": "DIS MANIBVS / IVLIAE FELICVLAE / CONIVGI BENE / MERENTI EIVS DE [...] / FILIO NEP [...] MATER / FECIT [...]VS PVBLIC / IVLIANVS [...] ET SVIS / POSTERISQVE [...] EORVM / HOSPES AD HVNC TVMVLVM / NE MIIAS OSSA PRECANTVR / TECTA HOMINIS [...] GRATVS / HOMO ES MISCE BIBE DA MI[...]"
+        "OCR": "DIS MANIBVS / IVLIAE FELICVLAE / CONIVGI BENE / MERENTI EIVS DE [...] / FILIO NEP [...] MATER / FECIT [...]VS PVBLIC / IVLIANVS [...] ET SVIS / POSTERISQVE [...] EORVM / HOSPES AD HVNC TVMVLVM / NE MIIAS OSSA PRECANTVR / TECTA HOMINIS [...] GRATVS / HOMO ES MISCE BIBE DA MI[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+838"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/18301064"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2371,6 +3157,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "650",
       "Height": "895",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 9604",
         "CIL Number": "VI 9604",
@@ -2378,7 +3165,15 @@
         "Publication": "VI 9604 cf. VI p. 3470 et VI p. 3895 = CLE 1253 = ILS 7800 = Suppl. It. – Roma 2, 2585",
         "Language": "Latin",
         "Accession ID Number": "KO0001816",
-        "OCR": "NOMEN QVI RETINENS TV / MAGNVS ALEXANDER / PALLADOS INVENTVM / MEDICINALEMQ LABOREM / QVOT FECI STVDIO PRO / XIMVS IPSE MEO / TESTOR NVNC SVPEROS NON / HOC MERVISSE VIDEBAR / IN VOLNVS GENERIS QVOT / SVBITO OCCIDIMVS / NVNC ET DVBIA [...]ATORVM / NEC LEGE CLADES / CONIVNX QVOD POTVIT TITV / LVM MIHI REDDIDIT VNI / VALERIA VRSILLA"
+        "OCR": "NOMEN QVI RETINENS TV / MAGNVS ALEXANDER / PALLADOS INVENTVM / MEDICINALEMQ LABOREM / QVOT FECI STVDIO PRO / XIMVS IPSE MEO / TESTOR NVNC SVPEROS NON / HOC MERVISSE VIDEBAR / IN VOLNVS GENERIS QVOT / SVBITO OCCIDIMVS / NVNC ET DVBIA [...]ATORVM / NEC LEGE CLADES / CONIVNX QVOD POTVIT TITV / LVM MIHI REDDIDIT VNI / VALERIA VRSILLA",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1253"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/19301146"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2398,12 +3193,21 @@
       "Date": "Dec. 22, 2016",
       "Width": "1196",
       "Height": "481",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "AE 1947, 191",
         "Publication": "AE 1947, 191 = AE 1948, 106",
         "Language": "Latin",
         "Accession ID Number": "KO0008542",
-        "OCR": "HOMO BONVS INFANS ADQVE AMICVS OMNIBVS / HIC CONQVIESCIT ANIMA SVPERIS TRADITA / QVIN[...]PTVM LVMEN MENSI XI REDDIDIT / AMYMONE MATRE ET Q MARCILIO PATRE / NATVS QVIRINA ATHENODORVS ROMA DOMO"
+        "OCR": "HOMO BONVS INFANS ADQVE AMICVS OMNIBVS / HIC CONQVIESCIT ANIMA SVPERIS TRADITA / QVIN[...]PTVM LVMEN MENSI XI REDDIDIT / AMYMONE MATRE ET Q MARCILIO PATRE / NATVS QVIRINA ATHENODORVS ROMA DOMO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=AE+1947%2C+191"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15200163"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2423,6 +3227,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "694",
       "Height": "680",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XIV 3869",
         "CIL Number": "XIV 3869",
@@ -2430,7 +3235,15 @@
         "Publication": "XIV 3869 = CLE 1758 cf. EE IX p. 471 = Inscr. It. IV 1, 482 cf. Inscr. It. IV 1 p. 212 = Suppl. It. – Latium vetus 1, 933",
         "Language": "Latin",
         "Accession ID Number": "KO0008543",
-        "OCR": "HOC IACET IN TVMVLO / QVEM RAPVIT FA[...] / TER[...]BIS QVIN[...] / TRES SVPER [...] / HIC COLVIT SVPER[...] / ELIGERE QVI[...] / [...]ILLA [...] / [...] / [...]MOR[...] / [...]AL[...] / [...]"
+        "OCR": "HOC IACET IN TVMVLO / QVEM RAPVIT FA[...] / TER[...]BIS QVIN[...] / TRES SVPER [...] / HIC COLVIT SVPER[...] / ELIGERE QVI[...] / [...]ILLA [...] / [...] / [...]MOR[...] / [...]AL[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1758"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/05801868"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2450,13 +3263,22 @@
       "Date": "Dec. 22, 2016",
       "Width": "798",
       "Height": "745",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 24243",
         "CIL Number": "VI 24243",
         "Publication": "VI 24243 cf. VI p. 3917 cf. CLE 162 adn.",
         "Language": "Latin",
         "Accession ID Number": "KO0008544",
-        "OCR": "D M S / PLAETORIAE / ANTIOCHIDI / RARISSIMAE FEMINAE / VIX ANN XXVI M III D XXVII / T FLAVIVS CAPITO / CONIVGI CASTISSIMAE / PIISSIMAE ET DE SE / OPTIME MERITAE / DE QVA NVLLVM DOLOREM / NISI ACERBISSIMAE MORTIS EIVS / ACCEPERAT DIGNISSIMAE FECIT"
+        "OCR": "D M S / PLAETORIAE / ANTIOCHIDI / RARISSIMAE FEMINAE / VIX ANN XXVI M III D XXVII / T FLAVIVS CAPITO / CONIVGI CASTISSIMAE / PIISSIMAE ET DE SE / OPTIME MERITAE / DE QVA NVLLVM DOLOREM / NISI ACERBISSIMAE MORTIS EIVS / ACCEPERAT DIGNISSIMAE FECIT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+24243"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13800487"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2476,6 +3298,7 @@
       "Date": "Dec. 22, 2016",
       "Width": "1071",
       "Height": "636",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 19175",
         "CIL Number": "VI 19175",
@@ -2483,7 +3306,15 @@
         "Publication": "VI 19175 cf. VI 34120 = CLE 1086",
         "Language": "Latin",
         "Accession ID Number": "KO0008545",
-        "OCR": "HEDIA C L NARDIS VIX[...] / SI QVIS FORTE LEGIT TITVLVM NOMEN [...] / NARDINIS INVENIES OSSA SEPVLTA LO[...] / CARA VIRO NVNC [...] / MANET [...] / HELIADES CONIVGI BENE MEREN[...] / SI TANTVM MIHI FORTVNA LARGITA[...] / [...] OFFICIA [...] HOC TO[...] / DEM EA PAVPERIE FECI VI[...]"
+        "OCR": "HEDIA C L NARDIS VIX[...] / SI QVIS FORTE LEGIT TITVLVM NOMEN [...] / NARDINIS INVENIES OSSA SEPVLTA LO[...] / CARA VIRO NVNC [...] / MANET [...] / HELIADES CONIVGI BENE MEREN[...] / SI TANTVM MIHI FORTVNA LARGITA[...] / [...] OFFICIA [...] HOC TO[...] / DEM EA PAVPERIE FECI VI[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1086"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12101083"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2503,6 +3334,7 @@
       "Date": "Dec. 22, 2016",
       "Width": "717",
       "Height": "581",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 13830",
         "CIL Number": "VI 13830",
@@ -2510,7 +3342,15 @@
         "Publication": "VI 13830 cf. VI p. 3514 et VI p. 3912 = CLE 497 = ILS 7990",
         "Language": "Latin",
         "Accession ID Number": "KO0008546",
-        "OCR": "CAECILIAE SEX L [...] / QVAE VIXIT AN XLVII M III / [...] / HIC OSSA SEPVLTA [...] / BLANDAE MEMORIAE QVIESC[...] / [...] / [...] / Q V F ET F [...]"
+        "OCR": "CAECILIAE SEX L [...] / QVAE VIXIT AN XLVII M III / [...] / HIC OSSA SEPVLTA [...] / BLANDAE MEMORIAE QVIESC[...] / [...] / [...] / Q V F ET F [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+497"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/15500258"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2530,13 +3370,22 @@
       "Date": "Dec. 22, 2016",
       "Width": "803",
       "Height": "632",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 24758",
         "CIL Number": "VI 24758",
         "Publication": "VI 24758",
         "Language": "Latin",
         "Accession ID Number": "KO0008547",
-        "OCR": "PONTIA D L / TRYPHERA / DVM VIXIT / PIA FVIT SVIS"
+        "OCR": "PONTIA D L / TRYPHERA / DVM VIXIT / PIA FVIT SVIS",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=VI+24758"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/13801007"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2556,12 +3405,21 @@
       "Date": "Jan. 12, 2017",
       "Width": "538",
       "Height": "1049",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "AE 1928, 72",
         "Publication": "AE 1928, 72",
         "Language": "Latin",
         "Accession ID Number": "KO0008572",
-        "OCR": "D[...] / SEX AVO[...] / MARTIA[...] / [...]STRA[...] / AVONIA PR[...] / CONIVX AVON[...] / E[...] / SEX AVON[...] / LIB PATRON[...] / MERENTI [...] / [...]"
+        "OCR": "D[...] / SEX AVO[...] / MARTIA[...] / [...]STRA[...] / AVONIA PR[...] / CONIVX AVON[...] / E[...] / SEX AVON[...] / LIB PATRON[...] / MERENTI [...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=AE+1928%2C+72"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/12700002"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription.",
@@ -2580,6 +3438,7 @@
       "Date": "Dec. 16, 2016",
       "Width": "657",
       "Height": "793",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL VI 15806 b",
         "CIL Number": "VI 15806 b",
@@ -2587,7 +3446,15 @@
         "Publication": "VI 15806 b = CLE 1090",
         "Language": "Latin",
         "Accession ID Number": "KO0052516",
-        "OCR": "C MEMMIVS / C E D L MILO / [...]"
+        "OCR": "C MEMMIVS / C E D L MILO / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=CLE+1090"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/09600676"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of latex.",
@@ -2607,6 +3474,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1148",
       "Height": "441",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2971 a",
         "CIL Number": "XV 2971 a",
@@ -2614,7 +3482,15 @@
         "Publication": "XV 2971 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127632",
-        "OCR": "PAL[...]FO[...]"
+        "OCR": "PAL[...]FO[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2971+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500756"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2634,6 +3510,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1173",
       "Height": "481",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2919 d",
         "CIL Number": "XV 2919 d",
@@ -2641,7 +3518,15 @@
         "Publication": "XV 2919 d",
         "Language": "Latin",
         "Accession ID Number": "KO0127633",
-        "OCR": "Q I A[...]"
+        "OCR": "Q I A[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2919+d"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500587"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2661,6 +3546,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1068",
       "Height": "500",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2756 a",
         "CIL Number": "XV 2756 a",
@@ -2668,7 +3554,15 @@
         "Publication": "XV 2756 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127634",
-        "OCR": "Q G[...]"
+        "OCR": "Q G[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2756+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501114"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2688,6 +3582,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1075",
       "Height": "526",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3045 b",
         "CIL Number": "XV 3045 b",
@@ -2695,7 +3590,12 @@
         "Publication": "XV 3045 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127638",
-        "OCR": "[...]SN[...]"
+        "OCR": "[...]SN[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3045+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2715,6 +3615,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1152",
       "Height": "527",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2629 a",
         "CIL Number": "XV 2629 a",
@@ -2722,7 +3623,15 @@
         "Publication": "XV 2629 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127639",
-        "OCR": "VIRAV[...]"
+        "OCR": "VIRAV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2629+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400624"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2742,6 +3651,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "965",
       "Height": "526",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2630 c",
         "CIL Number": "XV 2630 c",
@@ -2749,7 +3659,15 @@
         "Publication": "XV 2630 c",
         "Language": "Latin",
         "Accession ID Number": "KO0127640",
-        "OCR": "VIR[...]"
+        "OCR": "VIR[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2630+c"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400629"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2769,6 +3687,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "997",
       "Height": "604",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3045 e",
         "CIL Number": "XV 3045 e",
@@ -2776,7 +3695,15 @@
         "Publication": "XV 3045 e",
         "Language": "Latin",
         "Accession ID Number": "KO0127641",
-        "OCR": "SNRG[...]"
+        "OCR": "SNRG[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3045+e"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500955"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2796,6 +3723,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1089",
       "Height": "536",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2971 b",
         "CIL Number": "XV 2971 b",
@@ -2803,7 +3731,15 @@
         "Publication": "XV 2971 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127642",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2971+b"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500757"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2823,6 +3759,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1197",
       "Height": "492",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2835 c",
         "CIL Number": "XV 2835 c",
@@ -2830,7 +3767,15 @@
         "Publication": "XV 2835 c",
         "Language": "Latin",
         "Accession ID Number": "KO0127644",
-        "OCR": "Q[...]"
+        "OCR": "Q[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2835+c"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500411"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2850,6 +3795,7 @@
       "Date": "Oct. 24, 2017",
       "Width": "1097",
       "Height": "495",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2747 a",
         "CIL Number": "XV 2747 a",
@@ -2857,7 +3803,15 @@
         "Publication": "XV 2747 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127646",
-        "OCR": "[...]CERYC[...]"
+        "OCR": "[...]CERYC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2747+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501087"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2877,6 +3831,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1213",
       "Height": "517",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3045 a",
         "CIL Number": "XV 3045 a",
@@ -2884,7 +3839,15 @@
         "Publication": "XV 3045 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127647",
-        "OCR": "[...]S N RO"
+        "OCR": "[...]S N RO",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3045+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500949"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2904,6 +3867,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1179",
       "Height": "439",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2662 c",
         "CIL Number": "XV 2662 c",
@@ -2911,7 +3875,15 @@
         "Publication": "XV 2662 c",
         "Language": "Latin",
         "Accession ID Number": "KO0127648",
-        "OCR": "[...]ARP[...]"
+        "OCR": "[...]ARP[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2662+c"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400708"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2931,6 +3903,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1084",
       "Height": "514",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2629 a",
         "CIL Number": "XV 2629 a",
@@ -2938,7 +3911,15 @@
         "Publication": "XV 2629 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127639",
-        "OCR": "VIRAV[...]"
+        "OCR": "VIRAV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2629+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400624"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2958,6 +3939,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "999",
       "Height": "579",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3010 a",
         "CIL Number": "XV 3010 a",
@@ -2965,7 +3947,15 @@
         "Publication": "XV 3010 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127649",
-        "OCR": "[...]MIS[...]"
+        "OCR": "[...]MIS[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3010+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500833"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -2985,6 +3975,7 @@
       "Date": "Aug. 25, 2017",
       "Width": "1159",
       "Height": "509",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2571",
         "CIL Number": "XV 2571",
@@ -2992,7 +3983,15 @@
         "Publication": "XV 2571",
         "Language": "Latin",
         "Accession ID Number": "KO0127650",
-        "OCR": "TI AVREL HERACLA / [...]AT ET FILEC[...]"
+        "OCR": "TI AVREL HERACLA / [...]AT ET FILEC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2571"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400240"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3012,6 +4011,7 @@
       "Date": "Aug. 25, 2017",
       "Width": "1288",
       "Height": "452",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2586 a",
         "CIL Number": "XV 2586 a",
@@ -3019,7 +4019,12 @@
         "Publication": "XV 2586 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127651",
-        "OCR": "FAQVN[...]"
+        "OCR": "FAQVN[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2586+a"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3039,6 +4044,7 @@
       "Date": "Aug. 24, 2017",
       "Width": "899",
       "Height": "554",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2748 b",
         "CIL Number": "XV 2748 b",
@@ -3046,7 +4052,12 @@
         "Publication": "XV 2748 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127652",
-        "OCR": "L C H[...]"
+        "OCR": "L C H[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2748+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3066,6 +4077,7 @@
       "Date": "Aug. 24, 2017",
       "Width": "1219",
       "Height": "467",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3041 i",
         "CIL Number": "XV 3041 i",
@@ -3073,7 +4085,12 @@
         "Publication": "XV 3041 i cf. EE IX p. 173 n. 424, 80",
         "Language": "Latin",
         "Accession ID Number": "KO0106867",
-        "OCR": "[...]P NN"
+        "OCR": "[...]P NN",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3041+i"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3093,6 +4110,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1055",
       "Height": "532",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3045 b",
         "CIL Number": "XV 3045 b",
@@ -3100,7 +4118,12 @@
         "Publication": "XV 3045 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127638",
-        "OCR": "SNR"
+        "OCR": "SNR",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3045+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3120,6 +4143,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1198",
       "Height": "468",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2967 b",
         "CIL Number": "XV 2967 b",
@@ -3127,7 +4151,12 @@
         "Publication": "XV 2967 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127654",
-        "OCR": "[...] / [...]"
+        "OCR": "[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2967+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription.",
@@ -3146,6 +4175,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "948",
       "Height": "560",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2748 a",
         "CIL Number": "XV 2748 a",
@@ -3153,7 +4183,12 @@
         "Publication": "XV 2748 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127653",
-        "OCR": "L CH"
+        "OCR": "L CH",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2748+a"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3173,6 +4208,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1184",
       "Height": "433",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2869 d",
         "CIL Number": "XV 2869 d",
@@ -3180,7 +4216,15 @@
         "Publication": "XV 2869 d",
         "Language": "Latin",
         "Accession ID Number": "KO0127655",
-        "OCR": "[...]ERSA SIP"
+        "OCR": "[...]ERSA SIP",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2869+d"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500498"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3200,6 +4244,7 @@
       "Date": "Aug. 24, 2017",
       "Width": "1288",
       "Height": "437",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2863 e",
         "CIL Number": "XV 2863 e",
@@ -3207,7 +4252,12 @@
         "Publication": "XV 2863 e",
         "Language": "Latin",
         "Accession ID Number": "KO0127636",
-        "OCR": "[...]FA[...] F P"
+        "OCR": "[...]FA[...] F P",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2863+e"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3227,6 +4277,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1043",
       "Height": "472",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2833 s",
         "CIL Number": "XV 2833 s",
@@ -3234,7 +4285,12 @@
         "Publication": "XV 2833 s",
         "Language": "Latin",
         "Accession ID Number": "KO0127656",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2833+s"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3254,6 +4310,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1138",
       "Height": "443",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2886",
         "CIL Number": "XV 2886",
@@ -3261,7 +4318,15 @@
         "Publication": "XV 2886",
         "Language": "Latin",
         "Accession ID Number": "KO0127657",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2886"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500525"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3281,6 +4346,7 @@
       "Date": "Aug. 25, 2017",
       "Width": "1201",
       "Height": "440",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2864",
         "CIL Number": "XV 2864",
@@ -3288,7 +4354,15 @@
         "Publication": "XV 2864",
         "Language": "Latin",
         "Accession ID Number": "KO0127659",
-        "OCR": "L M[...]"
+        "OCR": "L M[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2864"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500488"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3308,6 +4382,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1049",
       "Height": "557",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2643 a",
         "CIL Number": "XV 2643 a",
@@ -3315,7 +4390,15 @@
         "Publication": "XV 2643 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127660",
-        "OCR": "[...]C A F"
+        "OCR": "[...]C A F",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2643+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400662"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3335,6 +4418,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1379",
       "Height": "389",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3167 s",
         "CIL Number": "XV 3167 s",
@@ -3342,7 +4426,15 @@
         "Publication": "XV 3167 s",
         "Language": "Latin",
         "Accession ID Number": "KO0127661",
-        "OCR": "S[...]F CAVI"
+        "OCR": "S[...]F CAVI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3167+s"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500228"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3362,6 +4454,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "879",
       "Height": "653",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2574 a",
         "CIL Number": "XV 2574 a",
@@ -3369,7 +4462,15 @@
         "Publication": "XV 2574 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127662",
-        "OCR": "[...] / [...]"
+        "OCR": "[...] / [...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2574+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400245"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3389,6 +4490,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1184",
       "Height": "441",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2573",
         "CIL Number": "XV 2573",
@@ -3396,7 +4498,15 @@
         "Publication": "XV 2573",
         "Language": "Latin",
         "Accession ID Number": "KO0127663",
-        "OCR": "F CRV"
+        "OCR": "F CRV",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2573"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400244"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3416,6 +4526,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1172",
       "Height": "469",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2573",
         "CIL Number": "XV 2573",
@@ -3423,7 +4534,15 @@
         "Publication": "XV 2573",
         "Language": "Latin",
         "Accession ID Number": "KO0127663",
-        "OCR": "[...]E CAV"
+        "OCR": "[...]E CAV",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2573"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400244"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3443,6 +4562,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "971",
       "Height": "549",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2754 e",
         "CIL Number": "XV 2754 e",
@@ -3450,7 +4570,12 @@
         "Publication": "XV 2754 e",
         "Language": "Latin",
         "Accession ID Number": "KO0127664",
-        "OCR": "L C M"
+        "OCR": "L C M",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2754+e"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3470,6 +4595,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1016",
       "Height": "541",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3085 b",
         "CIL Number": "XV 3085 b",
@@ -3477,7 +4603,12 @@
         "Publication": "XV 3085 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127666",
-        "OCR": "[...]ATERNI"
+        "OCR": "[...]ATERNI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3085+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3497,6 +4628,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1085",
       "Height": "552",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2617",
         "CIL Number": "XV 2617",
@@ -3504,7 +4636,12 @@
         "Publication": "XV 2617",
         "Language": "Latin",
         "Accession ID Number": "KO0127667",
-        "OCR": "[...]MOCV / [...]PALMA"
+        "OCR": "[...]MOCV / [...]PALMA",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2617"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3524,6 +4661,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "980",
       "Height": "598",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3129",
         "CIL Number": "XV 3129",
@@ -3531,7 +4669,15 @@
         "Publication": "XV 3129",
         "Language": "Latin",
         "Accession ID Number": "KO0127681",
-        "OCR": "[...]RTV"
+        "OCR": "[...]RTV",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3129"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500141"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3551,6 +4697,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1355",
       "Height": "376",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2944",
         "CIL Number": "XV 2944",
@@ -3558,7 +4705,15 @@
         "Publication": "XV 2944",
         "Language": "Latin",
         "Accession ID Number": "KO0127682",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2944"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500681"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3578,6 +4733,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1223",
       "Height": "436",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3094 f",
         "CIL Number": "XV 3094 f",
@@ -3585,7 +4741,15 @@
         "Publication": "XV 3094 f",
         "Language": "Latin",
         "Accession ID Number": "KO0127683",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3094+f"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43600246"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3605,6 +4769,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1390",
       "Height": "421",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2595 a",
         "CIL Number": "XV 2595 a",
@@ -3612,7 +4777,12 @@
         "Publication": "XV 2595 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127684",
-        "OCR": "L F C CV EX F"
+        "OCR": "L F C CV EX F",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2595+a"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3632,6 +4802,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "989",
       "Height": "585",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2777 a",
         "CIL Number": "XV 2777 a",
@@ -3639,7 +4810,15 @@
         "Publication": "XV 2777 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127685",
-        "OCR": "CAIS[...]"
+        "OCR": "CAIS[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2777+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501163"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3659,6 +4838,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "837",
       "Height": "657",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3169 b",
         "CIL Number": "XV 3169 b",
@@ -3666,7 +4846,12 @@
         "Publication": "XV 3169 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127686",
-        "OCR": "[...]F SCH / [...]NIAN"
+        "OCR": "[...]F SCH / [...]NIAN",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3169+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3686,6 +4871,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "975",
       "Height": "603",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2840 a",
         "CIL Number": "XV 2840 a",
@@ -3693,7 +4879,12 @@
         "Publication": "XV 2840 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127687",
-        "OCR": "D H[...]"
+        "OCR": "D H[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2840+a"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3713,6 +4904,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1035",
       "Height": "535",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3107",
         "CIL Number": "XV 3107",
@@ -3720,7 +4912,15 @@
         "Publication": "XV 3107",
         "Language": "Latin",
         "Accession ID Number": "KO0127688",
-        "OCR": "L C[...]"
+        "OCR": "L C[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3107"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500097"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3740,6 +4940,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1162",
       "Height": "487",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2695",
         "CIL Number": "XV 2695",
@@ -3747,7 +4948,12 @@
         "Publication": "XV 2695",
         "Language": "Latin",
         "Accession ID Number": "KO0127689",
-        "OCR": "F ALB LIC[...]"
+        "OCR": "F ALB LIC[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2695"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3767,6 +4973,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1243",
       "Height": "458",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2919 a",
         "CIL Number": "XV 2919 a",
@@ -3774,7 +4981,15 @@
         "Publication": "XV 2919 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127690",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2919+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500584"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3794,6 +5009,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1031",
       "Height": "539",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2788 c",
         "CIL Number": "XV 2788 c",
@@ -3801,7 +5017,12 @@
         "Publication": "XV 2788 c",
         "Language": "Latin",
         "Accession ID Number": "KO0127691",
-        "OCR": "CON[...]"
+        "OCR": "CON[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2788+c"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3821,6 +5042,7 @@
       "Date": "Oct. 25, 2017",
       "Width": "1109",
       "Height": "459",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2643 b",
         "CIL Number": "XV 2643 b",
@@ -3828,7 +5050,15 @@
         "Publication": "XV 2643 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127692",
-        "OCR": "[...]FAV[...]"
+        "OCR": "[...]FAV[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2643+b"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400663"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3848,6 +5078,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1279",
       "Height": "410",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2558 a",
         "CIL Number": "XV 2558 a",
@@ -3855,7 +5086,15 @@
         "Publication": "XV 2558 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127694",
-        "OCR": "AVGG NNN"
+        "OCR": "AVGG NNN",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2558+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400211"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3875,6 +5114,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1337",
       "Height": "460",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2575 e",
         "CIL Number": "XV 2575 e",
@@ -3882,7 +5122,12 @@
         "Publication": "XV 2575 e",
         "Language": "Latin",
         "Accession ID Number": "KO0127695",
-        "OCR": "[...]CIRCI"
+        "OCR": "[...]CIRCI",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2575+e"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3902,6 +5147,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "791",
       "Height": "522",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2831 b",
         "CIL Number": "XV 2831 b",
@@ -3909,7 +5155,15 @@
         "Publication": "XV 2831 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127696",
-        "OCR": "[...]TE[...]"
+        "OCR": "[...]TE[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2831+b"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501267"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3929,6 +5183,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1281",
       "Height": "390",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2828 a",
         "CIL Number": "XV 2828 a",
@@ -3936,7 +5191,15 @@
         "Publication": "XV 2828 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127697",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2828+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501261"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3956,6 +5219,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1190",
       "Height": "505",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3053",
         "CIL Number": "XV 3053",
@@ -3963,7 +5227,15 @@
         "Publication": "XV 3053",
         "Language": "Latin",
         "Accession ID Number": "KO0127698",
-        "OCR": "[...]CO[...]"
+        "OCR": "[...]CO[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3053"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43600155"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -3983,6 +5255,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1056",
       "Height": "485",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3100 c",
         "CIL Number": "XV 3100 c",
@@ -3990,7 +5263,15 @@
         "Publication": "XV 3100 c",
         "Language": "Latin",
         "Accession ID Number": "KO0127699",
-        "OCR": "A[...]"
+        "OCR": "A[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3100+c"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500075"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4010,6 +5291,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1130",
       "Height": "536",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3114 a",
         "CIL Number": "XV 3114 a",
@@ -4017,7 +5299,15 @@
         "Publication": "XV 3114 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127700",
-        "OCR": "C PA[...]"
+        "OCR": "C PA[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3114+a"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500112"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4037,6 +5327,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1033",
       "Height": "535",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2863 f",
         "CIL Number": "XV 2863 f",
@@ -4044,7 +5335,15 @@
         "Publication": "XV 2863 f",
         "Language": "Latin",
         "Accession ID Number": "KO0127701",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2863+f"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500487"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4064,6 +5363,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1046",
       "Height": "557",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2947 e",
         "CIL Number": "XV 2947 e",
@@ -4071,7 +5371,12 @@
         "Publication": "XV 2947 e",
         "Language": "Latin",
         "Accession ID Number": "KO0127702",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2947+e"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4091,6 +5396,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1578",
       "Height": "383",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2594 a",
         "CIL Number": "XV 2594 a",
@@ -4098,7 +5404,12 @@
         "Publication": "XV 2594 a",
         "Language": "Latin",
         "Accession ID Number": "KO0127703",
-        "OCR": "L E C CV F S"
+        "OCR": "L E C CV F S",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2594+a"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4118,6 +5429,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1235",
       "Height": "463",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2669",
         "CIL Number": "XV 2669",
@@ -4125,7 +5437,15 @@
         "Publication": "XV 2669",
         "Language": "Latin",
         "Accession ID Number": "KO0127704",
-        "OCR": "PAT"
+        "OCR": "PAT",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2669"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43400722"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4145,6 +5465,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "962",
       "Height": "576",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2966 b",
         "CIL Number": "XV 2966 b",
@@ -4152,7 +5473,12 @@
         "Publication": "XV 2966 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127709",
-        "OCR": "NIM / [...]S S[...]"
+        "OCR": "NIM / [...]S S[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2966+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4172,6 +5498,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1366",
       "Height": "416",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2589 d",
         "CIL Number": "XV 2589 d",
@@ -4179,7 +5506,15 @@
         "Publication": "XV 2589 d",
         "Language": "Latin",
         "Accession ID Number": "KO0127710",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2589+d"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/42400316"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4199,6 +5534,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1295",
       "Height": "409",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2970",
         "CIL Number": "XV 2970",
@@ -4206,7 +5542,15 @@
         "Publication": "XV 2970",
         "Language": "Latin",
         "Accession ID Number": "KO0127711",
-        "OCR": "[...]L D V"
+        "OCR": "[...]L D V",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2970"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43500755"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4226,6 +5570,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1261",
       "Height": "423",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2833 t",
         "CIL Number": "XV 2833 t",
@@ -4233,7 +5578,15 @@
         "Publication": "XV 2833 t",
         "Language": "Latin",
         "Accession ID Number": "KO0127712",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2833+t"
+          },
+          {
+            "url": "https://edcs.hist.uzh.ch/monument/43501309"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4253,6 +5606,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1196",
       "Height": "491",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2833 s",
         "CIL Number": "XV 2833 s",
@@ -4260,7 +5614,12 @@
         "Publication": "XV 2833 s",
         "Language": "Latin",
         "Accession ID Number": "KO0127656",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2833+s"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4280,6 +5639,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1030",
       "Height": "579",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2748 b",
         "CIL Number": "XV 2748 b",
@@ -4287,7 +5647,12 @@
         "Publication": "XV 2748 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127652",
-        "OCR": "L C H E"
+        "OCR": "L C H E",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2748+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4307,6 +5672,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "905",
       "Height": "573",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 2966 b",
         "CIL Number": "XV 2966 b",
@@ -4314,7 +5680,12 @@
         "Publication": "XV 2966 b",
         "Language": "Latin",
         "Accession ID Number": "KO0127709",
-        "OCR": "L IVNIN / BLIS S"
+        "OCR": "L IVNIN / BLIS S",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+2966+b"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",
@@ -4334,6 +5705,7 @@
       "Date": "Oct. 26, 2017",
       "Width": "1167",
       "Height": "478",
+      "Digitized by": "Marcus Dohnicht",
       "Inscription": {
         "Title": "CIL XV 3246",
         "CIL Number": "XV 3246",
@@ -4341,7 +5713,12 @@
         "Publication": "XV 3246",
         "Language": "Latin",
         "Accession ID Number": "KO0127713",
-        "OCR": "[...]"
+        "OCR": "[...]",
+        "Sources": [
+          {
+            "url": "https://cil.bbaw.de/ace/search?name=XV+3246"
+          }
+        ]
       },
       "Squeeze": {
         "Description": "Squeeze (ectypum) of the inscription, made of paper.",

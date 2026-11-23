@@ -3,7 +3,10 @@
 	<field id="26" value="CIL XV 2558 a"></field>
 	<field id="1" value="XV 2558 a"></field>
 	<field id="18" value="Instrumentum domesticum"></field>
-	<field id="20" value="XV 2558 a"></field>
+	<field id="20" value="XV 2558 a">
+		<source url="https://cil.bbaw.de/ace/search?name=XV+2558+a"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/42400211"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0127694"></field>
 	<field id="460" value="AVGG NNN"></field>

@@ -3,7 +3,10 @@
 	<field id="26" value="CIL VI 10021"></field>
 	<field id="1" value="VI 10021"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="VI 10021 cf. VI p. 3429 et VI p. 3896 = CLE 839"></field>
+	<field id="20" value="VI 10021 cf. VI p. 3429 et VI p. 3896 = CLE 839">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+839"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/19200292"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001682"></field>
 	<field id="460" value="LAETVS ATHENAIS / LAETIA / DE CAPITOLIO / [...] / VITA BONA FVIT MORS EXITV / HONESTO"></field>

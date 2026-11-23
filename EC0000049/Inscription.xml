@@ -2,7 +2,10 @@
 <record>
 	<field id="26" value="ICVR n. s. I 52"></field>
 	<field id="18" value="Carmen epigraphicum (Latin verse inscription)"></field>
-	<field id="20" value="ICVR n. s. I 52 = ICVR n. s. IV 12631 = CLE 2291 = ILCV 4787"></field>
+	<field id="20" value="ICVR n. s. I 52 = ICVR n. s. IV 12631 = CLE 2291 = ILCV 4787">
+		<source url="https://cil.bbaw.de/ace/search?name=CLE+2291"></source>
+		<source url="https://edcs.hist.uzh.ch/monument/35100460"></source>
+	</field>
 	<field id="19" value="Latin"></field>
 	<field id="47" value="KO0001702"></field>
 	<field id="460" value="[...] / [...]ELIX ERVS / [...]S SERVATA DI[...] / [...]I SENSVS SIT IB[...] / [...]T PATRIVS A[...] / [...]"></field>
